@@ -1,0 +1,2495 @@
+//
+// Icon Font: gamefont
+//
+
+@font-face {
+  font-family: "gamefont";
+  src: font-url("gamefont_601e52626910e2c24b700cd8866cf050.eot");
+  src: font-url("gamefont_601e52626910e2c24b700cd8866cf050.eot?#iefix") format("embedded-opentype"),
+       font-url("gamefont_601e52626910e2c24b700cd8866cf050.woff") format("woff"),
+       font-url("gamefont_601e52626910e2c24b700cd8866cf050.ttf") format("truetype"),
+       font-url("gamefont_601e52626910e2c24b700cd8866cf050.svg#gamefont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "gamefont";
+    src: url("gamefont_601e52626910e2c24b700cd8866cf050.svg#gamefont") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.gf-ace:before,
+.gf-acid:before,
+.gf-acid-blob:before,
+.gf-acid-tube:before,
+.gf-acorn:before,
+.gf-aerial-signal:before,
+.gf-aerosol:before,
+.gf-afterburn:before,
+.gf-alien-skull:before,
+.gf-all-for-one:before,
+.gf-alligator-clip:before,
+.gf-ammo-box:before,
+.gf-ammonite:before,
+.gf-ammonite-fossil:before,
+.gf-anatomy:before,
+.gf-anchor:before,
+.gf-andromeda-chain:before,
+.gf-angel-outfit:before,
+.gf-angel-wings:before,
+.gf-angler-fish:before,
+.gf-angular-spider:before,
+.gf-animal-skull:before,
+.gf-ankh:before,
+.gf-anthem:before,
+.gf-anvil:before,
+.gf-anvil-impact:before,
+.gf-apple-maggot:before,
+.gf-apple-seeds:before,
+.gf-aquarius:before,
+.gf-archery-target:before,
+.gf-architect-mask:before,
+.gf-arcing-bolt:before,
+.gf-arena:before,
+.gf-aries:before,
+.gf-armadillo-tail:before,
+.gf-armoured-shell:before,
+.gf-arrow-cluster:before,
+.gf-arrow-flights:before,
+.gf-arrowed:before,
+.gf-arrowhead:before,
+.gf-arrows-shield:before,
+.gf-arson:before,
+.gf-artificial-hive:before,
+.gf-at-sea:before,
+.gf-atomic-slashes:before,
+.gf-aubergine:before,
+.gf-aura:before,
+.gf-auto-repair:before,
+.gf-autogun:before,
+.gf-awareness:before,
+.gf-axe-in-stump:before,
+.gf-axe-swing:before,
+.gf-back-forth:before,
+.gf-back-pain:before,
+.gf-backstab:before,
+.gf-backup:before,
+.gf-balloons:before,
+.gf-bandage-roll:before,
+.gf-bandaged:before,
+.gf-barbed-arrow:before,
+.gf-barbed-spear:before,
+.gf-barbed-wire:before,
+.gf-barbute:before,
+.gf-barefoot:before,
+.gf-bat-blade:before,
+.gf-bat-wing:before,
+.gf-battered-axe:before,
+.gf-batteries:before,
+.gf-battery-pack:before,
+.gf-battery-pack-alt:before,
+.gf-battle-axe:before,
+.gf-battle-gear:before,
+.gf-batwing-emblem:before,
+.gf-beam-wake:before,
+.gf-beams-aura:before,
+.gf-beanstalk:before,
+.gf-beard:before,
+.gf-beast-eye:before,
+.gf-bee:before,
+.gf-beech:before,
+.gf-beer-stein:before,
+.gf-beetle-shell:before,
+.gf-behold:before,
+.gf-belt-buckles:before,
+.gf-bestial-fangs:before,
+.gf-big-egg:before,
+.gf-big-wave:before,
+.gf-biohazard:before,
+.gf-bird-claw:before,
+.gf-bird-mask:before,
+.gf-bird-twitter:before,
+.gf-black-bar:before,
+.gf-black-cat:before,
+.gf-black-flag:before,
+.gf-black-hole-bolas:before,
+.gf-blackball:before,
+.gf-blackcurrant:before,
+.gf-blade-bite:before,
+.gf-blade-fall:before,
+.gf-blast:before,
+.gf-blaster:before,
+.gf-bleeding-eye:before,
+.gf-bleeding-heart:before,
+.gf-bloody-stash:before,
+.gf-blunderbuss:before,
+.gf-boar-tusks:before,
+.gf-boiling-bubbles:before,
+.gf-bolas:before,
+.gf-bolt-shield:before,
+.gf-bolter-gun:before,
+.gf-bombing-run:before,
+.gf-bone-gnawer:before,
+.gf-bone-knife:before,
+.gf-book-aura:before,
+.gf-book-cover:before,
+.gf-book-storm:before,
+.gf-bookmark:before,
+.gf-bookmarklet:before,
+.gf-boomerang:before,
+.gf-boot-prints:before,
+.gf-boot-stomp:before,
+.gf-boots:before,
+.gf-bottle-vapors:before,
+.gf-bottled-bolt:before,
+.gf-bottom-right-3d-arrow:before,
+.gf-bowie-knife:before,
+.gf-bowling-pin:before,
+.gf-bowling-propulsion:before,
+.gf-bowman:before,
+.gf-boxing-glove:before,
+.gf-boxing-glove-surprise:before,
+.gf-brain:before,
+.gf-brain-freeze:before,
+.gf-brain-stem:before,
+.gf-brainstorm:before,
+.gf-brandy-bottle:before,
+.gf-brass-eye:before,
+.gf-breastplate:before,
+.gf-bridge:before,
+.gf-broadhead-arrow:before,
+.gf-broadsword:before,
+.gf-broken-bone:before,
+.gf-broken-bottle:before,
+.gf-broken-heart:before,
+.gf-broken-shield:before,
+.gf-broken-skull:before,
+.gf-broken-tablet:before,
+.gf-brutal-helm:before,
+.gf-bubble-field:before,
+.gf-bubbling-flask:before,
+.gf-bud:before,
+.gf-bugle-call:before,
+.gf-bulb:before,
+.gf-bull:before,
+.gf-bull-horns:before,
+.gf-bullets:before,
+.gf-burn:before,
+.gf-burning-book:before,
+.gf-burning-dot:before,
+.gf-burning-embers:before,
+.gf-burning-eye:before,
+.gf-burning-meteor:before,
+.gf-burning-passion:before,
+.gf-burning-round-shot:before,
+.gf-burning-tree:before,
+.gf-burst-blob:before,
+.gf-butterfly:before,
+.gf-butterfly-warning:before,
+.gf-cake-slice:before,
+.gf-caldera:before,
+.gf-campfire:before,
+.gf-cancel:before,
+.gf-cancer:before,
+.gf-candle-flame:before,
+.gf-candle-holder:before,
+.gf-candle-light:before,
+.gf-candle-skull:before,
+.gf-candlebright:before,
+.gf-cannister:before,
+.gf-cannon:before,
+.gf-cannon-ball:before,
+.gf-cannon-shot:before,
+.gf-capitol:before,
+.gf-capricorn:before,
+.gf-cargo-crane:before,
+.gf-carillon:before,
+.gf-carrion:before,
+.gf-cartwheel:before,
+.gf-cash:before,
+.gf-castle:before,
+.gf-cauldron:before,
+.gf-cctv-camera:before,
+.gf-centipede:before,
+.gf-chained-heart:before,
+.gf-chaingun:before,
+.gf-chalice-drops:before,
+.gf-charm:before,
+.gf-checkbox-tree:before,
+.gf-checked-shield:before,
+.gf-cheerful:before,
+.gf-cheese-wedge:before,
+.gf-chemical-arrow:before,
+.gf-chemical-bolt:before,
+.gf-chemical-drop:before,
+.gf-chemical-tank:before,
+.gf-chicken-leg:before,
+.gf-circuitry:before,
+.gf-circular-saw:before,
+.gf-circular-sawblade:before,
+.gf-claw:before,
+.gf-claw-hammer:before,
+.gf-cloak-dagger:before,
+.gf-clockwork:before,
+.gf-clout:before,
+.gf-clover:before,
+.gf-clover-spiked:before,
+.gf-cluster-bomb:before,
+.gf-cobweb:before,
+.gf-coffee-mug:before,
+.gf-coffin:before,
+.gf-cog:before,
+.gf-cog-lock:before,
+.gf-cogsplosion:before,
+.gf-coiling-curl:before,
+.gf-cold-heart:before,
+.gf-coma:before,
+.gf-comb:before,
+.gf-compass:before,
+.gf-condylura-skull:before,
+.gf-conversation:before,
+.gf-cool-spices:before,
+.gf-corked-tube:before,
+.gf-cowled:before,
+.gf-crab:before,
+.gf-crab-claw:before,
+.gf-cracked-disc:before,
+.gf-cracked-glass:before,
+.gf-cracked-helm:before,
+.gf-cracked-mask:before,
+.gf-cracked-saber:before,
+.gf-cracked-shield:before,
+.gf-crags:before,
+.gf-crenulated-shield:before,
+.gf-crested-helmet:before,
+.gf-croc-jaws:before,
+.gf-croc-sword:before,
+.gf-crossbow:before,
+.gf-crossed-axes:before,
+.gf-crossed-bones:before,
+.gf-crossed-chains:before,
+.gf-crossed-claws:before,
+.gf-crossed-pistols:before,
+.gf-crossed-sabres:before,
+.gf-crossed-slashes:before,
+.gf-crossed-swords:before,
+.gf-crow-dive:before,
+.gf-crown:before,
+.gf-crown-coin:before,
+.gf-crown-of-thorns:before,
+.gf-crowned-explosion:before,
+.gf-crowned-heart:before,
+.gf-crowned-skull:before,
+.gf-crush:before,
+.gf-crystal-ball:before,
+.gf-crystal-cluster:before,
+.gf-crystal-eye:before,
+.gf-crystal-growth:before,
+.gf-crystal-shine:before,
+.gf-crystal-wand:before,
+.gf-crystalize:before,
+.gf-cubeforce:before,
+.gf-cubes:before,
+.gf-curled-leaf:before,
+.gf-curled-tentacle:before,
+.gf-curling-vines:before,
+.gf-curly-wing:before,
+.gf-curvy-knife:before,
+.gf-cut-diamond:before,
+.gf-cut-palm:before,
+.gf-cycle:before,
+.gf-cyclops:before,
+.gf-daggers:before,
+.gf-daisy:before,
+.gf-dark-squad:before,
+.gf-dead-eye:before,
+.gf-dead-wood:before,
+.gf-death-note:before,
+.gf-death-skull:before,
+.gf-death-zone:before,
+.gf-deathcab:before,
+.gf-decapitation:before,
+.gf-defibrilate:before,
+.gf-demolish:before,
+.gf-dervish-swords:before,
+.gf-desert-skull:before,
+.gf-desk-lamp:before,
+.gf-despair:before,
+.gf-diablo-skull:before,
+.gf-diamond-hard:before,
+.gf-dice-six-faces-five:before,
+.gf-dice-six-faces-four:before,
+.gf-dice-six-faces-one:before,
+.gf-dice-six-faces-six:before,
+.gf-dice-six-faces-three:before,
+.gf-dice-six-faces-two:before,
+.gf-dig-dug:before,
+.gf-dinosaur-bones:before,
+.gf-dinosaur-egg:before,
+.gf-dinosaur-rex:before,
+.gf-disintegrate:before,
+.gf-distraction:before,
+.gf-divergence:before,
+.gf-divert:before,
+.gf-diving-dagger:before,
+.gf-dna1:before,
+.gf-dna2:before,
+.gf-doctor-face:before,
+.gf-dodge:before,
+.gf-domino-mask:before,
+.gf-double-dragon:before,
+.gf-double-quaver:before,
+.gf-double-shot:before,
+.gf-doubled:before,
+.gf-dove:before,
+.gf-dozen:before,
+.gf-dragon-balls:before,
+.gf-dragon-breath:before,
+.gf-dragon-head:before,
+.gf-dragon-spiral:before,
+.gf-dragonfly:before,
+.gf-drama-masks:before,
+.gf-drill:before,
+.gf-drink-me:before,
+.gf-dripping-blade:before,
+.gf-dripping-goo:before,
+.gf-dripping-honey:before,
+.gf-dripping-knife:before,
+.gf-dripping-stone:before,
+.gf-drop:before,
+.gf-droplet-splash:before,
+.gf-droplets:before,
+.gf-drowning:before,
+.gf-duality:before,
+.gf-duel:before,
+.gf-eagle-emblem:before,
+.gf-earth-crack:before,
+.gf-earth-spit:before,
+.gf-eclipse:before,
+.gf-edge-crack:before,
+.gf-edged-shield:before,
+.gf-egg-clutch:before,
+.gf-egg-pod:before,
+.gf-elderberry:before,
+.gf-ember-shot:before,
+.gf-embryo:before,
+.gf-emerald:before,
+.gf-empty-hourglass:before,
+.gf-energise:before,
+.gf-energy-arrow:before,
+.gf-energy-shield:before,
+.gf-energy-sword:before,
+.gf-engagement-ring:before,
+.gf-ent-mouth:before,
+.gf-envelope:before,
+.gf-erlenmeyer:before,
+.gf-eruption:before,
+.gf-eskimo:before,
+.gf-evil-book:before,
+.gf-evil-fork:before,
+.gf-evil-moon:before,
+.gf-evil-tree:before,
+.gf-evil-wings:before,
+.gf-expander:before,
+.gf-explosive-materials:before,
+.gf-extra-lucid:before,
+.gf-eye-shield:before,
+.gf-eyeball:before,
+.gf-eyedropper:before,
+.gf-eyestalk:before,
+.gf-fairy:before,
+.gf-fairy-wand:before,
+.gf-fall-down:before,
+.gf-falling:before,
+.gf-falling-eye:before,
+.gf-falling-leaf:before,
+.gf-fanged-skull:before,
+.gf-feather:before,
+.gf-feathered-wing:before,
+.gf-fedora:before,
+.gf-female:before,
+.gf-field:before,
+.gf-fire:before,
+.gf-fire-ace:before,
+.gf-fire-axe:before,
+.gf-fire-bomb:before,
+.gf-fire-bottle:before,
+.gf-fire-bowl:before,
+.gf-fire-breath:before,
+.gf-fire-punch:before,
+.gf-fire-ring:before,
+.gf-fire-shield:before,
+.gf-fire-wave:before,
+.gf-fireball:before,
+.gf-fireflake:before,
+.gf-firework-rocket:before,
+.gf-fishbone:before,
+.gf-fishing-hook:before,
+.gf-fishing-net:before,
+.gf-fist:before,
+.gf-fizzing-flask:before,
+.gf-flake:before,
+.gf-flame:before,
+.gf-flame-spin:before,
+.gf-flame-tunnel:before,
+.gf-flamer:before,
+.gf-flaming-arrow:before,
+.gf-flaming-claw:before,
+.gf-flaming-trident:before,
+.gf-flash-grenade:before,
+.gf-flat-hammer:before,
+.gf-fleshy-mass:before,
+.gf-flexible-star:before,
+.gf-floating-crystal:before,
+.gf-flower-pot:before,
+.gf-flowers:before,
+.gf-fluffy-cloud:before,
+.gf-fluffy-swirl:before,
+.gf-fluffy-wing:before,
+.gf-flying-dagger:before,
+.gf-flying-flag:before,
+.gf-foam:before,
+.gf-focused-lightning:before,
+.gf-folded-paper:before,
+.gf-food-chain:before,
+.gf-foot-trip:before,
+.gf-footprint:before,
+.gf-forward-field:before,
+.gf-fossil:before,
+.gf-fountain:before,
+.gf-fountain-pen:before,
+.gf-fox-head:before,
+.gf-fragrance:before,
+.gf-frankenstein-creature:before,
+.gf-freedom-dove:before,
+.gf-frog:before,
+.gf-front-teeth:before,
+.gf-frontal-lobe:before,
+.gf-frostfire:before,
+.gf-frozen-arrow:before,
+.gf-frozen-block:before,
+.gf-frozen-orb:before,
+.gf-fruiting:before,
+.gf-galleon:before,
+.gf-gamepad-cross:before,
+.gf-gas-mask:before,
+.gf-gavel:before,
+.gf-gaze:before,
+.gf-gear-hammer:before,
+.gf-gears:before,
+.gf-gecko:before,
+.gf-gem-chain:before,
+.gf-gem-necklace:before,
+.gf-gem-pendant:before,
+.gf-gemini:before,
+.gf-gems:before,
+.gf-ghost:before,
+.gf-gibbet:before,
+.gf-gift-of-knowledge:before,
+.gf-gift-trap:before,
+.gf-glass-heart:before,
+.gf-glass-shot:before,
+.gf-globe:before,
+.gf-gloop:before,
+.gf-glowing-hands:before,
+.gf-gluttonous-smile:before,
+.gf-gluttony:before,
+.gf-gold-scarab:before,
+.gf-goo-explosion:before,
+.gf-goo-skull:before,
+.gf-goo-spurt:before,
+.gf-gooey-daemon:before,
+.gf-gooey-eyed-sun:before,
+.gf-gooey-impact:before,
+.gf-gooey-sword:before,
+.gf-grab:before,
+.gf-grapes:before,
+.gf-grasping-claws:before,
+.gf-grease-trap:before,
+.gf-grenade:before,
+.gf-grim-reaper:before,
+.gf-groundbreaker:before,
+.gf-guarded-tower:before,
+.gf-guillotine:before,
+.gf-guitar:before,
+.gf-gunshot:before,
+.gf-halberd:before,
+.gf-halberd-shuriken:before,
+.gf-half-heart:before,
+.gf-hammer-drop:before,
+.gf-hammer-nails:before,
+.gf-hand:before,
+.gf-hand-of-god:before,
+.gf-handcuffs:before,
+.gf-hanging-spider:before,
+.gf-harpoon-chain:before,
+.gf-harpoon-trident:before,
+.gf-harpy:before,
+.gf-hatchets:before,
+.gf-haunting:before,
+.gf-hazard-sign:before,
+.gf-head-shot:before,
+.gf-headshot:before,
+.gf-health-decrease:before,
+.gf-health-increase:before,
+.gf-health-normal:before,
+.gf-heart-bottle:before,
+.gf-heart-drop:before,
+.gf-heart-inside:before,
+.gf-heart-organ:before,
+.gf-heart-tower:before,
+.gf-heartburn:before,
+.gf-heat-haze:before,
+.gf-heavy-arrow:before,
+.gf-heavy-helm:before,
+.gf-heavy-rain:before,
+.gf-helmet:before,
+.gf-help:before,
+.gf-hidden:before,
+.gf-high-shot:before,
+.gf-hive:before,
+.gf-hole-ladder:before,
+.gf-holy-grail:before,
+.gf-holy-symbol:before,
+.gf-honeycomb:before,
+.gf-honeypot:before,
+.gf-hood:before,
+.gf-hoof:before,
+.gf-horn-internal:before,
+.gf-horned-helm:before,
+.gf-horned-skull:before,
+.gf-horse-head:before,
+.gf-horseshoe:before,
+.gf-hospital-cross:before,
+.gf-hot-spices:before,
+.gf-hot-surface:before,
+.gf-hound:before,
+.gf-hourglass:before,
+.gf-hunting-horn:before,
+.gf-hydra:before,
+.gf-hydra-shot:before,
+.gf-hypersonic-bolt:before,
+.gf-hypodermic-test:before,
+.gf-ice-bolt:before,
+.gf-ice-bomb:before,
+.gf-ice-cube:before,
+.gf-ice-shield:before,
+.gf-ice-spear:before,
+.gf-icebergs:before,
+.gf-ifrit:before,
+.gf-imbricated-arrows:before,
+.gf-imp:before,
+.gf-imp-laugh:before,
+.gf-impact-point:before,
+.gf-implosion:before,
+.gf-imprisoned:before,
+.gf-incense:before,
+.gf-incisors:before,
+.gf-infested-mass:before,
+.gf-ink-swirl:before,
+.gf-inner-self:before,
+.gf-insect-jaws:before,
+.gf-interdiction:before,
+.gf-internal-injury:before,
+.gf-internal-organ:before,
+.gf-invisible:before,
+.gf-invisible-face:before,
+.gf-iron-mask:before,
+.gf-james-bond-aperture:before,
+.gf-jawbone:before,
+.gf-jellyfish:before,
+.gf-jet-pack:before,
+.gf-jetpack:before,
+.gf-jeweled-chalice:before,
+.gf-jigsaw-box:before,
+.gf-jigsaw-piece:before,
+.gf-journey:before,
+.gf-juggler:before,
+.gf-kaleidoscope-pearls:before,
+.gf-kevlar:before,
+.gf-key:before,
+.gf-kindle:before,
+.gf-king:before,
+.gf-kitchen-knives:before,
+.gf-knapsack:before,
+.gf-knife-fork:before,
+.gf-knife-thrust:before,
+.gf-lamellar:before,
+.gf-lamprey-mouth:before,
+.gf-land-mine:before,
+.gf-lantern:before,
+.gf-lantern-flame:before,
+.gf-laser-blast:before,
+.gf-laser-gun:before,
+.gf-laser-sparks:before,
+.gf-laser-warning:before,
+.gf-laserburn:before,
+.gf-laurel-crown:before,
+.gf-laurels:before,
+.gf-lava:before,
+.gf-law-star:before,
+.gf-layered-armor:before,
+.gf-leaf-skeleton:before,
+.gf-leaf-swirl:before,
+.gf-leaky-skull:before,
+.gf-leather-boot:before,
+.gf-leeching-worm:before,
+.gf-leo:before,
+.gf-letter-bomb:before,
+.gf-level-four:before,
+.gf-level-four-advanced:before,
+.gf-level-three:before,
+.gf-level-three-advanced:before,
+.gf-level-two:before,
+.gf-level-two-advanced:before,
+.gf-lever:before,
+.gf-libra:before,
+.gf-life-in-the-balance:before,
+.gf-life-support:before,
+.gf-life-tap:before,
+.gf-lift:before,
+.gf-light-bulb:before,
+.gf-lightning-arc:before,
+.gf-lightning-bow:before,
+.gf-lightning-branches:before,
+.gf-lightning-frequency:before,
+.gf-lightning-helix:before,
+.gf-lightning-shield:before,
+.gf-lightning-shout:before,
+.gf-lightning-storm:before,
+.gf-lightning-tear:before,
+.gf-linked-rings:before,
+.gf-lion:before,
+.gf-lips:before,
+.gf-lit-candelabra:before,
+.gf-lizard-tongue:before,
+.gf-lizardman:before,
+.gf-lob-arrow:before,
+.gf-locked-chest:before,
+.gf-locked-fortress:before,
+.gf-lotus:before,
+.gf-lotus-flower:before,
+.gf-love-howl:before,
+.gf-love-song:before,
+.gf-lucifer-cannon:before,
+.gf-lyre:before,
+.gf-mace-head:before,
+.gf-machete:before,
+.gf-mad-scientist:before,
+.gf-maggot:before,
+.gf-magic-gate:before,
+.gf-magic-lamp:before,
+.gf-magic-palm:before,
+.gf-magic-portal:before,
+.gf-magic-shield:before,
+.gf-magic-swirl:before,
+.gf-magnet:before,
+.gf-magnet-blast:before,
+.gf-magnifying-glass:before,
+.gf-mail-shirt:before,
+.gf-mailed-fist:before,
+.gf-male:before,
+.gf-manacles:before,
+.gf-mantrap:before,
+.gf-maple-leaf:before,
+.gf-marrow-drain:before,
+.gf-martini:before,
+.gf-masked-spider:before,
+.gf-mass-driver:before,
+.gf-match-head:before,
+.gf-materials-science:before,
+.gf-maze:before,
+.gf-meat:before,
+.gf-meat-cleaver:before,
+.gf-meat-hook:before,
+.gf-mechanical-arm:before,
+.gf-medal:before,
+.gf-medal-skull:before,
+.gf-medical-pack:before,
+.gf-medical-pack-alt:before,
+.gf-meditation:before,
+.gf-mesh-ball:before,
+.gf-metal-bar:before,
+.gf-metal-disc:before,
+.gf-metal-hand:before,
+.gf-meteor-impact:before,
+.gf-microchip:before,
+.gf-mineral-heart:before,
+.gf-minigun:before,
+.gf-mining:before,
+.gf-minions:before,
+.gf-minotaur:before,
+.gf-miracle-medecine:before,
+.gf-mirror-mirror:before,
+.gf-missile-mech:before,
+.gf-missile-pod:before,
+.gf-missile-swarm:before,
+.gf-mite:before,
+.gf-mite-alt:before,
+.gf-moebius-star:before,
+.gf-moebius-triangle:before,
+.gf-molecule:before,
+.gf-molotov:before,
+.gf-monkey:before,
+.gf-moon:before,
+.gf-morbid-humour:before,
+.gf-mountain-cave:before,
+.gf-mountains:before,
+.gf-mountaintop:before,
+.gf-mouse:before,
+.gf-mouth-watering:before,
+.gf-movement-sensor:before,
+.gf-mucous-pillar:before,
+.gf-muscle-fat:before,
+.gf-muscle-up:before,
+.gf-mushroom:before,
+.gf-mushroom-cloud:before,
+.gf-mushroom-gills:before,
+.gf-nailed-foot:before,
+.gf-nailed-head:before,
+.gf-nails:before,
+.gf-needle-drill:before,
+.gf-needle-jaws:before,
+.gf-night-sky:before,
+.gf-ninja-mask:before,
+.gf-nodular:before,
+.gf-nothing-to-say:before,
+.gf-nuclear:before,
+.gf-oak:before,
+.gf-octopus:before,
+.gf-omega:before,
+.gf-on-target:before,
+.gf-one-eyed:before,
+.gf-open-book:before,
+.gf-open-wound:before,
+.gf-ophiuchus:before,
+.gf-oppression:before,
+.gf-orbital:before,
+.gf-ouroboros:before,
+.gf-over-infinity:before,
+.gf-overdose:before,
+.gf-overdrive:before,
+.gf-overhead:before,
+.gf-overkill:before,
+.gf-overmind:before,
+.gf-owl:before,
+.gf-padlock:before,
+.gf-palm:before,
+.gf-paper:before,
+.gf-paper-bomb:before,
+.gf-paper-lantern:before,
+.gf-papers:before,
+.gf-parachute:before,
+.gf-paranoia:before,
+.gf-parmecia:before,
+.gf-parrot-head:before,
+.gf-paw:before,
+.gf-paw-heart:before,
+.gf-pawn:before,
+.gf-pawprint:before,
+.gf-perfume-bottle:before,
+.gf-perspective-dice-six-faces-five:before,
+.gf-perspective-dice-six-faces-four:before,
+.gf-perspective-dice-six-faces-one:before,
+.gf-perspective-dice-six-faces-random:before,
+.gf-perspective-dice-six-faces-six:before,
+.gf-perspective-dice-six-faces-three:before,
+.gf-perspective-dice-six-faces-two:before,
+.gf-pie-slice:before,
+.gf-pierced-body:before,
+.gf-pierced-heart:before,
+.gf-pill:before,
+.gf-pill-drop:before,
+.gf-pincers:before,
+.gf-pine-tree:before,
+.gf-ping-pong-bat:before,
+.gf-pirate-grave:before,
+.gf-pirate-skull:before,
+.gf-pisces:before,
+.gf-pistol-gun:before,
+.gf-pizza-cutter:before,
+.gf-plain-dagger:before,
+.gf-plasma-bolt:before,
+.gf-plastron:before,
+.gf-pocket-bow:before,
+.gf-podium:before,
+.gf-pointing:before,
+.gf-pointy-hat:before,
+.gf-poison:before,
+.gf-poison-bottle:before,
+.gf-poison-cloud:before,
+.gf-poison-gas:before,
+.gf-poker-hand:before,
+.gf-pollen-dust:before,
+.gf-portculis:before,
+.gf-potion-ball:before,
+.gf-pounce:before,
+.gf-pouring-chalice:before,
+.gf-powder:before,
+.gf-prayer:before,
+.gf-pretty-fangs:before,
+.gf-profit:before,
+.gf-psychic-waves:before,
+.gf-pulse:before,
+.gf-pummeled:before,
+.gf-pumpkin-lantern:before,
+.gf-pumpkin-mask:before,
+.gf-punch:before,
+.gf-puppet:before,
+.gf-pyromaniac:before,
+.gf-quake-stomp:before,
+.gf-queen-crown:before,
+.gf-quick-slash:before,
+.gf-quicksand:before,
+.gf-quill:before,
+.gf-quill-ink:before,
+.gf-radar-dish:before,
+.gf-radar-sweep:before,
+.gf-radial-balance:before,
+.gf-radioactive:before,
+.gf-ragged-wound:before,
+.gf-rainbow-star:before,
+.gf-raining:before,
+.gf-rally-the-troops:before,
+.gf-ram:before,
+.gf-rapidshare-arrow:before,
+.gf-raven:before,
+.gf-ray-gun:before,
+.gf-razor-blade:before,
+.gf-reactor:before,
+.gf-reaper-scythe:before,
+.gf-recycle:before,
+.gf-regeneration:before,
+.gf-relic-blade:before,
+.gf-reticule:before,
+.gf-revolt:before,
+.gf-ribbon:before,
+.gf-ribcage:before,
+.gf-rifle:before,
+.gf-ringed-planet:before,
+.gf-ringing-bell:before,
+.gf-riot-shield:before,
+.gf-roast-chicken:before,
+.gf-robe:before,
+.gf-robot-golem:before,
+.gf-rock:before,
+.gf-rocket:before,
+.gf-rocket-flight:before,
+.gf-rogue:before,
+.gf-rolling-bomb:before,
+.gf-rose:before,
+.gf-round-bottom-flask:before,
+.gf-rss:before,
+.gf-run:before,
+.gf-rune-stone:before,
+.gf-rune-sword:before,
+.gf-saber-slash:before,
+.gf-saber-tooth:before,
+.gf-sacrificial-dagger:before,
+.gf-sad-crab:before,
+.gf-sagittarius:before,
+.gf-salamander:before,
+.gf-salt-shaker:before,
+.gf-sands-of-time:before,
+.gf-saphir:before,
+.gf-sattelite:before,
+.gf-saw-claw:before,
+.gf-scale-mail:before,
+.gf-scales:before,
+.gf-scallop:before,
+.gf-scalpel:before,
+.gf-scalpel-strike:before,
+.gf-scarab-beetle:before,
+.gf-scarecrow:before,
+.gf-scissors:before,
+.gf-scorpio:before,
+.gf-scorpion:before,
+.gf-scorpion-tail:before,
+.gf-screaming:before,
+.gf-screwdriver:before,
+.gf-scroll-unfurled:before,
+.gf-scythe:before,
+.gf-sea-dragon:before,
+.gf-sea-serpent:before,
+.gf-seated-mouse:before,
+.gf-select:before,
+.gf-semi-closed-eye:before,
+.gf-sentry-gun:before,
+.gf-serrated-slash:before,
+.gf-sewing-needle:before,
+.gf-shard-sword:before,
+.gf-shark-jaws:before,
+.gf-sharp-crown:before,
+.gf-sharp-smile:before,
+.gf-shatter:before,
+.gf-shattered-glass:before,
+.gf-shattered-sword:before,
+.gf-shield:before,
+.gf-shield-echoes:before,
+.gf-shield-reflect:before,
+.gf-shieldcomb:before,
+.gf-shining-claw:before,
+.gf-shining-heart:before,
+.gf-shining-sword:before,
+.gf-shiny-apple:before,
+.gf-shiny-iris:before,
+.gf-shiny-purse:before,
+.gf-shotgun:before,
+.gf-shoulder-scales:before,
+.gf-shouting:before,
+.gf-shuriken:before,
+.gf-sickle:before,
+.gf-sideswipe:before,
+.gf-silence:before,
+.gf-sing:before,
+.gf-six-eyes:before,
+.gf-skeleton-inside:before,
+.gf-skeleton-key:before,
+.gf-skid-mark:before,
+.gf-skull-bolt:before,
+.gf-skull-crack:before,
+.gf-skull-crossed-bones:before,
+.gf-skull-in-jar:before,
+.gf-skull-mask:before,
+.gf-skull-ring:before,
+.gf-skull-shield:before,
+.gf-skull-signet:before,
+.gf-slap:before,
+.gf-slashed-shield:before,
+.gf-slavery-whip:before,
+.gf-sleepy:before,
+.gf-sliced-bread:before,
+.gf-slow-blob:before,
+.gf-sly:before,
+.gf-smitten:before,
+.gf-smoking-finger:before,
+.gf-snail:before,
+.gf-snake:before,
+.gf-snake-bite:before,
+.gf-snake-totem:before,
+.gf-snatch:before,
+.gf-snorkel:before,
+.gf-snow-bottle:before,
+.gf-snowflake-1:before,
+.gf-snowflake-2:before,
+.gf-snowing:before,
+.gf-snowman:before,
+.gf-soccer-ball:before,
+.gf-sonic-boom:before,
+.gf-sonic-screech:before,
+.gf-sonic-shout:before,
+.gf-space-suit:before,
+.gf-spade:before,
+.gf-spade-skull:before,
+.gf-spanner:before,
+.gf-sparkling-sabre:before,
+.gf-sparky-bomb:before,
+.gf-sparrow:before,
+.gf-spartan:before,
+.gf-spatter:before,
+.gf-spawn-node:before,
+.gf-spears:before,
+.gf-spectacle-lenses:before,
+.gf-spectacles:before,
+.gf-spectre:before,
+.gf-spider-alt:before,
+.gf-spider-face:before,
+.gf-spikeball:before,
+.gf-spiked-armor:before,
+.gf-spiked-collar:before,
+.gf-spiked-fence:before,
+.gf-spiked-mace:before,
+.gf-spiked-shell:before,
+.gf-spiked-snail:before,
+.gf-spiked-tentacle:before,
+.gf-spikes:before,
+.gf-spikes-full:before,
+.gf-spikes-half:before,
+.gf-spikes-init:before,
+.gf-spill:before,
+.gf-spinal-coil:before,
+.gf-spinning-blades:before,
+.gf-spinning-sword:before,
+.gf-spiral-arrow:before,
+.gf-spiral-bloom:before,
+.gf-spiral-bottle:before,
+.gf-spiral-shell:before,
+.gf-spiral-thrust:before,
+.gf-splash:before,
+.gf-split-body:before,
+.gf-split-cross:before,
+.gf-splurt:before,
+.gf-spoon:before,
+.gf-spoted-flower:before,
+.gf-spotted-mushroom:before,
+.gf-spotted-wound:before,
+.gf-spoutnik:before,
+.gf-spray:before,
+.gf-sprint:before,
+.gf-sprout:before,
+.gf-sprout-disc:before,
+.gf-spyglass:before,
+.gf-square-bottle:before,
+.gf-squid:before,
+.gf-squid-head:before,
+.gf-stag-head:before,
+.gf-stalagtite:before,
+.gf-star-prominences:before,
+.gf-star-pupil:before,
+.gf-star-swirl:before,
+.gf-staryu:before,
+.gf-static:before,
+.gf-steel-claws:before,
+.gf-steeltoe-boots:before,
+.gf-steelwing-emblem:before,
+.gf-stick-splitting:before,
+.gf-sticking-plaster:before,
+.gf-stigmata:before,
+.gf-stiletto:before,
+.gf-stitched-wound:before,
+.gf-stomp:before,
+.gf-stone-axe:before,
+.gf-stone-block:before,
+.gf-stone-crafting:before,
+.gf-stone-spear:before,
+.gf-stone-sphere:before,
+.gf-stone-tablet:before,
+.gf-stone-throne:before,
+.gf-stone-tower:before,
+.gf-stopwatch:before,
+.gf-strafe:before,
+.gf-striking-balls:before,
+.gf-striking-diamonds:before,
+.gf-strong:before,
+.gf-suckered-tentacle:before,
+.gf-suicide:before,
+.gf-suits:before,
+.gf-sun:before,
+.gf-sunbeams:before,
+.gf-sundial:before,
+.gf-sunken-eye:before,
+.gf-sunrise:before,
+.gf-super-mushroom:before,
+.gf-supersonic-arrow:before,
+.gf-supersonic-bullet:before,
+.gf-surprised:before,
+.gf-surprised-skull:before,
+.gf-swallow:before,
+.gf-swan:before,
+.gf-swap-bag:before,
+.gf-sword-array:before,
+.gf-sword-break:before,
+.gf-sword-clash:before,
+.gf-sword-hilt:before,
+.gf-sword-in-stone:before,
+.gf-sword-slice:before,
+.gf-sword-smithing:before,
+.gf-sword-spade:before,
+.gf-sword-spin:before,
+.gf-syringe:before,
+.gf-tank:before,
+.gf-target-arrows:before,
+.gf-target-dummy:before,
+.gf-target-laser:before,
+.gf-target-shot:before,
+.gf-targeted:before,
+.gf-targeting:before,
+.gf-tattered-banner:before,
+.gf-taurus:before,
+.gf-teapot:before,
+.gf-tear-tracks:before,
+.gf-techno-heart:before,
+.gf-telefrag:before,
+.gf-telepathy:before,
+.gf-teleport:before,
+.gf-templar-heart:before,
+.gf-temptation:before,
+.gf-tennis-ball:before,
+.gf-tentacle-strike:before,
+.gf-tentacurl:before,
+.gf-terror:before,
+.gf-tesla:before,
+.gf-tesla-coil:before,
+.gf-tesla-turret:before,
+.gf-test-tubes:before,
+.gf-thermometer-scale:before,
+.gf-third-eye:before,
+.gf-thor-fist:before,
+.gf-thorn-helix:before,
+.gf-thorned-arrow:before,
+.gf-thorny-vine:before,
+.gf-three-keys:before,
+.gf-three-leaves:before,
+.gf-thrown-charcoal:before,
+.gf-thrown-daggers:before,
+.gf-thrown-knife:before,
+.gf-thrown-spear:before,
+.gf-thrust:before,
+.gf-thunder-struck:before,
+.gf-thunderball:before,
+.gf-tic-tac-toe:before,
+.gf-tick:before,
+.gf-tied-scroll:before,
+.gf-time-bomb:before,
+.gf-time-trap:before,
+.gf-tinker:before,
+.gf-toad-teeth:before,
+.gf-tombstone:before,
+.gf-tooth:before,
+.gf-top-hat:before,
+.gf-top-paw:before,
+.gf-torch:before,
+.gf-tornado:before,
+.gf-totem-head:before,
+.gf-tower-fall:before,
+.gf-trade:before,
+.gf-trample:before,
+.gf-transfuse:before,
+.gf-transportation-rings:before,
+.gf-tread:before,
+.gf-treasure-map:before,
+.gf-tree-branch:before,
+.gf-trefoil-lily:before,
+.gf-trefoil-shuriken:before,
+.gf-tribal-mask:before,
+.gf-trident:before,
+.gf-trigger-hurt:before,
+.gf-trilobite:before,
+.gf-triorb:before,
+.gf-triple-claws:before,
+.gf-triple-needle:before,
+.gf-triple-skulls:before,
+.gf-tripwire:before,
+.gf-tron-arrow:before,
+.gf-trophy:before,
+.gf-trousers:before,
+.gf-turd:before,
+.gf-turret:before,
+.gf-turtle:before,
+.gf-turtle-shell:before,
+.gf-twirly-flower:before,
+.gf-twister:before,
+.gf-two-feathers:before,
+.gf-two-shadows:before,
+.gf-tyre:before,
+.gf-ubisoft-sun:before,
+.gf-udder:before,
+.gf-ultrasound:before,
+.gf-umbrella:before,
+.gf-uncertainty:before,
+.gf-underhand:before,
+.gf-unfriendly-fire:before,
+.gf-unlit-bomb:before,
+.gf-unlit-candelabra:before,
+.gf-unplugged:before,
+.gf-unstable-projectile:before,
+.gf-usable:before,
+.gf-valley:before,
+.gf-vanilla-flower:before,
+.gf-vial:before,
+.gf-vile-fluid:before,
+.gf-vine-flower:before,
+.gf-vine-leaf:before,
+.gf-vine-whip:before,
+.gf-vintage-robot:before,
+.gf-viola:before,
+.gf-virgo:before,
+.gf-virus:before,
+.gf-visored-helm:before,
+.gf-volcano:before,
+.gf-vomiting:before,
+.gf-voodoo-doll:before,
+.gf-vortex:before,
+.gf-vulture:before,
+.gf-walking-boot:before,
+.gf-wasp-sting:before,
+.gf-water-bolt:before,
+.gf-water-drop:before,
+.gf-water-splash:before,
+.gf-wave-crest:before,
+.gf-wave-strike:before,
+.gf-wavy-chains:before,
+.gf-wavy-itinerary:before,
+.gf-wax-seal:before,
+.gf-web-spit:before,
+.gf-weight-crush:before,
+.gf-wheat:before,
+.gf-whip:before,
+.gf-whiplash:before,
+.gf-whirlwind:before,
+.gf-white-cat:before,
+.gf-white-tower:before,
+.gf-wildfires:before,
+.gf-william-tell:before,
+.gf-wine-glass:before,
+.gf-wing-cloak:before,
+.gf-winged-arrow:before,
+.gf-winged-emblem:before,
+.gf-winged-shield:before,
+.gf-winged-sword:before,
+.gf-wingfoot:before,
+.gf-witch-flight:before,
+.gf-wizard-staff:before,
+.gf-wolf-head:before,
+.gf-wolf-howl:before,
+.gf-wolf-trap:before,
+.gf-wolverine-claws:before,
+.gf-wood-axe:before,
+.gf-wooden-door:before,
+.gf-wooden-sign:before,
+.gf-world:before,
+.gf-worm-mouth:before,
+.gf-worried-eyes:before,
+.gf-wrapped-heart:before,
+.gf-wrapped-sweet:before,
+.gf-wrecking-ball:before,
+.gf-wrench:before,
+.gf-wyvern:before,
+.gf-zigzag-leaf:before,
+.gf-zigzag-tune:before {
+  display: inline-block;
+  font-family: "gamefont";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.gf-ace:before { content: "\f100"; }
+.gf-acid:before { content: "\f101"; }
+.gf-acid-blob:before { content: "\f102"; }
+.gf-acid-tube:before { content: "\f103"; }
+.gf-acorn:before { content: "\f104"; }
+.gf-aerial-signal:before { content: "\f105"; }
+.gf-aerosol:before { content: "\f106"; }
+.gf-afterburn:before { content: "\f107"; }
+.gf-alien-skull:before { content: "\f108"; }
+.gf-all-for-one:before { content: "\f109"; }
+.gf-alligator-clip:before { content: "\f10a"; }
+.gf-ammo-box:before { content: "\f10b"; }
+.gf-ammonite:before { content: "\f10c"; }
+.gf-ammonite-fossil:before { content: "\f10d"; }
+.gf-anatomy:before { content: "\f10e"; }
+.gf-anchor:before { content: "\f10f"; }
+.gf-andromeda-chain:before { content: "\f110"; }
+.gf-angel-outfit:before { content: "\f111"; }
+.gf-angel-wings:before { content: "\f112"; }
+.gf-angler-fish:before { content: "\f113"; }
+.gf-angular-spider:before { content: "\f114"; }
+.gf-animal-skull:before { content: "\f115"; }
+.gf-ankh:before { content: "\f116"; }
+.gf-anthem:before { content: "\f117"; }
+.gf-anvil:before { content: "\f118"; }
+.gf-anvil-impact:before { content: "\f119"; }
+.gf-apple-maggot:before { content: "\f11a"; }
+.gf-apple-seeds:before { content: "\f11b"; }
+.gf-aquarius:before { content: "\f11c"; }
+.gf-archery-target:before { content: "\f11d"; }
+.gf-architect-mask:before { content: "\f11e"; }
+.gf-arcing-bolt:before { content: "\f11f"; }
+.gf-arena:before { content: "\f120"; }
+.gf-aries:before { content: "\f121"; }
+.gf-armadillo-tail:before { content: "\f122"; }
+.gf-armoured-shell:before { content: "\f123"; }
+.gf-arrow-cluster:before { content: "\f124"; }
+.gf-arrow-flights:before { content: "\f125"; }
+.gf-arrowed:before { content: "\f126"; }
+.gf-arrowhead:before { content: "\f127"; }
+.gf-arrows-shield:before { content: "\f128"; }
+.gf-arson:before { content: "\f129"; }
+.gf-artificial-hive:before { content: "\f12a"; }
+.gf-at-sea:before { content: "\f12b"; }
+.gf-atomic-slashes:before { content: "\f12c"; }
+.gf-aubergine:before { content: "\f12d"; }
+.gf-aura:before { content: "\f12e"; }
+.gf-auto-repair:before { content: "\f12f"; }
+.gf-autogun:before { content: "\f130"; }
+.gf-awareness:before { content: "\f131"; }
+.gf-axe-in-stump:before { content: "\f132"; }
+.gf-axe-swing:before { content: "\f133"; }
+.gf-back-forth:before { content: "\f134"; }
+.gf-back-pain:before { content: "\f135"; }
+.gf-backstab:before { content: "\f136"; }
+.gf-backup:before { content: "\f137"; }
+.gf-balloons:before { content: "\f138"; }
+.gf-bandage-roll:before { content: "\f139"; }
+.gf-bandaged:before { content: "\f13a"; }
+.gf-barbed-arrow:before { content: "\f13b"; }
+.gf-barbed-spear:before { content: "\f13c"; }
+.gf-barbed-wire:before { content: "\f13d"; }
+.gf-barbute:before { content: "\f13e"; }
+.gf-barefoot:before { content: "\f13f"; }
+.gf-bat-blade:before { content: "\f140"; }
+.gf-bat-wing:before { content: "\f141"; }
+.gf-battered-axe:before { content: "\f142"; }
+.gf-batteries:before { content: "\f143"; }
+.gf-battery-pack:before { content: "\f144"; }
+.gf-battery-pack-alt:before { content: "\f145"; }
+.gf-battle-axe:before { content: "\f146"; }
+.gf-battle-gear:before { content: "\f147"; }
+.gf-batwing-emblem:before { content: "\f148"; }
+.gf-beam-wake:before { content: "\f149"; }
+.gf-beams-aura:before { content: "\f14a"; }
+.gf-beanstalk:before { content: "\f14b"; }
+.gf-beard:before { content: "\f14c"; }
+.gf-beast-eye:before { content: "\f14d"; }
+.gf-bee:before { content: "\f14e"; }
+.gf-beech:before { content: "\f14f"; }
+.gf-beer-stein:before { content: "\f150"; }
+.gf-beetle-shell:before { content: "\f151"; }
+.gf-behold:before { content: "\f152"; }
+.gf-belt-buckles:before { content: "\f153"; }
+.gf-bestial-fangs:before { content: "\f154"; }
+.gf-big-egg:before { content: "\f155"; }
+.gf-big-wave:before { content: "\f156"; }
+.gf-biohazard:before { content: "\f157"; }
+.gf-bird-claw:before { content: "\f158"; }
+.gf-bird-mask:before { content: "\f159"; }
+.gf-bird-twitter:before { content: "\f15a"; }
+.gf-black-bar:before { content: "\f15b"; }
+.gf-black-cat:before { content: "\f15c"; }
+.gf-black-flag:before { content: "\f15d"; }
+.gf-black-hole-bolas:before { content: "\f15e"; }
+.gf-blackball:before { content: "\f15f"; }
+.gf-blackcurrant:before { content: "\f160"; }
+.gf-blade-bite:before { content: "\f161"; }
+.gf-blade-fall:before { content: "\f162"; }
+.gf-blast:before { content: "\f163"; }
+.gf-blaster:before { content: "\f164"; }
+.gf-bleeding-eye:before { content: "\f165"; }
+.gf-bleeding-heart:before { content: "\f166"; }
+.gf-bloody-stash:before { content: "\f167"; }
+.gf-blunderbuss:before { content: "\f168"; }
+.gf-boar-tusks:before { content: "\f169"; }
+.gf-boiling-bubbles:before { content: "\f16a"; }
+.gf-bolas:before { content: "\f16b"; }
+.gf-bolt-shield:before { content: "\f16c"; }
+.gf-bolter-gun:before { content: "\f16d"; }
+.gf-bombing-run:before { content: "\f16e"; }
+.gf-bone-gnawer:before { content: "\f16f"; }
+.gf-bone-knife:before { content: "\f170"; }
+.gf-book-aura:before { content: "\f171"; }
+.gf-book-cover:before { content: "\f172"; }
+.gf-book-storm:before { content: "\f173"; }
+.gf-bookmark:before { content: "\f174"; }
+.gf-bookmarklet:before { content: "\f175"; }
+.gf-boomerang:before { content: "\f176"; }
+.gf-boot-prints:before { content: "\f177"; }
+.gf-boot-stomp:before { content: "\f178"; }
+.gf-boots:before { content: "\f179"; }
+.gf-bottle-vapors:before { content: "\f17a"; }
+.gf-bottled-bolt:before { content: "\f17b"; }
+.gf-bottom-right-3d-arrow:before { content: "\f17c"; }
+.gf-bowie-knife:before { content: "\f17d"; }
+.gf-bowling-pin:before { content: "\f17e"; }
+.gf-bowling-propulsion:before { content: "\f17f"; }
+.gf-bowman:before { content: "\f180"; }
+.gf-boxing-glove:before { content: "\f181"; }
+.gf-boxing-glove-surprise:before { content: "\f182"; }
+.gf-brain:before { content: "\f183"; }
+.gf-brain-freeze:before { content: "\f184"; }
+.gf-brain-stem:before { content: "\f185"; }
+.gf-brainstorm:before { content: "\f186"; }
+.gf-brandy-bottle:before { content: "\f187"; }
+.gf-brass-eye:before { content: "\f188"; }
+.gf-breastplate:before { content: "\f189"; }
+.gf-bridge:before { content: "\f18a"; }
+.gf-broadhead-arrow:before { content: "\f18b"; }
+.gf-broadsword:before { content: "\f18c"; }
+.gf-broken-bone:before { content: "\f18d"; }
+.gf-broken-bottle:before { content: "\f18e"; }
+.gf-broken-heart:before { content: "\f18f"; }
+.gf-broken-shield:before { content: "\f190"; }
+.gf-broken-skull:before { content: "\f191"; }
+.gf-broken-tablet:before { content: "\f192"; }
+.gf-brutal-helm:before { content: "\f193"; }
+.gf-bubble-field:before { content: "\f194"; }
+.gf-bubbling-flask:before { content: "\f195"; }
+.gf-bud:before { content: "\f196"; }
+.gf-bugle-call:before { content: "\f197"; }
+.gf-bulb:before { content: "\f198"; }
+.gf-bull:before { content: "\f199"; }
+.gf-bull-horns:before { content: "\f19a"; }
+.gf-bullets:before { content: "\f19b"; }
+.gf-burn:before { content: "\f19c"; }
+.gf-burning-book:before { content: "\f19d"; }
+.gf-burning-dot:before { content: "\f19e"; }
+.gf-burning-embers:before { content: "\f19f"; }
+.gf-burning-eye:before { content: "\f1a0"; }
+.gf-burning-meteor:before { content: "\f1a1"; }
+.gf-burning-passion:before { content: "\f1a2"; }
+.gf-burning-round-shot:before { content: "\f1a3"; }
+.gf-burning-tree:before { content: "\f1a4"; }
+.gf-burst-blob:before { content: "\f1a5"; }
+.gf-butterfly:before { content: "\f1a6"; }
+.gf-butterfly-warning:before { content: "\f1a7"; }
+.gf-cake-slice:before { content: "\f1a8"; }
+.gf-caldera:before { content: "\f1a9"; }
+.gf-campfire:before { content: "\f1aa"; }
+.gf-cancel:before { content: "\f1ab"; }
+.gf-cancer:before { content: "\f1ac"; }
+.gf-candle-flame:before { content: "\f1ad"; }
+.gf-candle-holder:before { content: "\f1ae"; }
+.gf-candle-light:before { content: "\f1af"; }
+.gf-candle-skull:before { content: "\f1b0"; }
+.gf-candlebright:before { content: "\f1b1"; }
+.gf-cannister:before { content: "\f1b2"; }
+.gf-cannon:before { content: "\f1b3"; }
+.gf-cannon-ball:before { content: "\f1b4"; }
+.gf-cannon-shot:before { content: "\f1b5"; }
+.gf-capitol:before { content: "\f1b6"; }
+.gf-capricorn:before { content: "\f1b7"; }
+.gf-cargo-crane:before { content: "\f1b8"; }
+.gf-carillon:before { content: "\f1b9"; }
+.gf-carrion:before { content: "\f1ba"; }
+.gf-cartwheel:before { content: "\f1bb"; }
+.gf-cash:before { content: "\f1bc"; }
+.gf-castle:before { content: "\f1bd"; }
+.gf-cauldron:before { content: "\f1be"; }
+.gf-cctv-camera:before { content: "\f1bf"; }
+.gf-centipede:before { content: "\f1c0"; }
+.gf-chained-heart:before { content: "\f1c1"; }
+.gf-chaingun:before { content: "\f1c2"; }
+.gf-chalice-drops:before { content: "\f1c3"; }
+.gf-charm:before { content: "\f1c4"; }
+.gf-checkbox-tree:before { content: "\f1c5"; }
+.gf-checked-shield:before { content: "\f1c6"; }
+.gf-cheerful:before { content: "\f1c7"; }
+.gf-cheese-wedge:before { content: "\f1c8"; }
+.gf-chemical-arrow:before { content: "\f1c9"; }
+.gf-chemical-bolt:before { content: "\f1ca"; }
+.gf-chemical-drop:before { content: "\f1cb"; }
+.gf-chemical-tank:before { content: "\f1cc"; }
+.gf-chicken-leg:before { content: "\f1cd"; }
+.gf-circuitry:before { content: "\f1ce"; }
+.gf-circular-saw:before { content: "\f1cf"; }
+.gf-circular-sawblade:before { content: "\f1d0"; }
+.gf-claw:before { content: "\f1d1"; }
+.gf-claw-hammer:before { content: "\f1d2"; }
+.gf-cloak-dagger:before { content: "\f1d3"; }
+.gf-clockwork:before { content: "\f1d4"; }
+.gf-clout:before { content: "\f1d5"; }
+.gf-clover:before { content: "\f1d6"; }
+.gf-clover-spiked:before { content: "\f1d7"; }
+.gf-cluster-bomb:before { content: "\f1d8"; }
+.gf-cobweb:before { content: "\f1d9"; }
+.gf-coffee-mug:before { content: "\f1da"; }
+.gf-coffin:before { content: "\f1db"; }
+.gf-cog:before { content: "\f1dc"; }
+.gf-cog-lock:before { content: "\f1dd"; }
+.gf-cogsplosion:before { content: "\f1de"; }
+.gf-coiling-curl:before { content: "\f1df"; }
+.gf-cold-heart:before { content: "\f1e0"; }
+.gf-coma:before { content: "\f1e1"; }
+.gf-comb:before { content: "\f1e2"; }
+.gf-compass:before { content: "\f1e3"; }
+.gf-condylura-skull:before { content: "\f1e4"; }
+.gf-conversation:before { content: "\f1e5"; }
+.gf-cool-spices:before { content: "\f1e6"; }
+.gf-corked-tube:before { content: "\f1e7"; }
+.gf-cowled:before { content: "\f1e8"; }
+.gf-crab:before { content: "\f1e9"; }
+.gf-crab-claw:before { content: "\f1ea"; }
+.gf-cracked-disc:before { content: "\f1eb"; }
+.gf-cracked-glass:before { content: "\f1ec"; }
+.gf-cracked-helm:before { content: "\f1ed"; }
+.gf-cracked-mask:before { content: "\f1ee"; }
+.gf-cracked-saber:before { content: "\f1ef"; }
+.gf-cracked-shield:before { content: "\f1f0"; }
+.gf-crags:before { content: "\f1f1"; }
+.gf-crenulated-shield:before { content: "\f1f2"; }
+.gf-crested-helmet:before { content: "\f1f3"; }
+.gf-croc-jaws:before { content: "\f1f4"; }
+.gf-croc-sword:before { content: "\f1f5"; }
+.gf-crossbow:before { content: "\f1f6"; }
+.gf-crossed-axes:before { content: "\f1f7"; }
+.gf-crossed-bones:before { content: "\f1f8"; }
+.gf-crossed-chains:before { content: "\f1f9"; }
+.gf-crossed-claws:before { content: "\f1fa"; }
+.gf-crossed-pistols:before { content: "\f1fb"; }
+.gf-crossed-sabres:before { content: "\f1fc"; }
+.gf-crossed-slashes:before { content: "\f1fd"; }
+.gf-crossed-swords:before { content: "\f1fe"; }
+.gf-crow-dive:before { content: "\f1ff"; }
+.gf-crown:before { content: "\f200"; }
+.gf-crown-coin:before { content: "\f201"; }
+.gf-crown-of-thorns:before { content: "\f202"; }
+.gf-crowned-explosion:before { content: "\f203"; }
+.gf-crowned-heart:before { content: "\f204"; }
+.gf-crowned-skull:before { content: "\f205"; }
+.gf-crush:before { content: "\f206"; }
+.gf-crystal-ball:before { content: "\f207"; }
+.gf-crystal-cluster:before { content: "\f208"; }
+.gf-crystal-eye:before { content: "\f209"; }
+.gf-crystal-growth:before { content: "\f20a"; }
+.gf-crystal-shine:before { content: "\f20b"; }
+.gf-crystal-wand:before { content: "\f20c"; }
+.gf-crystalize:before { content: "\f20d"; }
+.gf-cubeforce:before { content: "\f20e"; }
+.gf-cubes:before { content: "\f20f"; }
+.gf-curled-leaf:before { content: "\f210"; }
+.gf-curled-tentacle:before { content: "\f211"; }
+.gf-curling-vines:before { content: "\f212"; }
+.gf-curly-wing:before { content: "\f213"; }
+.gf-curvy-knife:before { content: "\f214"; }
+.gf-cut-diamond:before { content: "\f215"; }
+.gf-cut-palm:before { content: "\f216"; }
+.gf-cycle:before { content: "\f217"; }
+.gf-cyclops:before { content: "\f218"; }
+.gf-daggers:before { content: "\f219"; }
+.gf-daisy:before { content: "\f21a"; }
+.gf-dark-squad:before { content: "\f21b"; }
+.gf-dead-eye:before { content: "\f21c"; }
+.gf-dead-wood:before { content: "\f21d"; }
+.gf-death-note:before { content: "\f21e"; }
+.gf-death-skull:before { content: "\f21f"; }
+.gf-death-zone:before { content: "\f220"; }
+.gf-deathcab:before { content: "\f221"; }
+.gf-decapitation:before { content: "\f222"; }
+.gf-defibrilate:before { content: "\f223"; }
+.gf-demolish:before { content: "\f224"; }
+.gf-dervish-swords:before { content: "\f225"; }
+.gf-desert-skull:before { content: "\f226"; }
+.gf-desk-lamp:before { content: "\f227"; }
+.gf-despair:before { content: "\f228"; }
+.gf-diablo-skull:before { content: "\f229"; }
+.gf-diamond-hard:before { content: "\f22a"; }
+.gf-dice-six-faces-five:before { content: "\f22b"; }
+.gf-dice-six-faces-four:before { content: "\f22c"; }
+.gf-dice-six-faces-one:before { content: "\f22d"; }
+.gf-dice-six-faces-six:before { content: "\f22e"; }
+.gf-dice-six-faces-three:before { content: "\f22f"; }
+.gf-dice-six-faces-two:before { content: "\f230"; }
+.gf-dig-dug:before { content: "\f231"; }
+.gf-dinosaur-bones:before { content: "\f232"; }
+.gf-dinosaur-egg:before { content: "\f233"; }
+.gf-dinosaur-rex:before { content: "\f234"; }
+.gf-disintegrate:before { content: "\f235"; }
+.gf-distraction:before { content: "\f236"; }
+.gf-divergence:before { content: "\f237"; }
+.gf-divert:before { content: "\f238"; }
+.gf-diving-dagger:before { content: "\f239"; }
+.gf-dna1:before { content: "\f23a"; }
+.gf-dna2:before { content: "\f23b"; }
+.gf-doctor-face:before { content: "\f23c"; }
+.gf-dodge:before { content: "\f23d"; }
+.gf-domino-mask:before { content: "\f23e"; }
+.gf-double-dragon:before { content: "\f23f"; }
+.gf-double-quaver:before { content: "\f240"; }
+.gf-double-shot:before { content: "\f241"; }
+.gf-doubled:before { content: "\f242"; }
+.gf-dove:before { content: "\f243"; }
+.gf-dozen:before { content: "\f244"; }
+.gf-dragon-balls:before { content: "\f245"; }
+.gf-dragon-breath:before { content: "\f246"; }
+.gf-dragon-head:before { content: "\f247"; }
+.gf-dragon-spiral:before { content: "\f248"; }
+.gf-dragonfly:before { content: "\f249"; }
+.gf-drama-masks:before { content: "\f24a"; }
+.gf-drill:before { content: "\f24b"; }
+.gf-drink-me:before { content: "\f24c"; }
+.gf-dripping-blade:before { content: "\f24d"; }
+.gf-dripping-goo:before { content: "\f24e"; }
+.gf-dripping-honey:before { content: "\f24f"; }
+.gf-dripping-knife:before { content: "\f250"; }
+.gf-dripping-stone:before { content: "\f251"; }
+.gf-drop:before { content: "\f252"; }
+.gf-droplet-splash:before { content: "\f253"; }
+.gf-droplets:before { content: "\f254"; }
+.gf-drowning:before { content: "\f255"; }
+.gf-duality:before { content: "\f256"; }
+.gf-duel:before { content: "\f257"; }
+.gf-eagle-emblem:before { content: "\f258"; }
+.gf-earth-crack:before { content: "\f259"; }
+.gf-earth-spit:before { content: "\f25a"; }
+.gf-eclipse:before { content: "\f25b"; }
+.gf-edge-crack:before { content: "\f25c"; }
+.gf-edged-shield:before { content: "\f25d"; }
+.gf-egg-clutch:before { content: "\f25e"; }
+.gf-egg-pod:before { content: "\f25f"; }
+.gf-elderberry:before { content: "\f260"; }
+.gf-ember-shot:before { content: "\f261"; }
+.gf-embryo:before { content: "\f262"; }
+.gf-emerald:before { content: "\f263"; }
+.gf-empty-hourglass:before { content: "\f264"; }
+.gf-energise:before { content: "\f265"; }
+.gf-energy-arrow:before { content: "\f266"; }
+.gf-energy-shield:before { content: "\f267"; }
+.gf-energy-sword:before { content: "\f268"; }
+.gf-engagement-ring:before { content: "\f269"; }
+.gf-ent-mouth:before { content: "\f26a"; }
+.gf-envelope:before { content: "\f26b"; }
+.gf-erlenmeyer:before { content: "\f26c"; }
+.gf-eruption:before { content: "\f26d"; }
+.gf-eskimo:before { content: "\f26e"; }
+.gf-evil-book:before { content: "\f26f"; }
+.gf-evil-fork:before { content: "\f270"; }
+.gf-evil-moon:before { content: "\f271"; }
+.gf-evil-tree:before { content: "\f272"; }
+.gf-evil-wings:before { content: "\f273"; }
+.gf-expander:before { content: "\f274"; }
+.gf-explosive-materials:before { content: "\f275"; }
+.gf-extra-lucid:before { content: "\f276"; }
+.gf-eye-shield:before { content: "\f277"; }
+.gf-eyeball:before { content: "\f278"; }
+.gf-eyedropper:before { content: "\f279"; }
+.gf-eyestalk:before { content: "\f27a"; }
+.gf-fairy:before { content: "\f27b"; }
+.gf-fairy-wand:before { content: "\f27c"; }
+.gf-fall-down:before { content: "\f27d"; }
+.gf-falling:before { content: "\f27e"; }
+.gf-falling-eye:before { content: "\f27f"; }
+.gf-falling-leaf:before { content: "\f280"; }
+.gf-fanged-skull:before { content: "\f281"; }
+.gf-feather:before { content: "\f282"; }
+.gf-feathered-wing:before { content: "\f283"; }
+.gf-fedora:before { content: "\f284"; }
+.gf-female:before { content: "\f285"; }
+.gf-field:before { content: "\f286"; }
+.gf-fire:before { content: "\f287"; }
+.gf-fire-ace:before { content: "\f288"; }
+.gf-fire-axe:before { content: "\f289"; }
+.gf-fire-bomb:before { content: "\f28a"; }
+.gf-fire-bottle:before { content: "\f28b"; }
+.gf-fire-bowl:before { content: "\f28c"; }
+.gf-fire-breath:before { content: "\f28d"; }
+.gf-fire-punch:before { content: "\f28e"; }
+.gf-fire-ring:before { content: "\f28f"; }
+.gf-fire-shield:before { content: "\f290"; }
+.gf-fire-wave:before { content: "\f291"; }
+.gf-fireball:before { content: "\f292"; }
+.gf-fireflake:before { content: "\f293"; }
+.gf-firework-rocket:before { content: "\f294"; }
+.gf-fishbone:before { content: "\f295"; }
+.gf-fishing-hook:before { content: "\f296"; }
+.gf-fishing-net:before { content: "\f297"; }
+.gf-fist:before { content: "\f298"; }
+.gf-fizzing-flask:before { content: "\f299"; }
+.gf-flake:before { content: "\f29a"; }
+.gf-flame:before { content: "\f29b"; }
+.gf-flame-spin:before { content: "\f29c"; }
+.gf-flame-tunnel:before { content: "\f29d"; }
+.gf-flamer:before { content: "\f29e"; }
+.gf-flaming-arrow:before { content: "\f29f"; }
+.gf-flaming-claw:before { content: "\f2a0"; }
+.gf-flaming-trident:before { content: "\f2a1"; }
+.gf-flash-grenade:before { content: "\f2a2"; }
+.gf-flat-hammer:before { content: "\f2a3"; }
+.gf-fleshy-mass:before { content: "\f2a4"; }
+.gf-flexible-star:before { content: "\f2a5"; }
+.gf-floating-crystal:before { content: "\f2a6"; }
+.gf-flower-pot:before { content: "\f2a7"; }
+.gf-flowers:before { content: "\f2a8"; }
+.gf-fluffy-cloud:before { content: "\f2a9"; }
+.gf-fluffy-swirl:before { content: "\f2aa"; }
+.gf-fluffy-wing:before { content: "\f2ab"; }
+.gf-flying-dagger:before { content: "\f2ac"; }
+.gf-flying-flag:before { content: "\f2ad"; }
+.gf-foam:before { content: "\f2ae"; }
+.gf-focused-lightning:before { content: "\f2af"; }
+.gf-folded-paper:before { content: "\f2b0"; }
+.gf-food-chain:before { content: "\f2b1"; }
+.gf-foot-trip:before { content: "\f2b2"; }
+.gf-footprint:before { content: "\f2b3"; }
+.gf-forward-field:before { content: "\f2b4"; }
+.gf-fossil:before { content: "\f2b5"; }
+.gf-fountain:before { content: "\f2b6"; }
+.gf-fountain-pen:before { content: "\f2b7"; }
+.gf-fox-head:before { content: "\f2b8"; }
+.gf-fragrance:before { content: "\f2b9"; }
+.gf-frankenstein-creature:before { content: "\f2ba"; }
+.gf-freedom-dove:before { content: "\f2bb"; }
+.gf-frog:before { content: "\f2bc"; }
+.gf-front-teeth:before { content: "\f2bd"; }
+.gf-frontal-lobe:before { content: "\f2be"; }
+.gf-frostfire:before { content: "\f2bf"; }
+.gf-frozen-arrow:before { content: "\f2c0"; }
+.gf-frozen-block:before { content: "\f2c1"; }
+.gf-frozen-orb:before { content: "\f2c2"; }
+.gf-fruiting:before { content: "\f2c3"; }
+.gf-galleon:before { content: "\f2c4"; }
+.gf-gamepad-cross:before { content: "\f2c5"; }
+.gf-gas-mask:before { content: "\f2c6"; }
+.gf-gavel:before { content: "\f2c7"; }
+.gf-gaze:before { content: "\f2c8"; }
+.gf-gear-hammer:before { content: "\f2c9"; }
+.gf-gears:before { content: "\f2ca"; }
+.gf-gecko:before { content: "\f2cb"; }
+.gf-gem-chain:before { content: "\f2cc"; }
+.gf-gem-necklace:before { content: "\f2cd"; }
+.gf-gem-pendant:before { content: "\f2ce"; }
+.gf-gemini:before { content: "\f2cf"; }
+.gf-gems:before { content: "\f2d0"; }
+.gf-ghost:before { content: "\f2d1"; }
+.gf-gibbet:before { content: "\f2d2"; }
+.gf-gift-of-knowledge:before { content: "\f2d3"; }
+.gf-gift-trap:before { content: "\f2d4"; }
+.gf-glass-heart:before { content: "\f2d5"; }
+.gf-glass-shot:before { content: "\f2d6"; }
+.gf-globe:before { content: "\f2d7"; }
+.gf-gloop:before { content: "\f2d8"; }
+.gf-glowing-hands:before { content: "\f2d9"; }
+.gf-gluttonous-smile:before { content: "\f2da"; }
+.gf-gluttony:before { content: "\f2db"; }
+.gf-gold-scarab:before { content: "\f2dc"; }
+.gf-goo-explosion:before { content: "\f2dd"; }
+.gf-goo-skull:before { content: "\f2de"; }
+.gf-goo-spurt:before { content: "\f2df"; }
+.gf-gooey-daemon:before { content: "\f2e0"; }
+.gf-gooey-eyed-sun:before { content: "\f2e1"; }
+.gf-gooey-impact:before { content: "\f2e2"; }
+.gf-gooey-sword:before { content: "\f2e3"; }
+.gf-grab:before { content: "\f2e4"; }
+.gf-grapes:before { content: "\f2e5"; }
+.gf-grasping-claws:before { content: "\f2e6"; }
+.gf-grease-trap:before { content: "\f2e7"; }
+.gf-grenade:before { content: "\f2e8"; }
+.gf-grim-reaper:before { content: "\f2e9"; }
+.gf-groundbreaker:before { content: "\f2ea"; }
+.gf-guarded-tower:before { content: "\f2eb"; }
+.gf-guillotine:before { content: "\f2ec"; }
+.gf-guitar:before { content: "\f2ed"; }
+.gf-gunshot:before { content: "\f2ee"; }
+.gf-halberd:before { content: "\f2ef"; }
+.gf-halberd-shuriken:before { content: "\f2f0"; }
+.gf-half-heart:before { content: "\f2f1"; }
+.gf-hammer-drop:before { content: "\f2f2"; }
+.gf-hammer-nails:before { content: "\f2f3"; }
+.gf-hand:before { content: "\f2f4"; }
+.gf-hand-of-god:before { content: "\f2f5"; }
+.gf-handcuffs:before { content: "\f2f6"; }
+.gf-hanging-spider:before { content: "\f2f7"; }
+.gf-harpoon-chain:before { content: "\f2f8"; }
+.gf-harpoon-trident:before { content: "\f2f9"; }
+.gf-harpy:before { content: "\f2fa"; }
+.gf-hatchets:before { content: "\f2fb"; }
+.gf-haunting:before { content: "\f2fc"; }
+.gf-hazard-sign:before { content: "\f2fd"; }
+.gf-head-shot:before { content: "\f2fe"; }
+.gf-headshot:before { content: "\f2ff"; }
+.gf-health-decrease:before { content: "\f300"; }
+.gf-health-increase:before { content: "\f301"; }
+.gf-health-normal:before { content: "\f302"; }
+.gf-heart-bottle:before { content: "\f303"; }
+.gf-heart-drop:before { content: "\f304"; }
+.gf-heart-inside:before { content: "\f305"; }
+.gf-heart-organ:before { content: "\f306"; }
+.gf-heart-tower:before { content: "\f307"; }
+.gf-heartburn:before { content: "\f308"; }
+.gf-heat-haze:before { content: "\f309"; }
+.gf-heavy-arrow:before { content: "\f30a"; }
+.gf-heavy-helm:before { content: "\f30b"; }
+.gf-heavy-rain:before { content: "\f30c"; }
+.gf-helmet:before { content: "\f30d"; }
+.gf-help:before { content: "\f30e"; }
+.gf-hidden:before { content: "\f30f"; }
+.gf-high-shot:before { content: "\f310"; }
+.gf-hive:before { content: "\f311"; }
+.gf-hole-ladder:before { content: "\f312"; }
+.gf-holy-grail:before { content: "\f313"; }
+.gf-holy-symbol:before { content: "\f314"; }
+.gf-honeycomb:before { content: "\f315"; }
+.gf-honeypot:before { content: "\f316"; }
+.gf-hood:before { content: "\f317"; }
+.gf-hoof:before { content: "\f318"; }
+.gf-horn-internal:before { content: "\f319"; }
+.gf-horned-helm:before { content: "\f31a"; }
+.gf-horned-skull:before { content: "\f31b"; }
+.gf-horse-head:before { content: "\f31c"; }
+.gf-horseshoe:before { content: "\f31d"; }
+.gf-hospital-cross:before { content: "\f31e"; }
+.gf-hot-spices:before { content: "\f31f"; }
+.gf-hot-surface:before { content: "\f320"; }
+.gf-hound:before { content: "\f321"; }
+.gf-hourglass:before { content: "\f322"; }
+.gf-hunting-horn:before { content: "\f323"; }
+.gf-hydra:before { content: "\f324"; }
+.gf-hydra-shot:before { content: "\f325"; }
+.gf-hypersonic-bolt:before { content: "\f326"; }
+.gf-hypodermic-test:before { content: "\f327"; }
+.gf-ice-bolt:before { content: "\f328"; }
+.gf-ice-bomb:before { content: "\f329"; }
+.gf-ice-cube:before { content: "\f32a"; }
+.gf-ice-shield:before { content: "\f32b"; }
+.gf-ice-spear:before { content: "\f32c"; }
+.gf-icebergs:before { content: "\f32d"; }
+.gf-ifrit:before { content: "\f32e"; }
+.gf-imbricated-arrows:before { content: "\f32f"; }
+.gf-imp:before { content: "\f330"; }
+.gf-imp-laugh:before { content: "\f331"; }
+.gf-impact-point:before { content: "\f332"; }
+.gf-implosion:before { content: "\f333"; }
+.gf-imprisoned:before { content: "\f334"; }
+.gf-incense:before { content: "\f335"; }
+.gf-incisors:before { content: "\f336"; }
+.gf-infested-mass:before { content: "\f337"; }
+.gf-ink-swirl:before { content: "\f338"; }
+.gf-inner-self:before { content: "\f339"; }
+.gf-insect-jaws:before { content: "\f33a"; }
+.gf-interdiction:before { content: "\f33b"; }
+.gf-internal-injury:before { content: "\f33c"; }
+.gf-internal-organ:before { content: "\f33d"; }
+.gf-invisible:before { content: "\f33e"; }
+.gf-invisible-face:before { content: "\f33f"; }
+.gf-iron-mask:before { content: "\f340"; }
+.gf-james-bond-aperture:before { content: "\f341"; }
+.gf-jawbone:before { content: "\f342"; }
+.gf-jellyfish:before { content: "\f343"; }
+.gf-jet-pack:before { content: "\f344"; }
+.gf-jetpack:before { content: "\f345"; }
+.gf-jeweled-chalice:before { content: "\f346"; }
+.gf-jigsaw-box:before { content: "\f347"; }
+.gf-jigsaw-piece:before { content: "\f348"; }
+.gf-journey:before { content: "\f349"; }
+.gf-juggler:before { content: "\f34a"; }
+.gf-kaleidoscope-pearls:before { content: "\f34b"; }
+.gf-kevlar:before { content: "\f34c"; }
+.gf-key:before { content: "\f34d"; }
+.gf-kindle:before { content: "\f34e"; }
+.gf-king:before { content: "\f34f"; }
+.gf-kitchen-knives:before { content: "\f350"; }
+.gf-knapsack:before { content: "\f351"; }
+.gf-knife-fork:before { content: "\f352"; }
+.gf-knife-thrust:before { content: "\f353"; }
+.gf-lamellar:before { content: "\f354"; }
+.gf-lamprey-mouth:before { content: "\f355"; }
+.gf-land-mine:before { content: "\f356"; }
+.gf-lantern:before { content: "\f357"; }
+.gf-lantern-flame:before { content: "\f358"; }
+.gf-laser-blast:before { content: "\f359"; }
+.gf-laser-gun:before { content: "\f35a"; }
+.gf-laser-sparks:before { content: "\f35b"; }
+.gf-laser-warning:before { content: "\f35c"; }
+.gf-laserburn:before { content: "\f35d"; }
+.gf-laurel-crown:before { content: "\f35e"; }
+.gf-laurels:before { content: "\f35f"; }
+.gf-lava:before { content: "\f360"; }
+.gf-law-star:before { content: "\f361"; }
+.gf-layered-armor:before { content: "\f362"; }
+.gf-leaf-skeleton:before { content: "\f363"; }
+.gf-leaf-swirl:before { content: "\f364"; }
+.gf-leaky-skull:before { content: "\f365"; }
+.gf-leather-boot:before { content: "\f366"; }
+.gf-leeching-worm:before { content: "\f367"; }
+.gf-leo:before { content: "\f368"; }
+.gf-letter-bomb:before { content: "\f369"; }
+.gf-level-four:before { content: "\f36a"; }
+.gf-level-four-advanced:before { content: "\f36b"; }
+.gf-level-three:before { content: "\f36c"; }
+.gf-level-three-advanced:before { content: "\f36d"; }
+.gf-level-two:before { content: "\f36e"; }
+.gf-level-two-advanced:before { content: "\f36f"; }
+.gf-lever:before { content: "\f370"; }
+.gf-libra:before { content: "\f371"; }
+.gf-life-in-the-balance:before { content: "\f372"; }
+.gf-life-support:before { content: "\f373"; }
+.gf-life-tap:before { content: "\f374"; }
+.gf-lift:before { content: "\f375"; }
+.gf-light-bulb:before { content: "\f376"; }
+.gf-lightning-arc:before { content: "\f377"; }
+.gf-lightning-bow:before { content: "\f378"; }
+.gf-lightning-branches:before { content: "\f379"; }
+.gf-lightning-frequency:before { content: "\f37a"; }
+.gf-lightning-helix:before { content: "\f37b"; }
+.gf-lightning-shield:before { content: "\f37c"; }
+.gf-lightning-shout:before { content: "\f37d"; }
+.gf-lightning-storm:before { content: "\f37e"; }
+.gf-lightning-tear:before { content: "\f37f"; }
+.gf-linked-rings:before { content: "\f380"; }
+.gf-lion:before { content: "\f381"; }
+.gf-lips:before { content: "\f382"; }
+.gf-lit-candelabra:before { content: "\f383"; }
+.gf-lizard-tongue:before { content: "\f384"; }
+.gf-lizardman:before { content: "\f385"; }
+.gf-lob-arrow:before { content: "\f386"; }
+.gf-locked-chest:before { content: "\f387"; }
+.gf-locked-fortress:before { content: "\f388"; }
+.gf-lotus:before { content: "\f389"; }
+.gf-lotus-flower:before { content: "\f38a"; }
+.gf-love-howl:before { content: "\f38b"; }
+.gf-love-song:before { content: "\f38c"; }
+.gf-lucifer-cannon:before { content: "\f38d"; }
+.gf-lyre:before { content: "\f38e"; }
+.gf-mace-head:before { content: "\f38f"; }
+.gf-machete:before { content: "\f390"; }
+.gf-mad-scientist:before { content: "\f391"; }
+.gf-maggot:before { content: "\f392"; }
+.gf-magic-gate:before { content: "\f393"; }
+.gf-magic-lamp:before { content: "\f394"; }
+.gf-magic-palm:before { content: "\f395"; }
+.gf-magic-portal:before { content: "\f396"; }
+.gf-magic-shield:before { content: "\f397"; }
+.gf-magic-swirl:before { content: "\f398"; }
+.gf-magnet:before { content: "\f399"; }
+.gf-magnet-blast:before { content: "\f39a"; }
+.gf-magnifying-glass:before { content: "\f39b"; }
+.gf-mail-shirt:before { content: "\f39c"; }
+.gf-mailed-fist:before { content: "\f39d"; }
+.gf-male:before { content: "\f39e"; }
+.gf-manacles:before { content: "\f39f"; }
+.gf-mantrap:before { content: "\f3a0"; }
+.gf-maple-leaf:before { content: "\f3a1"; }
+.gf-marrow-drain:before { content: "\f3a2"; }
+.gf-martini:before { content: "\f3a3"; }
+.gf-masked-spider:before { content: "\f3a4"; }
+.gf-mass-driver:before { content: "\f3a5"; }
+.gf-match-head:before { content: "\f3a6"; }
+.gf-materials-science:before { content: "\f3a7"; }
+.gf-maze:before { content: "\f3a8"; }
+.gf-meat:before { content: "\f3a9"; }
+.gf-meat-cleaver:before { content: "\f3aa"; }
+.gf-meat-hook:before { content: "\f3ab"; }
+.gf-mechanical-arm:before { content: "\f3ac"; }
+.gf-medal:before { content: "\f3ad"; }
+.gf-medal-skull:before { content: "\f3ae"; }
+.gf-medical-pack:before { content: "\f3af"; }
+.gf-medical-pack-alt:before { content: "\f3b0"; }
+.gf-meditation:before { content: "\f3b1"; }
+.gf-mesh-ball:before { content: "\f3b2"; }
+.gf-metal-bar:before { content: "\f3b3"; }
+.gf-metal-disc:before { content: "\f3b4"; }
+.gf-metal-hand:before { content: "\f3b5"; }
+.gf-meteor-impact:before { content: "\f3b6"; }
+.gf-microchip:before { content: "\f3b7"; }
+.gf-mineral-heart:before { content: "\f3b8"; }
+.gf-minigun:before { content: "\f3b9"; }
+.gf-mining:before { content: "\f3ba"; }
+.gf-minions:before { content: "\f3bb"; }
+.gf-minotaur:before { content: "\f3bc"; }
+.gf-miracle-medecine:before { content: "\f3bd"; }
+.gf-mirror-mirror:before { content: "\f3be"; }
+.gf-missile-mech:before { content: "\f3bf"; }
+.gf-missile-pod:before { content: "\f3c0"; }
+.gf-missile-swarm:before { content: "\f3c1"; }
+.gf-mite:before { content: "\f3c2"; }
+.gf-mite-alt:before { content: "\f3c3"; }
+.gf-moebius-star:before { content: "\f3c4"; }
+.gf-moebius-triangle:before { content: "\f3c5"; }
+.gf-molecule:before { content: "\f3c6"; }
+.gf-molotov:before { content: "\f3c7"; }
+.gf-monkey:before { content: "\f3c8"; }
+.gf-moon:before { content: "\f3c9"; }
+.gf-morbid-humour:before { content: "\f3ca"; }
+.gf-mountain-cave:before { content: "\f3cb"; }
+.gf-mountains:before { content: "\f3cc"; }
+.gf-mountaintop:before { content: "\f3cd"; }
+.gf-mouse:before { content: "\f3ce"; }
+.gf-mouth-watering:before { content: "\f3cf"; }
+.gf-movement-sensor:before { content: "\f3d0"; }
+.gf-mucous-pillar:before { content: "\f3d1"; }
+.gf-muscle-fat:before { content: "\f3d2"; }
+.gf-muscle-up:before { content: "\f3d3"; }
+.gf-mushroom:before { content: "\f3d4"; }
+.gf-mushroom-cloud:before { content: "\f3d5"; }
+.gf-mushroom-gills:before { content: "\f3d6"; }
+.gf-nailed-foot:before { content: "\f3d7"; }
+.gf-nailed-head:before { content: "\f3d8"; }
+.gf-nails:before { content: "\f3d9"; }
+.gf-needle-drill:before { content: "\f3da"; }
+.gf-needle-jaws:before { content: "\f3db"; }
+.gf-night-sky:before { content: "\f3dc"; }
+.gf-ninja-mask:before { content: "\f3dd"; }
+.gf-nodular:before { content: "\f3de"; }
+.gf-nothing-to-say:before { content: "\f3df"; }
+.gf-nuclear:before { content: "\f3e0"; }
+.gf-oak:before { content: "\f3e1"; }
+.gf-octopus:before { content: "\f3e2"; }
+.gf-omega:before { content: "\f3e3"; }
+.gf-on-target:before { content: "\f3e4"; }
+.gf-one-eyed:before { content: "\f3e5"; }
+.gf-open-book:before { content: "\f3e6"; }
+.gf-open-wound:before { content: "\f3e7"; }
+.gf-ophiuchus:before { content: "\f3e8"; }
+.gf-oppression:before { content: "\f3e9"; }
+.gf-orbital:before { content: "\f3ea"; }
+.gf-ouroboros:before { content: "\f3eb"; }
+.gf-over-infinity:before { content: "\f3ec"; }
+.gf-overdose:before { content: "\f3ed"; }
+.gf-overdrive:before { content: "\f3ee"; }
+.gf-overhead:before { content: "\f3ef"; }
+.gf-overkill:before { content: "\f3f0"; }
+.gf-overmind:before { content: "\f3f1"; }
+.gf-owl:before { content: "\f3f2"; }
+.gf-padlock:before { content: "\f3f3"; }
+.gf-palm:before { content: "\f3f4"; }
+.gf-paper:before { content: "\f3f5"; }
+.gf-paper-bomb:before { content: "\f3f6"; }
+.gf-paper-lantern:before { content: "\f3f7"; }
+.gf-papers:before { content: "\f3f8"; }
+.gf-parachute:before { content: "\f3f9"; }
+.gf-paranoia:before { content: "\f3fa"; }
+.gf-parmecia:before { content: "\f3fb"; }
+.gf-parrot-head:before { content: "\f3fc"; }
+.gf-paw:before { content: "\f3fd"; }
+.gf-paw-heart:before { content: "\f3fe"; }
+.gf-pawn:before { content: "\f3ff"; }
+.gf-pawprint:before { content: "\f400"; }
+.gf-perfume-bottle:before { content: "\f401"; }
+.gf-perspective-dice-six-faces-five:before { content: "\f402"; }
+.gf-perspective-dice-six-faces-four:before { content: "\f403"; }
+.gf-perspective-dice-six-faces-one:before { content: "\f404"; }
+.gf-perspective-dice-six-faces-random:before { content: "\f405"; }
+.gf-perspective-dice-six-faces-six:before { content: "\f406"; }
+.gf-perspective-dice-six-faces-three:before { content: "\f407"; }
+.gf-perspective-dice-six-faces-two:before { content: "\f408"; }
+.gf-pie-slice:before { content: "\f409"; }
+.gf-pierced-body:before { content: "\f40a"; }
+.gf-pierced-heart:before { content: "\f40b"; }
+.gf-pill:before { content: "\f40c"; }
+.gf-pill-drop:before { content: "\f40d"; }
+.gf-pincers:before { content: "\f40e"; }
+.gf-pine-tree:before { content: "\f40f"; }
+.gf-ping-pong-bat:before { content: "\f410"; }
+.gf-pirate-grave:before { content: "\f411"; }
+.gf-pirate-skull:before { content: "\f412"; }
+.gf-pisces:before { content: "\f413"; }
+.gf-pistol-gun:before { content: "\f414"; }
+.gf-pizza-cutter:before { content: "\f415"; }
+.gf-plain-dagger:before { content: "\f416"; }
+.gf-plasma-bolt:before { content: "\f417"; }
+.gf-plastron:before { content: "\f418"; }
+.gf-pocket-bow:before { content: "\f419"; }
+.gf-podium:before { content: "\f41a"; }
+.gf-pointing:before { content: "\f41b"; }
+.gf-pointy-hat:before { content: "\f41c"; }
+.gf-poison:before { content: "\f41d"; }
+.gf-poison-bottle:before { content: "\f41e"; }
+.gf-poison-cloud:before { content: "\f41f"; }
+.gf-poison-gas:before { content: "\f420"; }
+.gf-poker-hand:before { content: "\f421"; }
+.gf-pollen-dust:before { content: "\f422"; }
+.gf-portculis:before { content: "\f423"; }
+.gf-potion-ball:before { content: "\f424"; }
+.gf-pounce:before { content: "\f425"; }
+.gf-pouring-chalice:before { content: "\f426"; }
+.gf-powder:before { content: "\f427"; }
+.gf-prayer:before { content: "\f428"; }
+.gf-pretty-fangs:before { content: "\f429"; }
+.gf-profit:before { content: "\f42a"; }
+.gf-psychic-waves:before { content: "\f42b"; }
+.gf-pulse:before { content: "\f42c"; }
+.gf-pummeled:before { content: "\f42d"; }
+.gf-pumpkin-lantern:before { content: "\f42e"; }
+.gf-pumpkin-mask:before { content: "\f42f"; }
+.gf-punch:before { content: "\f430"; }
+.gf-puppet:before { content: "\f431"; }
+.gf-pyromaniac:before { content: "\f432"; }
+.gf-quake-stomp:before { content: "\f433"; }
+.gf-queen-crown:before { content: "\f434"; }
+.gf-quick-slash:before { content: "\f435"; }
+.gf-quicksand:before { content: "\f436"; }
+.gf-quill:before { content: "\f437"; }
+.gf-quill-ink:before { content: "\f438"; }
+.gf-radar-dish:before { content: "\f439"; }
+.gf-radar-sweep:before { content: "\f43a"; }
+.gf-radial-balance:before { content: "\f43b"; }
+.gf-radioactive:before { content: "\f43c"; }
+.gf-ragged-wound:before { content: "\f43d"; }
+.gf-rainbow-star:before { content: "\f43e"; }
+.gf-raining:before { content: "\f43f"; }
+.gf-rally-the-troops:before { content: "\f440"; }
+.gf-ram:before { content: "\f441"; }
+.gf-rapidshare-arrow:before { content: "\f442"; }
+.gf-raven:before { content: "\f443"; }
+.gf-ray-gun:before { content: "\f444"; }
+.gf-razor-blade:before { content: "\f445"; }
+.gf-reactor:before { content: "\f446"; }
+.gf-reaper-scythe:before { content: "\f447"; }
+.gf-recycle:before { content: "\f448"; }
+.gf-regeneration:before { content: "\f449"; }
+.gf-relic-blade:before { content: "\f44a"; }
+.gf-reticule:before { content: "\f44b"; }
+.gf-revolt:before { content: "\f44c"; }
+.gf-ribbon:before { content: "\f44d"; }
+.gf-ribcage:before { content: "\f44e"; }
+.gf-rifle:before { content: "\f44f"; }
+.gf-ringed-planet:before { content: "\f450"; }
+.gf-ringing-bell:before { content: "\f451"; }
+.gf-riot-shield:before { content: "\f452"; }
+.gf-roast-chicken:before { content: "\f453"; }
+.gf-robe:before { content: "\f454"; }
+.gf-robot-golem:before { content: "\f455"; }
+.gf-rock:before { content: "\f456"; }
+.gf-rocket:before { content: "\f457"; }
+.gf-rocket-flight:before { content: "\f458"; }
+.gf-rogue:before { content: "\f459"; }
+.gf-rolling-bomb:before { content: "\f45a"; }
+.gf-rose:before { content: "\f45b"; }
+.gf-round-bottom-flask:before { content: "\f45c"; }
+.gf-rss:before { content: "\f45d"; }
+.gf-run:before { content: "\f45e"; }
+.gf-rune-stone:before { content: "\f45f"; }
+.gf-rune-sword:before { content: "\f460"; }
+.gf-saber-slash:before { content: "\f461"; }
+.gf-saber-tooth:before { content: "\f462"; }
+.gf-sacrificial-dagger:before { content: "\f463"; }
+.gf-sad-crab:before { content: "\f464"; }
+.gf-sagittarius:before { content: "\f465"; }
+.gf-salamander:before { content: "\f466"; }
+.gf-salt-shaker:before { content: "\f467"; }
+.gf-sands-of-time:before { content: "\f468"; }
+.gf-saphir:before { content: "\f469"; }
+.gf-sattelite:before { content: "\f46a"; }
+.gf-saw-claw:before { content: "\f46b"; }
+.gf-scale-mail:before { content: "\f46c"; }
+.gf-scales:before { content: "\f46d"; }
+.gf-scallop:before { content: "\f46e"; }
+.gf-scalpel:before { content: "\f46f"; }
+.gf-scalpel-strike:before { content: "\f470"; }
+.gf-scarab-beetle:before { content: "\f471"; }
+.gf-scarecrow:before { content: "\f472"; }
+.gf-scissors:before { content: "\f473"; }
+.gf-scorpio:before { content: "\f474"; }
+.gf-scorpion:before { content: "\f475"; }
+.gf-scorpion-tail:before { content: "\f476"; }
+.gf-screaming:before { content: "\f477"; }
+.gf-screwdriver:before { content: "\f478"; }
+.gf-scroll-unfurled:before { content: "\f479"; }
+.gf-scythe:before { content: "\f47a"; }
+.gf-sea-dragon:before { content: "\f47b"; }
+.gf-sea-serpent:before { content: "\f47c"; }
+.gf-seated-mouse:before { content: "\f47d"; }
+.gf-select:before { content: "\f47e"; }
+.gf-semi-closed-eye:before { content: "\f47f"; }
+.gf-sentry-gun:before { content: "\f480"; }
+.gf-serrated-slash:before { content: "\f481"; }
+.gf-sewing-needle:before { content: "\f482"; }
+.gf-shard-sword:before { content: "\f483"; }
+.gf-shark-jaws:before { content: "\f484"; }
+.gf-sharp-crown:before { content: "\f485"; }
+.gf-sharp-smile:before { content: "\f486"; }
+.gf-shatter:before { content: "\f487"; }
+.gf-shattered-glass:before { content: "\f488"; }
+.gf-shattered-sword:before { content: "\f489"; }
+.gf-shield:before { content: "\f48a"; }
+.gf-shield-echoes:before { content: "\f48b"; }
+.gf-shield-reflect:before { content: "\f48c"; }
+.gf-shieldcomb:before { content: "\f48d"; }
+.gf-shining-claw:before { content: "\f48e"; }
+.gf-shining-heart:before { content: "\f48f"; }
+.gf-shining-sword:before { content: "\f490"; }
+.gf-shiny-apple:before { content: "\f491"; }
+.gf-shiny-iris:before { content: "\f492"; }
+.gf-shiny-purse:before { content: "\f493"; }
+.gf-shotgun:before { content: "\f494"; }
+.gf-shoulder-scales:before { content: "\f495"; }
+.gf-shouting:before { content: "\f496"; }
+.gf-shuriken:before { content: "\f497"; }
+.gf-sickle:before { content: "\f498"; }
+.gf-sideswipe:before { content: "\f499"; }
+.gf-silence:before { content: "\f49a"; }
+.gf-sing:before { content: "\f49b"; }
+.gf-six-eyes:before { content: "\f49c"; }
+.gf-skeleton-inside:before { content: "\f49d"; }
+.gf-skeleton-key:before { content: "\f49e"; }
+.gf-skid-mark:before { content: "\f49f"; }
+.gf-skull-bolt:before { content: "\f4a0"; }
+.gf-skull-crack:before { content: "\f4a1"; }
+.gf-skull-crossed-bones:before { content: "\f4a2"; }
+.gf-skull-in-jar:before { content: "\f4a3"; }
+.gf-skull-mask:before { content: "\f4a4"; }
+.gf-skull-ring:before { content: "\f4a5"; }
+.gf-skull-shield:before { content: "\f4a6"; }
+.gf-skull-signet:before { content: "\f4a7"; }
+.gf-slap:before { content: "\f4a8"; }
+.gf-slashed-shield:before { content: "\f4a9"; }
+.gf-slavery-whip:before { content: "\f4aa"; }
+.gf-sleepy:before { content: "\f4ab"; }
+.gf-sliced-bread:before { content: "\f4ac"; }
+.gf-slow-blob:before { content: "\f4ad"; }
+.gf-sly:before { content: "\f4ae"; }
+.gf-smitten:before { content: "\f4af"; }
+.gf-smoking-finger:before { content: "\f4b0"; }
+.gf-snail:before { content: "\f4b1"; }
+.gf-snake:before { content: "\f4b2"; }
+.gf-snake-bite:before { content: "\f4b3"; }
+.gf-snake-totem:before { content: "\f4b4"; }
+.gf-snatch:before { content: "\f4b5"; }
+.gf-snorkel:before { content: "\f4b6"; }
+.gf-snow-bottle:before { content: "\f4b7"; }
+.gf-snowflake-1:before { content: "\f4b8"; }
+.gf-snowflake-2:before { content: "\f4b9"; }
+.gf-snowing:before { content: "\f4ba"; }
+.gf-snowman:before { content: "\f4bb"; }
+.gf-soccer-ball:before { content: "\f4bc"; }
+.gf-sonic-boom:before { content: "\f4bd"; }
+.gf-sonic-screech:before { content: "\f4be"; }
+.gf-sonic-shout:before { content: "\f4bf"; }
+.gf-space-suit:before { content: "\f4c0"; }
+.gf-spade:before { content: "\f4c1"; }
+.gf-spade-skull:before { content: "\f4c2"; }
+.gf-spanner:before { content: "\f4c3"; }
+.gf-sparkling-sabre:before { content: "\f4c4"; }
+.gf-sparky-bomb:before { content: "\f4c5"; }
+.gf-sparrow:before { content: "\f4c6"; }
+.gf-spartan:before { content: "\f4c7"; }
+.gf-spatter:before { content: "\f4c8"; }
+.gf-spawn-node:before { content: "\f4c9"; }
+.gf-spears:before { content: "\f4ca"; }
+.gf-spectacle-lenses:before { content: "\f4cb"; }
+.gf-spectacles:before { content: "\f4cc"; }
+.gf-spectre:before { content: "\f4cd"; }
+.gf-spider-alt:before { content: "\f4ce"; }
+.gf-spider-face:before { content: "\f4cf"; }
+.gf-spikeball:before { content: "\f4d0"; }
+.gf-spiked-armor:before { content: "\f4d1"; }
+.gf-spiked-collar:before { content: "\f4d2"; }
+.gf-spiked-fence:before { content: "\f4d3"; }
+.gf-spiked-mace:before { content: "\f4d4"; }
+.gf-spiked-shell:before { content: "\f4d5"; }
+.gf-spiked-snail:before { content: "\f4d6"; }
+.gf-spiked-tentacle:before { content: "\f4d7"; }
+.gf-spikes:before { content: "\f4d8"; }
+.gf-spikes-full:before { content: "\f4d9"; }
+.gf-spikes-half:before { content: "\f4da"; }
+.gf-spikes-init:before { content: "\f4db"; }
+.gf-spill:before { content: "\f4dc"; }
+.gf-spinal-coil:before { content: "\f4dd"; }
+.gf-spinning-blades:before { content: "\f4de"; }
+.gf-spinning-sword:before { content: "\f4df"; }
+.gf-spiral-arrow:before { content: "\f4e0"; }
+.gf-spiral-bloom:before { content: "\f4e1"; }
+.gf-spiral-bottle:before { content: "\f4e2"; }
+.gf-spiral-shell:before { content: "\f4e3"; }
+.gf-spiral-thrust:before { content: "\f4e4"; }
+.gf-splash:before { content: "\f4e5"; }
+.gf-split-body:before { content: "\f4e6"; }
+.gf-split-cross:before { content: "\f4e7"; }
+.gf-splurt:before { content: "\f4e8"; }
+.gf-spoon:before { content: "\f4e9"; }
+.gf-spoted-flower:before { content: "\f4ea"; }
+.gf-spotted-mushroom:before { content: "\f4eb"; }
+.gf-spotted-wound:before { content: "\f4ec"; }
+.gf-spoutnik:before { content: "\f4ed"; }
+.gf-spray:before { content: "\f4ee"; }
+.gf-sprint:before { content: "\f4ef"; }
+.gf-sprout:before { content: "\f4f0"; }
+.gf-sprout-disc:before { content: "\f4f1"; }
+.gf-spyglass:before { content: "\f4f2"; }
+.gf-square-bottle:before { content: "\f4f3"; }
+.gf-squid:before { content: "\f4f4"; }
+.gf-squid-head:before { content: "\f4f5"; }
+.gf-stag-head:before { content: "\f4f6"; }
+.gf-stalagtite:before { content: "\f4f7"; }
+.gf-star-prominences:before { content: "\f4f8"; }
+.gf-star-pupil:before { content: "\f4f9"; }
+.gf-star-swirl:before { content: "\f4fa"; }
+.gf-staryu:before { content: "\f4fb"; }
+.gf-static:before { content: "\f4fc"; }
+.gf-steel-claws:before { content: "\f4fd"; }
+.gf-steeltoe-boots:before { content: "\f4fe"; }
+.gf-steelwing-emblem:before { content: "\f4ff"; }
+.gf-stick-splitting:before { content: "\f500"; }
+.gf-sticking-plaster:before { content: "\f501"; }
+.gf-stigmata:before { content: "\f502"; }
+.gf-stiletto:before { content: "\f503"; }
+.gf-stitched-wound:before { content: "\f504"; }
+.gf-stomp:before { content: "\f505"; }
+.gf-stone-axe:before { content: "\f506"; }
+.gf-stone-block:before { content: "\f507"; }
+.gf-stone-crafting:before { content: "\f508"; }
+.gf-stone-spear:before { content: "\f509"; }
+.gf-stone-sphere:before { content: "\f50a"; }
+.gf-stone-tablet:before { content: "\f50b"; }
+.gf-stone-throne:before { content: "\f50c"; }
+.gf-stone-tower:before { content: "\f50d"; }
+.gf-stopwatch:before { content: "\f50e"; }
+.gf-strafe:before { content: "\f50f"; }
+.gf-striking-balls:before { content: "\f510"; }
+.gf-striking-diamonds:before { content: "\f511"; }
+.gf-strong:before { content: "\f512"; }
+.gf-suckered-tentacle:before { content: "\f513"; }
+.gf-suicide:before { content: "\f514"; }
+.gf-suits:before { content: "\f515"; }
+.gf-sun:before { content: "\f516"; }
+.gf-sunbeams:before { content: "\f517"; }
+.gf-sundial:before { content: "\f518"; }
+.gf-sunken-eye:before { content: "\f519"; }
+.gf-sunrise:before { content: "\f51a"; }
+.gf-super-mushroom:before { content: "\f51b"; }
+.gf-supersonic-arrow:before { content: "\f51c"; }
+.gf-supersonic-bullet:before { content: "\f51d"; }
+.gf-surprised:before { content: "\f51e"; }
+.gf-surprised-skull:before { content: "\f51f"; }
+.gf-swallow:before { content: "\f520"; }
+.gf-swan:before { content: "\f521"; }
+.gf-swap-bag:before { content: "\f522"; }
+.gf-sword-array:before { content: "\f523"; }
+.gf-sword-break:before { content: "\f524"; }
+.gf-sword-clash:before { content: "\f525"; }
+.gf-sword-hilt:before { content: "\f526"; }
+.gf-sword-in-stone:before { content: "\f527"; }
+.gf-sword-slice:before { content: "\f528"; }
+.gf-sword-smithing:before { content: "\f529"; }
+.gf-sword-spade:before { content: "\f52a"; }
+.gf-sword-spin:before { content: "\f52b"; }
+.gf-syringe:before { content: "\f52c"; }
+.gf-tank:before { content: "\f52d"; }
+.gf-target-arrows:before { content: "\f52e"; }
+.gf-target-dummy:before { content: "\f52f"; }
+.gf-target-laser:before { content: "\f530"; }
+.gf-target-shot:before { content: "\f531"; }
+.gf-targeted:before { content: "\f532"; }
+.gf-targeting:before { content: "\f533"; }
+.gf-tattered-banner:before { content: "\f534"; }
+.gf-taurus:before { content: "\f535"; }
+.gf-teapot:before { content: "\f536"; }
+.gf-tear-tracks:before { content: "\f537"; }
+.gf-techno-heart:before { content: "\f538"; }
+.gf-telefrag:before { content: "\f539"; }
+.gf-telepathy:before { content: "\f53a"; }
+.gf-teleport:before { content: "\f53b"; }
+.gf-templar-heart:before { content: "\f53c"; }
+.gf-temptation:before { content: "\f53d"; }
+.gf-tennis-ball:before { content: "\f53e"; }
+.gf-tentacle-strike:before { content: "\f53f"; }
+.gf-tentacurl:before { content: "\f540"; }
+.gf-terror:before { content: "\f541"; }
+.gf-tesla:before { content: "\f542"; }
+.gf-tesla-coil:before { content: "\f543"; }
+.gf-tesla-turret:before { content: "\f544"; }
+.gf-test-tubes:before { content: "\f545"; }
+.gf-thermometer-scale:before { content: "\f546"; }
+.gf-third-eye:before { content: "\f547"; }
+.gf-thor-fist:before { content: "\f548"; }
+.gf-thorn-helix:before { content: "\f549"; }
+.gf-thorned-arrow:before { content: "\f54a"; }
+.gf-thorny-vine:before { content: "\f54b"; }
+.gf-three-keys:before { content: "\f54c"; }
+.gf-three-leaves:before { content: "\f54d"; }
+.gf-thrown-charcoal:before { content: "\f54e"; }
+.gf-thrown-daggers:before { content: "\f54f"; }
+.gf-thrown-knife:before { content: "\f550"; }
+.gf-thrown-spear:before { content: "\f551"; }
+.gf-thrust:before { content: "\f552"; }
+.gf-thunder-struck:before { content: "\f553"; }
+.gf-thunderball:before { content: "\f554"; }
+.gf-tic-tac-toe:before { content: "\f555"; }
+.gf-tick:before { content: "\f556"; }
+.gf-tied-scroll:before { content: "\f557"; }
+.gf-time-bomb:before { content: "\f558"; }
+.gf-time-trap:before { content: "\f559"; }
+.gf-tinker:before { content: "\f55a"; }
+.gf-toad-teeth:before { content: "\f55b"; }
+.gf-tombstone:before { content: "\f55c"; }
+.gf-tooth:before { content: "\f55d"; }
+.gf-top-hat:before { content: "\f55e"; }
+.gf-top-paw:before { content: "\f55f"; }
+.gf-torch:before { content: "\f560"; }
+.gf-tornado:before { content: "\f561"; }
+.gf-totem-head:before { content: "\f562"; }
+.gf-tower-fall:before { content: "\f563"; }
+.gf-trade:before { content: "\f564"; }
+.gf-trample:before { content: "\f565"; }
+.gf-transfuse:before { content: "\f566"; }
+.gf-transportation-rings:before { content: "\f567"; }
+.gf-tread:before { content: "\f568"; }
+.gf-treasure-map:before { content: "\f569"; }
+.gf-tree-branch:before { content: "\f56a"; }
+.gf-trefoil-lily:before { content: "\f56b"; }
+.gf-trefoil-shuriken:before { content: "\f56c"; }
+.gf-tribal-mask:before { content: "\f56d"; }
+.gf-trident:before { content: "\f56e"; }
+.gf-trigger-hurt:before { content: "\f56f"; }
+.gf-trilobite:before { content: "\f570"; }
+.gf-triorb:before { content: "\f571"; }
+.gf-triple-claws:before { content: "\f572"; }
+.gf-triple-needle:before { content: "\f573"; }
+.gf-triple-skulls:before { content: "\f574"; }
+.gf-tripwire:before { content: "\f575"; }
+.gf-tron-arrow:before { content: "\f576"; }
+.gf-trophy:before { content: "\f577"; }
+.gf-trousers:before { content: "\f578"; }
+.gf-turd:before { content: "\f579"; }
+.gf-turret:before { content: "\f57a"; }
+.gf-turtle:before { content: "\f57b"; }
+.gf-turtle-shell:before { content: "\f57c"; }
+.gf-twirly-flower:before { content: "\f57d"; }
+.gf-twister:before { content: "\f57e"; }
+.gf-two-feathers:before { content: "\f57f"; }
+.gf-two-shadows:before { content: "\f580"; }
+.gf-tyre:before { content: "\f581"; }
+.gf-ubisoft-sun:before { content: "\f582"; }
+.gf-udder:before { content: "\f583"; }
+.gf-ultrasound:before { content: "\f584"; }
+.gf-umbrella:before { content: "\f585"; }
+.gf-uncertainty:before { content: "\f586"; }
+.gf-underhand:before { content: "\f587"; }
+.gf-unfriendly-fire:before { content: "\f588"; }
+.gf-unlit-bomb:before { content: "\f589"; }
+.gf-unlit-candelabra:before { content: "\f58a"; }
+.gf-unplugged:before { content: "\f58b"; }
+.gf-unstable-projectile:before { content: "\f58c"; }
+.gf-usable:before { content: "\f58d"; }
+.gf-valley:before { content: "\f58e"; }
+.gf-vanilla-flower:before { content: "\f58f"; }
+.gf-vial:before { content: "\f590"; }
+.gf-vile-fluid:before { content: "\f591"; }
+.gf-vine-flower:before { content: "\f592"; }
+.gf-vine-leaf:before { content: "\f593"; }
+.gf-vine-whip:before { content: "\f594"; }
+.gf-vintage-robot:before { content: "\f595"; }
+.gf-viola:before { content: "\f596"; }
+.gf-virgo:before { content: "\f597"; }
+.gf-virus:before { content: "\f598"; }
+.gf-visored-helm:before { content: "\f599"; }
+.gf-volcano:before { content: "\f59a"; }
+.gf-vomiting:before { content: "\f59b"; }
+.gf-voodoo-doll:before { content: "\f59c"; }
+.gf-vortex:before { content: "\f59d"; }
+.gf-vulture:before { content: "\f59e"; }
+.gf-walking-boot:before { content: "\f59f"; }
+.gf-wasp-sting:before { content: "\f5a0"; }
+.gf-water-bolt:before { content: "\f5a1"; }
+.gf-water-drop:before { content: "\f5a2"; }
+.gf-water-splash:before { content: "\f5a3"; }
+.gf-wave-crest:before { content: "\f5a4"; }
+.gf-wave-strike:before { content: "\f5a5"; }
+.gf-wavy-chains:before { content: "\f5a6"; }
+.gf-wavy-itinerary:before { content: "\f5a7"; }
+.gf-wax-seal:before { content: "\f5a8"; }
+.gf-web-spit:before { content: "\f5a9"; }
+.gf-weight-crush:before { content: "\f5aa"; }
+.gf-wheat:before { content: "\f5ab"; }
+.gf-whip:before { content: "\f5ac"; }
+.gf-whiplash:before { content: "\f5ad"; }
+.gf-whirlwind:before { content: "\f5ae"; }
+.gf-white-cat:before { content: "\f5af"; }
+.gf-white-tower:before { content: "\f5b0"; }
+.gf-wildfires:before { content: "\f5b1"; }
+.gf-william-tell:before { content: "\f5b2"; }
+.gf-wine-glass:before { content: "\f5b3"; }
+.gf-wing-cloak:before { content: "\f5b4"; }
+.gf-winged-arrow:before { content: "\f5b5"; }
+.gf-winged-emblem:before { content: "\f5b6"; }
+.gf-winged-shield:before { content: "\f5b7"; }
+.gf-winged-sword:before { content: "\f5b8"; }
+.gf-wingfoot:before { content: "\f5b9"; }
+.gf-witch-flight:before { content: "\f5ba"; }
+.gf-wizard-staff:before { content: "\f5bb"; }
+.gf-wolf-head:before { content: "\f5bc"; }
+.gf-wolf-howl:before { content: "\f5bd"; }
+.gf-wolf-trap:before { content: "\f5be"; }
+.gf-wolverine-claws:before { content: "\f5bf"; }
+.gf-wood-axe:before { content: "\f5c0"; }
+.gf-wooden-door:before { content: "\f5c1"; }
+.gf-wooden-sign:before { content: "\f5c2"; }
+.gf-world:before { content: "\f5c3"; }
+.gf-worm-mouth:before { content: "\f5c4"; }
+.gf-worried-eyes:before { content: "\f5c5"; }
+.gf-wrapped-heart:before { content: "\f5c6"; }
+.gf-wrapped-sweet:before { content: "\f5c7"; }
+.gf-wrecking-ball:before { content: "\f5c8"; }
+.gf-wrench:before { content: "\f5c9"; }
+.gf-wyvern:before { content: "\f5ca"; }
+.gf-zigzag-leaf:before { content: "\f5cb"; }
+.gf-zigzag-tune:before { content: "\f5cc"; }

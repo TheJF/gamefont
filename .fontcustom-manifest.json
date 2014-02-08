@@ -1,0 +1,4958 @@
+{
+  "checksum": {
+    "previous": "601e52626910e2c24b700cd8866cf050a62b128be77b5e830c2dd3a05d635d50",
+    "current": "601e52626910e2c24b700cd8866cf050a62b128be77b5e830c2dd3a05d635d50"
+  },
+  "fonts": [
+    "fonts/gamefont_601e52626910e2c24b700cd8866cf050.ttf",
+    "fonts/gamefont_601e52626910e2c24b700cd8866cf050.svg",
+    "fonts/gamefont_601e52626910e2c24b700cd8866cf050.woff",
+    "fonts/gamefont_601e52626910e2c24b700cd8866cf050.eot"
+  ],
+  "glyphs": {
+    "ace": {
+      "codepoint": 61696,
+      "source": "svg/ace.svg"
+    },
+    "acid": {
+      "codepoint": 61697,
+      "source": "svg/acid.svg"
+    },
+    "acid-blob": {
+      "codepoint": 61698,
+      "source": "svg/acid-blob.svg"
+    },
+    "acid-tube": {
+      "codepoint": 61699,
+      "source": "svg/acid-tube.svg"
+    },
+    "acorn": {
+      "codepoint": 61700,
+      "source": "svg/acorn.svg"
+    },
+    "aerial-signal": {
+      "codepoint": 61701,
+      "source": "svg/aerial-signal.svg"
+    },
+    "aerosol": {
+      "codepoint": 61702,
+      "source": "svg/aerosol.svg"
+    },
+    "afterburn": {
+      "codepoint": 61703,
+      "source": "svg/afterburn.svg"
+    },
+    "alien-skull": {
+      "codepoint": 61704,
+      "source": "svg/alien-skull.svg"
+    },
+    "all-for-one": {
+      "codepoint": 61705,
+      "source": "svg/all-for-one.svg"
+    },
+    "alligator-clip": {
+      "codepoint": 61706,
+      "source": "svg/alligator-clip.svg"
+    },
+    "ammo-box": {
+      "codepoint": 61707,
+      "source": "svg/ammo-box.svg"
+    },
+    "ammonite": {
+      "codepoint": 61708,
+      "source": "svg/ammonite.svg"
+    },
+    "ammonite-fossil": {
+      "codepoint": 61709,
+      "source": "svg/ammonite-fossil.svg"
+    },
+    "anatomy": {
+      "codepoint": 61710,
+      "source": "svg/anatomy.svg"
+    },
+    "anchor": {
+      "codepoint": 61711,
+      "source": "svg/anchor.svg"
+    },
+    "andromeda-chain": {
+      "codepoint": 61712,
+      "source": "svg/andromeda-chain.svg"
+    },
+    "angel-outfit": {
+      "codepoint": 61713,
+      "source": "svg/angel-outfit.svg"
+    },
+    "angel-wings": {
+      "codepoint": 61714,
+      "source": "svg/angel-wings.svg"
+    },
+    "angler-fish": {
+      "codepoint": 61715,
+      "source": "svg/angler-fish.svg"
+    },
+    "angular-spider": {
+      "codepoint": 61716,
+      "source": "svg/angular-spider.svg"
+    },
+    "animal-skull": {
+      "codepoint": 61717,
+      "source": "svg/animal-skull.svg"
+    },
+    "ankh": {
+      "codepoint": 61718,
+      "source": "svg/ankh.svg"
+    },
+    "anthem": {
+      "codepoint": 61719,
+      "source": "svg/anthem.svg"
+    },
+    "anvil": {
+      "codepoint": 61720,
+      "source": "svg/anvil.svg"
+    },
+    "anvil-impact": {
+      "codepoint": 61721,
+      "source": "svg/anvil-impact.svg"
+    },
+    "apple-maggot": {
+      "codepoint": 61722,
+      "source": "svg/apple-maggot.svg"
+    },
+    "apple-seeds": {
+      "codepoint": 61723,
+      "source": "svg/apple-seeds.svg"
+    },
+    "aquarius": {
+      "codepoint": 61724,
+      "source": "svg/aquarius.svg"
+    },
+    "archery-target": {
+      "codepoint": 61725,
+      "source": "svg/archery-target.svg"
+    },
+    "architect-mask": {
+      "codepoint": 61726,
+      "source": "svg/architect-mask.svg"
+    },
+    "arcing-bolt": {
+      "codepoint": 61727,
+      "source": "svg/arcing-bolt.svg"
+    },
+    "arena": {
+      "codepoint": 61728,
+      "source": "svg/arena.svg"
+    },
+    "aries": {
+      "codepoint": 61729,
+      "source": "svg/aries.svg"
+    },
+    "armadillo-tail": {
+      "codepoint": 61730,
+      "source": "svg/armadillo-tail.svg"
+    },
+    "armoured-shell": {
+      "codepoint": 61731,
+      "source": "svg/armoured-shell.svg"
+    },
+    "arrow-cluster": {
+      "codepoint": 61732,
+      "source": "svg/arrow-cluster.svg"
+    },
+    "arrow-flights": {
+      "codepoint": 61733,
+      "source": "svg/arrow-flights.svg"
+    },
+    "arrowed": {
+      "codepoint": 61734,
+      "source": "svg/arrowed.svg"
+    },
+    "arrowhead": {
+      "codepoint": 61735,
+      "source": "svg/arrowhead.svg"
+    },
+    "arrows-shield": {
+      "codepoint": 61736,
+      "source": "svg/arrows-shield.svg"
+    },
+    "arson": {
+      "codepoint": 61737,
+      "source": "svg/arson.svg"
+    },
+    "artificial-hive": {
+      "codepoint": 61738,
+      "source": "svg/artificial-hive.svg"
+    },
+    "at-sea": {
+      "codepoint": 61739,
+      "source": "svg/at-sea.svg"
+    },
+    "atomic-slashes": {
+      "codepoint": 61740,
+      "source": "svg/atomic-slashes.svg"
+    },
+    "aubergine": {
+      "codepoint": 61741,
+      "source": "svg/aubergine.svg"
+    },
+    "aura": {
+      "codepoint": 61742,
+      "source": "svg/aura.svg"
+    },
+    "auto-repair": {
+      "codepoint": 61743,
+      "source": "svg/auto-repair.svg"
+    },
+    "autogun": {
+      "codepoint": 61744,
+      "source": "svg/autogun.svg"
+    },
+    "awareness": {
+      "codepoint": 61745,
+      "source": "svg/awareness.svg"
+    },
+    "axe-in-stump": {
+      "codepoint": 61746,
+      "source": "svg/axe-in-stump.svg"
+    },
+    "axe-swing": {
+      "codepoint": 61747,
+      "source": "svg/axe-swing.svg"
+    },
+    "back-forth": {
+      "codepoint": 61748,
+      "source": "svg/back-forth.svg"
+    },
+    "back-pain": {
+      "codepoint": 61749,
+      "source": "svg/back-pain.svg"
+    },
+    "backstab": {
+      "codepoint": 61750,
+      "source": "svg/backstab.svg"
+    },
+    "backup": {
+      "codepoint": 61751,
+      "source": "svg/backup.svg"
+    },
+    "balloons": {
+      "codepoint": 61752,
+      "source": "svg/balloons.svg"
+    },
+    "bandage-roll": {
+      "codepoint": 61753,
+      "source": "svg/bandage-roll.svg"
+    },
+    "bandaged": {
+      "codepoint": 61754,
+      "source": "svg/bandaged.svg"
+    },
+    "barbed-arrow": {
+      "codepoint": 61755,
+      "source": "svg/barbed-arrow.svg"
+    },
+    "barbed-spear": {
+      "codepoint": 61756,
+      "source": "svg/barbed-spear.svg"
+    },
+    "barbed-wire": {
+      "codepoint": 61757,
+      "source": "svg/barbed-wire.svg"
+    },
+    "barbute": {
+      "codepoint": 61758,
+      "source": "svg/barbute.svg"
+    },
+    "barefoot": {
+      "codepoint": 61759,
+      "source": "svg/barefoot.svg"
+    },
+    "bat-blade": {
+      "codepoint": 61760,
+      "source": "svg/bat-blade.svg"
+    },
+    "bat-wing": {
+      "codepoint": 61761,
+      "source": "svg/bat-wing.svg"
+    },
+    "battered-axe": {
+      "codepoint": 61762,
+      "source": "svg/battered-axe.svg"
+    },
+    "batteries": {
+      "codepoint": 61763,
+      "source": "svg/batteries.svg"
+    },
+    "battery-pack": {
+      "codepoint": 61764,
+      "source": "svg/battery-pack.svg"
+    },
+    "battery-pack-alt": {
+      "codepoint": 61765,
+      "source": "svg/battery-pack-alt.svg"
+    },
+    "battle-axe": {
+      "codepoint": 61766,
+      "source": "svg/battle-axe.svg"
+    },
+    "battle-gear": {
+      "codepoint": 61767,
+      "source": "svg/battle-gear.svg"
+    },
+    "batwing-emblem": {
+      "codepoint": 61768,
+      "source": "svg/batwing-emblem.svg"
+    },
+    "beam-wake": {
+      "codepoint": 61769,
+      "source": "svg/beam-wake.svg"
+    },
+    "beams-aura": {
+      "codepoint": 61770,
+      "source": "svg/beams-aura.svg"
+    },
+    "beanstalk": {
+      "codepoint": 61771,
+      "source": "svg/beanstalk.svg"
+    },
+    "beard": {
+      "codepoint": 61772,
+      "source": "svg/beard.svg"
+    },
+    "beast-eye": {
+      "codepoint": 61773,
+      "source": "svg/beast-eye.svg"
+    },
+    "bee": {
+      "codepoint": 61774,
+      "source": "svg/bee.svg"
+    },
+    "beech": {
+      "codepoint": 61775,
+      "source": "svg/beech.svg"
+    },
+    "beer-stein": {
+      "codepoint": 61776,
+      "source": "svg/beer-stein.svg"
+    },
+    "beetle-shell": {
+      "codepoint": 61777,
+      "source": "svg/beetle-shell.svg"
+    },
+    "behold": {
+      "codepoint": 61778,
+      "source": "svg/behold.svg"
+    },
+    "belt-buckles": {
+      "codepoint": 61779,
+      "source": "svg/belt-buckles.svg"
+    },
+    "bestial-fangs": {
+      "codepoint": 61780,
+      "source": "svg/bestial-fangs.svg"
+    },
+    "big-egg": {
+      "codepoint": 61781,
+      "source": "svg/big-egg.svg"
+    },
+    "big-wave": {
+      "codepoint": 61782,
+      "source": "svg/big-wave.svg"
+    },
+    "biohazard": {
+      "codepoint": 61783,
+      "source": "svg/biohazard.svg"
+    },
+    "bird-claw": {
+      "codepoint": 61784,
+      "source": "svg/bird-claw.svg"
+    },
+    "bird-mask": {
+      "codepoint": 61785,
+      "source": "svg/bird-mask.svg"
+    },
+    "bird-twitter": {
+      "codepoint": 61786,
+      "source": "svg/bird-twitter.svg"
+    },
+    "black-bar": {
+      "codepoint": 61787,
+      "source": "svg/black-bar.svg"
+    },
+    "black-cat": {
+      "codepoint": 61788,
+      "source": "svg/black-cat.svg"
+    },
+    "black-flag": {
+      "codepoint": 61789,
+      "source": "svg/black-flag.svg"
+    },
+    "black-hole-bolas": {
+      "codepoint": 61790,
+      "source": "svg/black-hole-bolas.svg"
+    },
+    "blackball": {
+      "codepoint": 61791,
+      "source": "svg/blackball.svg"
+    },
+    "blackcurrant": {
+      "codepoint": 61792,
+      "source": "svg/blackcurrant.svg"
+    },
+    "blade-bite": {
+      "codepoint": 61793,
+      "source": "svg/blade-bite.svg"
+    },
+    "blade-fall": {
+      "codepoint": 61794,
+      "source": "svg/blade-fall.svg"
+    },
+    "blast": {
+      "codepoint": 61795,
+      "source": "svg/blast.svg"
+    },
+    "blaster": {
+      "codepoint": 61796,
+      "source": "svg/blaster.svg"
+    },
+    "bleeding-eye": {
+      "codepoint": 61797,
+      "source": "svg/bleeding-eye.svg"
+    },
+    "bleeding-heart": {
+      "codepoint": 61798,
+      "source": "svg/bleeding-heart.svg"
+    },
+    "bloody-stash": {
+      "codepoint": 61799,
+      "source": "svg/bloody-stash.svg"
+    },
+    "blunderbuss": {
+      "codepoint": 61800,
+      "source": "svg/blunderbuss.svg"
+    },
+    "boar-tusks": {
+      "codepoint": 61801,
+      "source": "svg/boar-tusks.svg"
+    },
+    "boiling-bubbles": {
+      "codepoint": 61802,
+      "source": "svg/boiling-bubbles.svg"
+    },
+    "bolas": {
+      "codepoint": 61803,
+      "source": "svg/bolas.svg"
+    },
+    "bolt-shield": {
+      "codepoint": 61804,
+      "source": "svg/bolt-shield.svg"
+    },
+    "bolter-gun": {
+      "codepoint": 61805,
+      "source": "svg/bolter-gun.svg"
+    },
+    "bombing-run": {
+      "codepoint": 61806,
+      "source": "svg/bombing-run.svg"
+    },
+    "bone-gnawer": {
+      "codepoint": 61807,
+      "source": "svg/bone-gnawer.svg"
+    },
+    "bone-knife": {
+      "codepoint": 61808,
+      "source": "svg/bone-knife.svg"
+    },
+    "book-aura": {
+      "codepoint": 61809,
+      "source": "svg/book-aura.svg"
+    },
+    "book-cover": {
+      "codepoint": 61810,
+      "source": "svg/book-cover.svg"
+    },
+    "book-storm": {
+      "codepoint": 61811,
+      "source": "svg/book-storm.svg"
+    },
+    "bookmark": {
+      "codepoint": 61812,
+      "source": "svg/bookmark.svg"
+    },
+    "bookmarklet": {
+      "codepoint": 61813,
+      "source": "svg/bookmarklet.svg"
+    },
+    "boomerang": {
+      "codepoint": 61814,
+      "source": "svg/boomerang.svg"
+    },
+    "boot-prints": {
+      "codepoint": 61815,
+      "source": "svg/boot-prints.svg"
+    },
+    "boot-stomp": {
+      "codepoint": 61816,
+      "source": "svg/boot-stomp.svg"
+    },
+    "boots": {
+      "codepoint": 61817,
+      "source": "svg/boots.svg"
+    },
+    "bottle-vapors": {
+      "codepoint": 61818,
+      "source": "svg/bottle-vapors.svg"
+    },
+    "bottled-bolt": {
+      "codepoint": 61819,
+      "source": "svg/bottled-bolt.svg"
+    },
+    "bottom-right-3d-arrow": {
+      "codepoint": 61820,
+      "source": "svg/bottom-right-3d-arrow.svg"
+    },
+    "bowie-knife": {
+      "codepoint": 61821,
+      "source": "svg/bowie-knife.svg"
+    },
+    "bowling-pin": {
+      "codepoint": 61822,
+      "source": "svg/bowling-pin.svg"
+    },
+    "bowling-propulsion": {
+      "codepoint": 61823,
+      "source": "svg/bowling-propulsion.svg"
+    },
+    "bowman": {
+      "codepoint": 61824,
+      "source": "svg/bowman.svg"
+    },
+    "boxing-glove": {
+      "codepoint": 61825,
+      "source": "svg/boxing-glove.svg"
+    },
+    "boxing-glove-surprise": {
+      "codepoint": 61826,
+      "source": "svg/boxing-glove-surprise.svg"
+    },
+    "brain": {
+      "codepoint": 61827,
+      "source": "svg/brain.svg"
+    },
+    "brain-freeze": {
+      "codepoint": 61828,
+      "source": "svg/brain-freeze.svg"
+    },
+    "brain-stem": {
+      "codepoint": 61829,
+      "source": "svg/brain-stem.svg"
+    },
+    "brainstorm": {
+      "codepoint": 61830,
+      "source": "svg/brainstorm.svg"
+    },
+    "brandy-bottle": {
+      "codepoint": 61831,
+      "source": "svg/brandy-bottle.svg"
+    },
+    "brass-eye": {
+      "codepoint": 61832,
+      "source": "svg/brass-eye.svg"
+    },
+    "breastplate": {
+      "codepoint": 61833,
+      "source": "svg/breastplate.svg"
+    },
+    "bridge": {
+      "codepoint": 61834,
+      "source": "svg/bridge.svg"
+    },
+    "broadhead-arrow": {
+      "codepoint": 61835,
+      "source": "svg/broadhead-arrow.svg"
+    },
+    "broadsword": {
+      "codepoint": 61836,
+      "source": "svg/broadsword.svg"
+    },
+    "broken-bone": {
+      "codepoint": 61837,
+      "source": "svg/broken-bone.svg"
+    },
+    "broken-bottle": {
+      "codepoint": 61838,
+      "source": "svg/broken-bottle.svg"
+    },
+    "broken-heart": {
+      "codepoint": 61839,
+      "source": "svg/broken-heart.svg"
+    },
+    "broken-shield": {
+      "codepoint": 61840,
+      "source": "svg/broken-shield.svg"
+    },
+    "broken-skull": {
+      "codepoint": 61841,
+      "source": "svg/broken-skull.svg"
+    },
+    "broken-tablet": {
+      "codepoint": 61842,
+      "source": "svg/broken-tablet.svg"
+    },
+    "brutal-helm": {
+      "codepoint": 61843,
+      "source": "svg/brutal-helm.svg"
+    },
+    "bubble-field": {
+      "codepoint": 61844,
+      "source": "svg/bubble-field.svg"
+    },
+    "bubbling-flask": {
+      "codepoint": 61845,
+      "source": "svg/bubbling-flask.svg"
+    },
+    "bud": {
+      "codepoint": 61846,
+      "source": "svg/bud.svg"
+    },
+    "bugle-call": {
+      "codepoint": 61847,
+      "source": "svg/bugle-call.svg"
+    },
+    "bulb": {
+      "codepoint": 61848,
+      "source": "svg/bulb.svg"
+    },
+    "bull": {
+      "codepoint": 61849,
+      "source": "svg/bull.svg"
+    },
+    "bull-horns": {
+      "codepoint": 61850,
+      "source": "svg/bull-horns.svg"
+    },
+    "bullets": {
+      "codepoint": 61851,
+      "source": "svg/bullets.svg"
+    },
+    "burn": {
+      "codepoint": 61852,
+      "source": "svg/burn.svg"
+    },
+    "burning-book": {
+      "codepoint": 61853,
+      "source": "svg/burning-book.svg"
+    },
+    "burning-dot": {
+      "codepoint": 61854,
+      "source": "svg/burning-dot.svg"
+    },
+    "burning-embers": {
+      "codepoint": 61855,
+      "source": "svg/burning-embers.svg"
+    },
+    "burning-eye": {
+      "codepoint": 61856,
+      "source": "svg/burning-eye.svg"
+    },
+    "burning-meteor": {
+      "codepoint": 61857,
+      "source": "svg/burning-meteor.svg"
+    },
+    "burning-passion": {
+      "codepoint": 61858,
+      "source": "svg/burning-passion.svg"
+    },
+    "burning-round-shot": {
+      "codepoint": 61859,
+      "source": "svg/burning-round-shot.svg"
+    },
+    "burning-tree": {
+      "codepoint": 61860,
+      "source": "svg/burning-tree.svg"
+    },
+    "burst-blob": {
+      "codepoint": 61861,
+      "source": "svg/burst-blob.svg"
+    },
+    "butterfly": {
+      "codepoint": 61862,
+      "source": "svg/butterfly.svg"
+    },
+    "butterfly-warning": {
+      "codepoint": 61863,
+      "source": "svg/butterfly-warning.svg"
+    },
+    "cake-slice": {
+      "codepoint": 61864,
+      "source": "svg/cake-slice.svg"
+    },
+    "caldera": {
+      "codepoint": 61865,
+      "source": "svg/caldera.svg"
+    },
+    "campfire": {
+      "codepoint": 61866,
+      "source": "svg/campfire.svg"
+    },
+    "cancel": {
+      "codepoint": 61867,
+      "source": "svg/cancel.svg"
+    },
+    "cancer": {
+      "codepoint": 61868,
+      "source": "svg/cancer.svg"
+    },
+    "candle-flame": {
+      "codepoint": 61869,
+      "source": "svg/candle-flame.svg"
+    },
+    "candle-holder": {
+      "codepoint": 61870,
+      "source": "svg/candle-holder.svg"
+    },
+    "candle-light": {
+      "codepoint": 61871,
+      "source": "svg/candle-light.svg"
+    },
+    "candle-skull": {
+      "codepoint": 61872,
+      "source": "svg/candle-skull.svg"
+    },
+    "candlebright": {
+      "codepoint": 61873,
+      "source": "svg/candlebright.svg"
+    },
+    "cannister": {
+      "codepoint": 61874,
+      "source": "svg/cannister.svg"
+    },
+    "cannon": {
+      "codepoint": 61875,
+      "source": "svg/cannon.svg"
+    },
+    "cannon-ball": {
+      "codepoint": 61876,
+      "source": "svg/cannon-ball.svg"
+    },
+    "cannon-shot": {
+      "codepoint": 61877,
+      "source": "svg/cannon-shot.svg"
+    },
+    "capitol": {
+      "codepoint": 61878,
+      "source": "svg/capitol.svg"
+    },
+    "capricorn": {
+      "codepoint": 61879,
+      "source": "svg/capricorn.svg"
+    },
+    "cargo-crane": {
+      "codepoint": 61880,
+      "source": "svg/cargo-crane.svg"
+    },
+    "carillon": {
+      "codepoint": 61881,
+      "source": "svg/carillon.svg"
+    },
+    "carrion": {
+      "codepoint": 61882,
+      "source": "svg/carrion.svg"
+    },
+    "cartwheel": {
+      "codepoint": 61883,
+      "source": "svg/cartwheel.svg"
+    },
+    "cash": {
+      "codepoint": 61884,
+      "source": "svg/cash.svg"
+    },
+    "castle": {
+      "codepoint": 61885,
+      "source": "svg/castle.svg"
+    },
+    "cauldron": {
+      "codepoint": 61886,
+      "source": "svg/cauldron.svg"
+    },
+    "cctv-camera": {
+      "codepoint": 61887,
+      "source": "svg/cctv-camera.svg"
+    },
+    "centipede": {
+      "codepoint": 61888,
+      "source": "svg/centipede.svg"
+    },
+    "chained-heart": {
+      "codepoint": 61889,
+      "source": "svg/chained-heart.svg"
+    },
+    "chaingun": {
+      "codepoint": 61890,
+      "source": "svg/chaingun.svg"
+    },
+    "chalice-drops": {
+      "codepoint": 61891,
+      "source": "svg/chalice-drops.svg"
+    },
+    "charm": {
+      "codepoint": 61892,
+      "source": "svg/charm.svg"
+    },
+    "checkbox-tree": {
+      "codepoint": 61893,
+      "source": "svg/checkbox-tree.svg"
+    },
+    "checked-shield": {
+      "codepoint": 61894,
+      "source": "svg/checked-shield.svg"
+    },
+    "cheerful": {
+      "codepoint": 61895,
+      "source": "svg/cheerful.svg"
+    },
+    "cheese-wedge": {
+      "codepoint": 61896,
+      "source": "svg/cheese-wedge.svg"
+    },
+    "chemical-arrow": {
+      "codepoint": 61897,
+      "source": "svg/chemical-arrow.svg"
+    },
+    "chemical-bolt": {
+      "codepoint": 61898,
+      "source": "svg/chemical-bolt.svg"
+    },
+    "chemical-drop": {
+      "codepoint": 61899,
+      "source": "svg/chemical-drop.svg"
+    },
+    "chemical-tank": {
+      "codepoint": 61900,
+      "source": "svg/chemical-tank.svg"
+    },
+    "chicken-leg": {
+      "codepoint": 61901,
+      "source": "svg/chicken-leg.svg"
+    },
+    "circuitry": {
+      "codepoint": 61902,
+      "source": "svg/circuitry.svg"
+    },
+    "circular-saw": {
+      "codepoint": 61903,
+      "source": "svg/circular-saw.svg"
+    },
+    "circular-sawblade": {
+      "codepoint": 61904,
+      "source": "svg/circular-sawblade.svg"
+    },
+    "claw": {
+      "codepoint": 61905,
+      "source": "svg/claw.svg"
+    },
+    "claw-hammer": {
+      "codepoint": 61906,
+      "source": "svg/claw-hammer.svg"
+    },
+    "cloak-dagger": {
+      "codepoint": 61907,
+      "source": "svg/cloak-dagger.svg"
+    },
+    "clockwork": {
+      "codepoint": 61908,
+      "source": "svg/clockwork.svg"
+    },
+    "clout": {
+      "codepoint": 61909,
+      "source": "svg/clout.svg"
+    },
+    "clover": {
+      "codepoint": 61910,
+      "source": "svg/clover.svg"
+    },
+    "clover-spiked": {
+      "codepoint": 61911,
+      "source": "svg/clover-spiked.svg"
+    },
+    "cluster-bomb": {
+      "codepoint": 61912,
+      "source": "svg/cluster-bomb.svg"
+    },
+    "cobweb": {
+      "codepoint": 61913,
+      "source": "svg/cobweb.svg"
+    },
+    "coffee-mug": {
+      "codepoint": 61914,
+      "source": "svg/coffee-mug.svg"
+    },
+    "coffin": {
+      "codepoint": 61915,
+      "source": "svg/coffin.svg"
+    },
+    "cog": {
+      "codepoint": 61916,
+      "source": "svg/cog.svg"
+    },
+    "cog-lock": {
+      "codepoint": 61917,
+      "source": "svg/cog-lock.svg"
+    },
+    "cogsplosion": {
+      "codepoint": 61918,
+      "source": "svg/cogsplosion.svg"
+    },
+    "coiling-curl": {
+      "codepoint": 61919,
+      "source": "svg/coiling-curl.svg"
+    },
+    "cold-heart": {
+      "codepoint": 61920,
+      "source": "svg/cold-heart.svg"
+    },
+    "coma": {
+      "codepoint": 61921,
+      "source": "svg/coma.svg"
+    },
+    "comb": {
+      "codepoint": 61922,
+      "source": "svg/comb.svg"
+    },
+    "compass": {
+      "codepoint": 61923,
+      "source": "svg/compass.svg"
+    },
+    "condylura-skull": {
+      "codepoint": 61924,
+      "source": "svg/condylura-skull.svg"
+    },
+    "conversation": {
+      "codepoint": 61925,
+      "source": "svg/conversation.svg"
+    },
+    "cool-spices": {
+      "codepoint": 61926,
+      "source": "svg/cool-spices.svg"
+    },
+    "corked-tube": {
+      "codepoint": 61927,
+      "source": "svg/corked-tube.svg"
+    },
+    "cowled": {
+      "codepoint": 61928,
+      "source": "svg/cowled.svg"
+    },
+    "crab": {
+      "codepoint": 61929,
+      "source": "svg/crab.svg"
+    },
+    "crab-claw": {
+      "codepoint": 61930,
+      "source": "svg/crab-claw.svg"
+    },
+    "cracked-disc": {
+      "codepoint": 61931,
+      "source": "svg/cracked-disc.svg"
+    },
+    "cracked-glass": {
+      "codepoint": 61932,
+      "source": "svg/cracked-glass.svg"
+    },
+    "cracked-helm": {
+      "codepoint": 61933,
+      "source": "svg/cracked-helm.svg"
+    },
+    "cracked-mask": {
+      "codepoint": 61934,
+      "source": "svg/cracked-mask.svg"
+    },
+    "cracked-saber": {
+      "codepoint": 61935,
+      "source": "svg/cracked-saber.svg"
+    },
+    "cracked-shield": {
+      "codepoint": 61936,
+      "source": "svg/cracked-shield.svg"
+    },
+    "crags": {
+      "codepoint": 61937,
+      "source": "svg/crags.svg"
+    },
+    "crenulated-shield": {
+      "codepoint": 61938,
+      "source": "svg/crenulated-shield.svg"
+    },
+    "crested-helmet": {
+      "codepoint": 61939,
+      "source": "svg/crested-helmet.svg"
+    },
+    "croc-jaws": {
+      "codepoint": 61940,
+      "source": "svg/croc-jaws.svg"
+    },
+    "croc-sword": {
+      "codepoint": 61941,
+      "source": "svg/croc-sword.svg"
+    },
+    "crossbow": {
+      "codepoint": 61942,
+      "source": "svg/crossbow.svg"
+    },
+    "crossed-axes": {
+      "codepoint": 61943,
+      "source": "svg/crossed-axes.svg"
+    },
+    "crossed-bones": {
+      "codepoint": 61944,
+      "source": "svg/crossed-bones.svg"
+    },
+    "crossed-chains": {
+      "codepoint": 61945,
+      "source": "svg/crossed-chains.svg"
+    },
+    "crossed-claws": {
+      "codepoint": 61946,
+      "source": "svg/crossed-claws.svg"
+    },
+    "crossed-pistols": {
+      "codepoint": 61947,
+      "source": "svg/crossed-pistols.svg"
+    },
+    "crossed-sabres": {
+      "codepoint": 61948,
+      "source": "svg/crossed-sabres.svg"
+    },
+    "crossed-slashes": {
+      "codepoint": 61949,
+      "source": "svg/crossed-slashes.svg"
+    },
+    "crossed-swords": {
+      "codepoint": 61950,
+      "source": "svg/crossed-swords.svg"
+    },
+    "crow-dive": {
+      "codepoint": 61951,
+      "source": "svg/crow-dive.svg"
+    },
+    "crown": {
+      "codepoint": 61952,
+      "source": "svg/crown.svg"
+    },
+    "crown-coin": {
+      "codepoint": 61953,
+      "source": "svg/crown-coin.svg"
+    },
+    "crown-of-thorns": {
+      "codepoint": 61954,
+      "source": "svg/crown-of-thorns.svg"
+    },
+    "crowned-explosion": {
+      "codepoint": 61955,
+      "source": "svg/crowned-explosion.svg"
+    },
+    "crowned-heart": {
+      "codepoint": 61956,
+      "source": "svg/crowned-heart.svg"
+    },
+    "crowned-skull": {
+      "codepoint": 61957,
+      "source": "svg/crowned-skull.svg"
+    },
+    "crush": {
+      "codepoint": 61958,
+      "source": "svg/crush.svg"
+    },
+    "crystal-ball": {
+      "codepoint": 61959,
+      "source": "svg/crystal-ball.svg"
+    },
+    "crystal-cluster": {
+      "codepoint": 61960,
+      "source": "svg/crystal-cluster.svg"
+    },
+    "crystal-eye": {
+      "codepoint": 61961,
+      "source": "svg/crystal-eye.svg"
+    },
+    "crystal-growth": {
+      "codepoint": 61962,
+      "source": "svg/crystal-growth.svg"
+    },
+    "crystal-shine": {
+      "codepoint": 61963,
+      "source": "svg/crystal-shine.svg"
+    },
+    "crystal-wand": {
+      "codepoint": 61964,
+      "source": "svg/crystal-wand.svg"
+    },
+    "crystalize": {
+      "codepoint": 61965,
+      "source": "svg/crystalize.svg"
+    },
+    "cubeforce": {
+      "codepoint": 61966,
+      "source": "svg/cubeforce.svg"
+    },
+    "cubes": {
+      "codepoint": 61967,
+      "source": "svg/cubes.svg"
+    },
+    "curled-leaf": {
+      "codepoint": 61968,
+      "source": "svg/curled-leaf.svg"
+    },
+    "curled-tentacle": {
+      "codepoint": 61969,
+      "source": "svg/curled-tentacle.svg"
+    },
+    "curling-vines": {
+      "codepoint": 61970,
+      "source": "svg/curling-vines.svg"
+    },
+    "curly-wing": {
+      "codepoint": 61971,
+      "source": "svg/curly-wing.svg"
+    },
+    "curvy-knife": {
+      "codepoint": 61972,
+      "source": "svg/curvy-knife.svg"
+    },
+    "cut-diamond": {
+      "codepoint": 61973,
+      "source": "svg/cut-diamond.svg"
+    },
+    "cut-palm": {
+      "codepoint": 61974,
+      "source": "svg/cut-palm.svg"
+    },
+    "cycle": {
+      "codepoint": 61975,
+      "source": "svg/cycle.svg"
+    },
+    "cyclops": {
+      "codepoint": 61976,
+      "source": "svg/cyclops.svg"
+    },
+    "daggers": {
+      "codepoint": 61977,
+      "source": "svg/daggers.svg"
+    },
+    "daisy": {
+      "codepoint": 61978,
+      "source": "svg/daisy.svg"
+    },
+    "dark-squad": {
+      "codepoint": 61979,
+      "source": "svg/dark-squad.svg"
+    },
+    "dead-eye": {
+      "codepoint": 61980,
+      "source": "svg/dead-eye.svg"
+    },
+    "dead-wood": {
+      "codepoint": 61981,
+      "source": "svg/dead-wood.svg"
+    },
+    "death-note": {
+      "codepoint": 61982,
+      "source": "svg/death-note.svg"
+    },
+    "death-skull": {
+      "codepoint": 61983,
+      "source": "svg/death-skull.svg"
+    },
+    "death-zone": {
+      "codepoint": 61984,
+      "source": "svg/death-zone.svg"
+    },
+    "deathcab": {
+      "codepoint": 61985,
+      "source": "svg/deathcab.svg"
+    },
+    "decapitation": {
+      "codepoint": 61986,
+      "source": "svg/decapitation.svg"
+    },
+    "defibrilate": {
+      "codepoint": 61987,
+      "source": "svg/defibrilate.svg"
+    },
+    "demolish": {
+      "codepoint": 61988,
+      "source": "svg/demolish.svg"
+    },
+    "dervish-swords": {
+      "codepoint": 61989,
+      "source": "svg/dervish-swords.svg"
+    },
+    "desert-skull": {
+      "codepoint": 61990,
+      "source": "svg/desert-skull.svg"
+    },
+    "desk-lamp": {
+      "codepoint": 61991,
+      "source": "svg/desk-lamp.svg"
+    },
+    "despair": {
+      "codepoint": 61992,
+      "source": "svg/despair.svg"
+    },
+    "diablo-skull": {
+      "codepoint": 61993,
+      "source": "svg/diablo-skull.svg"
+    },
+    "diamond-hard": {
+      "codepoint": 61994,
+      "source": "svg/diamond-hard.svg"
+    },
+    "dice-six-faces-five": {
+      "codepoint": 61995,
+      "source": "svg/dice-six-faces-five.svg"
+    },
+    "dice-six-faces-four": {
+      "codepoint": 61996,
+      "source": "svg/dice-six-faces-four.svg"
+    },
+    "dice-six-faces-one": {
+      "codepoint": 61997,
+      "source": "svg/dice-six-faces-one.svg"
+    },
+    "dice-six-faces-six": {
+      "codepoint": 61998,
+      "source": "svg/dice-six-faces-six.svg"
+    },
+    "dice-six-faces-three": {
+      "codepoint": 61999,
+      "source": "svg/dice-six-faces-three.svg"
+    },
+    "dice-six-faces-two": {
+      "codepoint": 62000,
+      "source": "svg/dice-six-faces-two.svg"
+    },
+    "dig-dug": {
+      "codepoint": 62001,
+      "source": "svg/dig-dug.svg"
+    },
+    "dinosaur-bones": {
+      "codepoint": 62002,
+      "source": "svg/dinosaur-bones.svg"
+    },
+    "dinosaur-egg": {
+      "codepoint": 62003,
+      "source": "svg/dinosaur-egg.svg"
+    },
+    "dinosaur-rex": {
+      "codepoint": 62004,
+      "source": "svg/dinosaur-rex.svg"
+    },
+    "disintegrate": {
+      "codepoint": 62005,
+      "source": "svg/disintegrate.svg"
+    },
+    "distraction": {
+      "codepoint": 62006,
+      "source": "svg/distraction.svg"
+    },
+    "divergence": {
+      "codepoint": 62007,
+      "source": "svg/divergence.svg"
+    },
+    "divert": {
+      "codepoint": 62008,
+      "source": "svg/divert.svg"
+    },
+    "diving-dagger": {
+      "codepoint": 62009,
+      "source": "svg/diving-dagger.svg"
+    },
+    "dna1": {
+      "codepoint": 62010,
+      "source": "svg/dna1.svg"
+    },
+    "dna2": {
+      "codepoint": 62011,
+      "source": "svg/dna2.svg"
+    },
+    "doctor-face": {
+      "codepoint": 62012,
+      "source": "svg/doctor-face.svg"
+    },
+    "dodge": {
+      "codepoint": 62013,
+      "source": "svg/dodge.svg"
+    },
+    "domino-mask": {
+      "codepoint": 62014,
+      "source": "svg/domino-mask.svg"
+    },
+    "double-dragon": {
+      "codepoint": 62015,
+      "source": "svg/double-dragon.svg"
+    },
+    "double-quaver": {
+      "codepoint": 62016,
+      "source": "svg/double-quaver.svg"
+    },
+    "double-shot": {
+      "codepoint": 62017,
+      "source": "svg/double-shot.svg"
+    },
+    "doubled": {
+      "codepoint": 62018,
+      "source": "svg/doubled.svg"
+    },
+    "dove": {
+      "codepoint": 62019,
+      "source": "svg/dove.svg"
+    },
+    "dozen": {
+      "codepoint": 62020,
+      "source": "svg/dozen.svg"
+    },
+    "dragon-balls": {
+      "codepoint": 62021,
+      "source": "svg/dragon-balls.svg"
+    },
+    "dragon-breath": {
+      "codepoint": 62022,
+      "source": "svg/dragon-breath.svg"
+    },
+    "dragon-head": {
+      "codepoint": 62023,
+      "source": "svg/dragon-head.svg"
+    },
+    "dragon-spiral": {
+      "codepoint": 62024,
+      "source": "svg/dragon-spiral.svg"
+    },
+    "dragonfly": {
+      "codepoint": 62025,
+      "source": "svg/dragonfly.svg"
+    },
+    "drama-masks": {
+      "codepoint": 62026,
+      "source": "svg/drama-masks.svg"
+    },
+    "drill": {
+      "codepoint": 62027,
+      "source": "svg/drill.svg"
+    },
+    "drink-me": {
+      "codepoint": 62028,
+      "source": "svg/drink-me.svg"
+    },
+    "dripping-blade": {
+      "codepoint": 62029,
+      "source": "svg/dripping-blade.svg"
+    },
+    "dripping-goo": {
+      "codepoint": 62030,
+      "source": "svg/dripping-goo.svg"
+    },
+    "dripping-honey": {
+      "codepoint": 62031,
+      "source": "svg/dripping-honey.svg"
+    },
+    "dripping-knife": {
+      "codepoint": 62032,
+      "source": "svg/dripping-knife.svg"
+    },
+    "dripping-stone": {
+      "codepoint": 62033,
+      "source": "svg/dripping-stone.svg"
+    },
+    "drop": {
+      "codepoint": 62034,
+      "source": "svg/drop.svg"
+    },
+    "droplet-splash": {
+      "codepoint": 62035,
+      "source": "svg/droplet-splash.svg"
+    },
+    "droplets": {
+      "codepoint": 62036,
+      "source": "svg/droplets.svg"
+    },
+    "drowning": {
+      "codepoint": 62037,
+      "source": "svg/drowning.svg"
+    },
+    "duality": {
+      "codepoint": 62038,
+      "source": "svg/duality.svg"
+    },
+    "duel": {
+      "codepoint": 62039,
+      "source": "svg/duel.svg"
+    },
+    "eagle-emblem": {
+      "codepoint": 62040,
+      "source": "svg/eagle-emblem.svg"
+    },
+    "earth-crack": {
+      "codepoint": 62041,
+      "source": "svg/earth-crack.svg"
+    },
+    "earth-spit": {
+      "codepoint": 62042,
+      "source": "svg/earth-spit.svg"
+    },
+    "eclipse": {
+      "codepoint": 62043,
+      "source": "svg/eclipse.svg"
+    },
+    "edge-crack": {
+      "codepoint": 62044,
+      "source": "svg/edge-crack.svg"
+    },
+    "edged-shield": {
+      "codepoint": 62045,
+      "source": "svg/edged-shield.svg"
+    },
+    "egg-clutch": {
+      "codepoint": 62046,
+      "source": "svg/egg-clutch.svg"
+    },
+    "egg-pod": {
+      "codepoint": 62047,
+      "source": "svg/egg-pod.svg"
+    },
+    "elderberry": {
+      "codepoint": 62048,
+      "source": "svg/elderberry.svg"
+    },
+    "ember-shot": {
+      "codepoint": 62049,
+      "source": "svg/ember-shot.svg"
+    },
+    "embryo": {
+      "codepoint": 62050,
+      "source": "svg/embryo.svg"
+    },
+    "emerald": {
+      "codepoint": 62051,
+      "source": "svg/emerald.svg"
+    },
+    "empty-hourglass": {
+      "codepoint": 62052,
+      "source": "svg/empty-hourglass.svg"
+    },
+    "energise": {
+      "codepoint": 62053,
+      "source": "svg/energise.svg"
+    },
+    "energy-arrow": {
+      "codepoint": 62054,
+      "source": "svg/energy-arrow.svg"
+    },
+    "energy-shield": {
+      "codepoint": 62055,
+      "source": "svg/energy-shield.svg"
+    },
+    "energy-sword": {
+      "codepoint": 62056,
+      "source": "svg/energy-sword.svg"
+    },
+    "engagement-ring": {
+      "codepoint": 62057,
+      "source": "svg/engagement-ring.svg"
+    },
+    "ent-mouth": {
+      "codepoint": 62058,
+      "source": "svg/ent-mouth.svg"
+    },
+    "envelope": {
+      "codepoint": 62059,
+      "source": "svg/envelope.svg"
+    },
+    "erlenmeyer": {
+      "codepoint": 62060,
+      "source": "svg/erlenmeyer.svg"
+    },
+    "eruption": {
+      "codepoint": 62061,
+      "source": "svg/eruption.svg"
+    },
+    "eskimo": {
+      "codepoint": 62062,
+      "source": "svg/eskimo.svg"
+    },
+    "evil-book": {
+      "codepoint": 62063,
+      "source": "svg/evil-book.svg"
+    },
+    "evil-fork": {
+      "codepoint": 62064,
+      "source": "svg/evil-fork.svg"
+    },
+    "evil-moon": {
+      "codepoint": 62065,
+      "source": "svg/evil-moon.svg"
+    },
+    "evil-tree": {
+      "codepoint": 62066,
+      "source": "svg/evil-tree.svg"
+    },
+    "evil-wings": {
+      "codepoint": 62067,
+      "source": "svg/evil-wings.svg"
+    },
+    "expander": {
+      "codepoint": 62068,
+      "source": "svg/expander.svg"
+    },
+    "explosive-materials": {
+      "codepoint": 62069,
+      "source": "svg/explosive-materials.svg"
+    },
+    "extra-lucid": {
+      "codepoint": 62070,
+      "source": "svg/extra-lucid.svg"
+    },
+    "eye-shield": {
+      "codepoint": 62071,
+      "source": "svg/eye-shield.svg"
+    },
+    "eyeball": {
+      "codepoint": 62072,
+      "source": "svg/eyeball.svg"
+    },
+    "eyedropper": {
+      "codepoint": 62073,
+      "source": "svg/eyedropper.svg"
+    },
+    "eyestalk": {
+      "codepoint": 62074,
+      "source": "svg/eyestalk.svg"
+    },
+    "fairy": {
+      "codepoint": 62075,
+      "source": "svg/fairy.svg"
+    },
+    "fairy-wand": {
+      "codepoint": 62076,
+      "source": "svg/fairy-wand.svg"
+    },
+    "fall-down": {
+      "codepoint": 62077,
+      "source": "svg/fall-down.svg"
+    },
+    "falling": {
+      "codepoint": 62078,
+      "source": "svg/falling.svg"
+    },
+    "falling-eye": {
+      "codepoint": 62079,
+      "source": "svg/falling-eye.svg"
+    },
+    "falling-leaf": {
+      "codepoint": 62080,
+      "source": "svg/falling-leaf.svg"
+    },
+    "fanged-skull": {
+      "codepoint": 62081,
+      "source": "svg/fanged-skull.svg"
+    },
+    "feather": {
+      "codepoint": 62082,
+      "source": "svg/feather.svg"
+    },
+    "feathered-wing": {
+      "codepoint": 62083,
+      "source": "svg/feathered-wing.svg"
+    },
+    "fedora": {
+      "codepoint": 62084,
+      "source": "svg/fedora.svg"
+    },
+    "female": {
+      "codepoint": 62085,
+      "source": "svg/female.svg"
+    },
+    "field": {
+      "codepoint": 62086,
+      "source": "svg/field.svg"
+    },
+    "fire": {
+      "codepoint": 62087,
+      "source": "svg/fire.svg"
+    },
+    "fire-ace": {
+      "codepoint": 62088,
+      "source": "svg/fire-ace.svg"
+    },
+    "fire-axe": {
+      "codepoint": 62089,
+      "source": "svg/fire-axe.svg"
+    },
+    "fire-bomb": {
+      "codepoint": 62090,
+      "source": "svg/fire-bomb.svg"
+    },
+    "fire-bottle": {
+      "codepoint": 62091,
+      "source": "svg/fire-bottle.svg"
+    },
+    "fire-bowl": {
+      "codepoint": 62092,
+      "source": "svg/fire-bowl.svg"
+    },
+    "fire-breath": {
+      "codepoint": 62093,
+      "source": "svg/fire-breath.svg"
+    },
+    "fire-punch": {
+      "codepoint": 62094,
+      "source": "svg/fire-punch.svg"
+    },
+    "fire-ring": {
+      "codepoint": 62095,
+      "source": "svg/fire-ring.svg"
+    },
+    "fire-shield": {
+      "codepoint": 62096,
+      "source": "svg/fire-shield.svg"
+    },
+    "fire-wave": {
+      "codepoint": 62097,
+      "source": "svg/fire-wave.svg"
+    },
+    "fireball": {
+      "codepoint": 62098,
+      "source": "svg/fireball.svg"
+    },
+    "fireflake": {
+      "codepoint": 62099,
+      "source": "svg/fireflake.svg"
+    },
+    "firework-rocket": {
+      "codepoint": 62100,
+      "source": "svg/firework-rocket.svg"
+    },
+    "fishbone": {
+      "codepoint": 62101,
+      "source": "svg/fishbone.svg"
+    },
+    "fishing-hook": {
+      "codepoint": 62102,
+      "source": "svg/fishing-hook.svg"
+    },
+    "fishing-net": {
+      "codepoint": 62103,
+      "source": "svg/fishing-net.svg"
+    },
+    "fist": {
+      "codepoint": 62104,
+      "source": "svg/fist.svg"
+    },
+    "fizzing-flask": {
+      "codepoint": 62105,
+      "source": "svg/fizzing-flask.svg"
+    },
+    "flake": {
+      "codepoint": 62106,
+      "source": "svg/flake.svg"
+    },
+    "flame": {
+      "codepoint": 62107,
+      "source": "svg/flame.svg"
+    },
+    "flame-spin": {
+      "codepoint": 62108,
+      "source": "svg/flame-spin.svg"
+    },
+    "flame-tunnel": {
+      "codepoint": 62109,
+      "source": "svg/flame-tunnel.svg"
+    },
+    "flamer": {
+      "codepoint": 62110,
+      "source": "svg/flamer.svg"
+    },
+    "flaming-arrow": {
+      "codepoint": 62111,
+      "source": "svg/flaming-arrow.svg"
+    },
+    "flaming-claw": {
+      "codepoint": 62112,
+      "source": "svg/flaming-claw.svg"
+    },
+    "flaming-trident": {
+      "codepoint": 62113,
+      "source": "svg/flaming-trident.svg"
+    },
+    "flash-grenade": {
+      "codepoint": 62114,
+      "source": "svg/flash-grenade.svg"
+    },
+    "flat-hammer": {
+      "codepoint": 62115,
+      "source": "svg/flat-hammer.svg"
+    },
+    "fleshy-mass": {
+      "codepoint": 62116,
+      "source": "svg/fleshy-mass.svg"
+    },
+    "flexible-star": {
+      "codepoint": 62117,
+      "source": "svg/flexible-star.svg"
+    },
+    "floating-crystal": {
+      "codepoint": 62118,
+      "source": "svg/floating-crystal.svg"
+    },
+    "flower-pot": {
+      "codepoint": 62119,
+      "source": "svg/flower-pot.svg"
+    },
+    "flowers": {
+      "codepoint": 62120,
+      "source": "svg/flowers.svg"
+    },
+    "fluffy-cloud": {
+      "codepoint": 62121,
+      "source": "svg/fluffy-cloud.svg"
+    },
+    "fluffy-swirl": {
+      "codepoint": 62122,
+      "source": "svg/fluffy-swirl.svg"
+    },
+    "fluffy-wing": {
+      "codepoint": 62123,
+      "source": "svg/fluffy-wing.svg"
+    },
+    "flying-dagger": {
+      "codepoint": 62124,
+      "source": "svg/flying-dagger.svg"
+    },
+    "flying-flag": {
+      "codepoint": 62125,
+      "source": "svg/flying-flag.svg"
+    },
+    "foam": {
+      "codepoint": 62126,
+      "source": "svg/foam.svg"
+    },
+    "focused-lightning": {
+      "codepoint": 62127,
+      "source": "svg/focused-lightning.svg"
+    },
+    "folded-paper": {
+      "codepoint": 62128,
+      "source": "svg/folded-paper.svg"
+    },
+    "food-chain": {
+      "codepoint": 62129,
+      "source": "svg/food-chain.svg"
+    },
+    "foot-trip": {
+      "codepoint": 62130,
+      "source": "svg/foot-trip.svg"
+    },
+    "footprint": {
+      "codepoint": 62131,
+      "source": "svg/footprint.svg"
+    },
+    "forward-field": {
+      "codepoint": 62132,
+      "source": "svg/forward-field.svg"
+    },
+    "fossil": {
+      "codepoint": 62133,
+      "source": "svg/fossil.svg"
+    },
+    "fountain": {
+      "codepoint": 62134,
+      "source": "svg/fountain.svg"
+    },
+    "fountain-pen": {
+      "codepoint": 62135,
+      "source": "svg/fountain-pen.svg"
+    },
+    "fox-head": {
+      "codepoint": 62136,
+      "source": "svg/fox-head.svg"
+    },
+    "fragrance": {
+      "codepoint": 62137,
+      "source": "svg/fragrance.svg"
+    },
+    "frankenstein-creature": {
+      "codepoint": 62138,
+      "source": "svg/frankenstein-creature.svg"
+    },
+    "freedom-dove": {
+      "codepoint": 62139,
+      "source": "svg/freedom-dove.svg"
+    },
+    "frog": {
+      "codepoint": 62140,
+      "source": "svg/frog.svg"
+    },
+    "front-teeth": {
+      "codepoint": 62141,
+      "source": "svg/front-teeth.svg"
+    },
+    "frontal-lobe": {
+      "codepoint": 62142,
+      "source": "svg/frontal-lobe.svg"
+    },
+    "frostfire": {
+      "codepoint": 62143,
+      "source": "svg/frostfire.svg"
+    },
+    "frozen-arrow": {
+      "codepoint": 62144,
+      "source": "svg/frozen-arrow.svg"
+    },
+    "frozen-block": {
+      "codepoint": 62145,
+      "source": "svg/frozen-block.svg"
+    },
+    "frozen-orb": {
+      "codepoint": 62146,
+      "source": "svg/frozen-orb.svg"
+    },
+    "fruiting": {
+      "codepoint": 62147,
+      "source": "svg/fruiting.svg"
+    },
+    "galleon": {
+      "codepoint": 62148,
+      "source": "svg/galleon.svg"
+    },
+    "gamepad-cross": {
+      "codepoint": 62149,
+      "source": "svg/gamepad-cross.svg"
+    },
+    "gas-mask": {
+      "codepoint": 62150,
+      "source": "svg/gas-mask.svg"
+    },
+    "gavel": {
+      "codepoint": 62151,
+      "source": "svg/gavel.svg"
+    },
+    "gaze": {
+      "codepoint": 62152,
+      "source": "svg/gaze.svg"
+    },
+    "gear-hammer": {
+      "codepoint": 62153,
+      "source": "svg/gear-hammer.svg"
+    },
+    "gears": {
+      "codepoint": 62154,
+      "source": "svg/gears.svg"
+    },
+    "gecko": {
+      "codepoint": 62155,
+      "source": "svg/gecko.svg"
+    },
+    "gem-chain": {
+      "codepoint": 62156,
+      "source": "svg/gem-chain.svg"
+    },
+    "gem-necklace": {
+      "codepoint": 62157,
+      "source": "svg/gem-necklace.svg"
+    },
+    "gem-pendant": {
+      "codepoint": 62158,
+      "source": "svg/gem-pendant.svg"
+    },
+    "gemini": {
+      "codepoint": 62159,
+      "source": "svg/gemini.svg"
+    },
+    "gems": {
+      "codepoint": 62160,
+      "source": "svg/gems.svg"
+    },
+    "ghost": {
+      "codepoint": 62161,
+      "source": "svg/ghost.svg"
+    },
+    "gibbet": {
+      "codepoint": 62162,
+      "source": "svg/gibbet.svg"
+    },
+    "gift-of-knowledge": {
+      "codepoint": 62163,
+      "source": "svg/gift-of-knowledge.svg"
+    },
+    "gift-trap": {
+      "codepoint": 62164,
+      "source": "svg/gift-trap.svg"
+    },
+    "glass-heart": {
+      "codepoint": 62165,
+      "source": "svg/glass-heart.svg"
+    },
+    "glass-shot": {
+      "codepoint": 62166,
+      "source": "svg/glass-shot.svg"
+    },
+    "globe": {
+      "codepoint": 62167,
+      "source": "svg/globe.svg"
+    },
+    "gloop": {
+      "codepoint": 62168,
+      "source": "svg/gloop.svg"
+    },
+    "glowing-hands": {
+      "codepoint": 62169,
+      "source": "svg/glowing-hands.svg"
+    },
+    "gluttonous-smile": {
+      "codepoint": 62170,
+      "source": "svg/gluttonous-smile.svg"
+    },
+    "gluttony": {
+      "codepoint": 62171,
+      "source": "svg/gluttony.svg"
+    },
+    "gold-scarab": {
+      "codepoint": 62172,
+      "source": "svg/gold-scarab.svg"
+    },
+    "goo-explosion": {
+      "codepoint": 62173,
+      "source": "svg/goo-explosion.svg"
+    },
+    "goo-skull": {
+      "codepoint": 62174,
+      "source": "svg/goo-skull.svg"
+    },
+    "goo-spurt": {
+      "codepoint": 62175,
+      "source": "svg/goo-spurt.svg"
+    },
+    "gooey-daemon": {
+      "codepoint": 62176,
+      "source": "svg/gooey-daemon.svg"
+    },
+    "gooey-eyed-sun": {
+      "codepoint": 62177,
+      "source": "svg/gooey-eyed-sun.svg"
+    },
+    "gooey-impact": {
+      "codepoint": 62178,
+      "source": "svg/gooey-impact.svg"
+    },
+    "gooey-sword": {
+      "codepoint": 62179,
+      "source": "svg/gooey-sword.svg"
+    },
+    "grab": {
+      "codepoint": 62180,
+      "source": "svg/grab.svg"
+    },
+    "grapes": {
+      "codepoint": 62181,
+      "source": "svg/grapes.svg"
+    },
+    "grasping-claws": {
+      "codepoint": 62182,
+      "source": "svg/grasping-claws.svg"
+    },
+    "grease-trap": {
+      "codepoint": 62183,
+      "source": "svg/grease-trap.svg"
+    },
+    "grenade": {
+      "codepoint": 62184,
+      "source": "svg/grenade.svg"
+    },
+    "grim-reaper": {
+      "codepoint": 62185,
+      "source": "svg/grim-reaper.svg"
+    },
+    "groundbreaker": {
+      "codepoint": 62186,
+      "source": "svg/groundbreaker.svg"
+    },
+    "guarded-tower": {
+      "codepoint": 62187,
+      "source": "svg/guarded-tower.svg"
+    },
+    "guillotine": {
+      "codepoint": 62188,
+      "source": "svg/guillotine.svg"
+    },
+    "guitar": {
+      "codepoint": 62189,
+      "source": "svg/guitar.svg"
+    },
+    "gunshot": {
+      "codepoint": 62190,
+      "source": "svg/gunshot.svg"
+    },
+    "halberd": {
+      "codepoint": 62191,
+      "source": "svg/halberd.svg"
+    },
+    "halberd-shuriken": {
+      "codepoint": 62192,
+      "source": "svg/halberd-shuriken.svg"
+    },
+    "half-heart": {
+      "codepoint": 62193,
+      "source": "svg/half-heart.svg"
+    },
+    "hammer-drop": {
+      "codepoint": 62194,
+      "source": "svg/hammer-drop.svg"
+    },
+    "hammer-nails": {
+      "codepoint": 62195,
+      "source": "svg/hammer-nails.svg"
+    },
+    "hand": {
+      "codepoint": 62196,
+      "source": "svg/hand.svg"
+    },
+    "hand-of-god": {
+      "codepoint": 62197,
+      "source": "svg/hand-of-god.svg"
+    },
+    "handcuffs": {
+      "codepoint": 62198,
+      "source": "svg/handcuffs.svg"
+    },
+    "hanging-spider": {
+      "codepoint": 62199,
+      "source": "svg/hanging-spider.svg"
+    },
+    "harpoon-chain": {
+      "codepoint": 62200,
+      "source": "svg/harpoon-chain.svg"
+    },
+    "harpoon-trident": {
+      "codepoint": 62201,
+      "source": "svg/harpoon-trident.svg"
+    },
+    "harpy": {
+      "codepoint": 62202,
+      "source": "svg/harpy.svg"
+    },
+    "hatchets": {
+      "codepoint": 62203,
+      "source": "svg/hatchets.svg"
+    },
+    "haunting": {
+      "codepoint": 62204,
+      "source": "svg/haunting.svg"
+    },
+    "hazard-sign": {
+      "codepoint": 62205,
+      "source": "svg/hazard-sign.svg"
+    },
+    "head-shot": {
+      "codepoint": 62206,
+      "source": "svg/head-shot.svg"
+    },
+    "headshot": {
+      "codepoint": 62207,
+      "source": "svg/headshot.svg"
+    },
+    "health-decrease": {
+      "codepoint": 62208,
+      "source": "svg/health-decrease.svg"
+    },
+    "health-increase": {
+      "codepoint": 62209,
+      "source": "svg/health-increase.svg"
+    },
+    "health-normal": {
+      "codepoint": 62210,
+      "source": "svg/health-normal.svg"
+    },
+    "heart-bottle": {
+      "codepoint": 62211,
+      "source": "svg/heart-bottle.svg"
+    },
+    "heart-drop": {
+      "codepoint": 62212,
+      "source": "svg/heart-drop.svg"
+    },
+    "heart-inside": {
+      "codepoint": 62213,
+      "source": "svg/heart-inside.svg"
+    },
+    "heart-organ": {
+      "codepoint": 62214,
+      "source": "svg/heart-organ.svg"
+    },
+    "heart-tower": {
+      "codepoint": 62215,
+      "source": "svg/heart-tower.svg"
+    },
+    "heartburn": {
+      "codepoint": 62216,
+      "source": "svg/heartburn.svg"
+    },
+    "heat-haze": {
+      "codepoint": 62217,
+      "source": "svg/heat-haze.svg"
+    },
+    "heavy-arrow": {
+      "codepoint": 62218,
+      "source": "svg/heavy-arrow.svg"
+    },
+    "heavy-helm": {
+      "codepoint": 62219,
+      "source": "svg/heavy-helm.svg"
+    },
+    "heavy-rain": {
+      "codepoint": 62220,
+      "source": "svg/heavy-rain.svg"
+    },
+    "helmet": {
+      "codepoint": 62221,
+      "source": "svg/helmet.svg"
+    },
+    "help": {
+      "codepoint": 62222,
+      "source": "svg/help.svg"
+    },
+    "hidden": {
+      "codepoint": 62223,
+      "source": "svg/hidden.svg"
+    },
+    "high-shot": {
+      "codepoint": 62224,
+      "source": "svg/high-shot.svg"
+    },
+    "hive": {
+      "codepoint": 62225,
+      "source": "svg/hive.svg"
+    },
+    "hole-ladder": {
+      "codepoint": 62226,
+      "source": "svg/hole-ladder.svg"
+    },
+    "holy-grail": {
+      "codepoint": 62227,
+      "source": "svg/holy-grail.svg"
+    },
+    "holy-symbol": {
+      "codepoint": 62228,
+      "source": "svg/holy-symbol.svg"
+    },
+    "honeycomb": {
+      "codepoint": 62229,
+      "source": "svg/honeycomb.svg"
+    },
+    "honeypot": {
+      "codepoint": 62230,
+      "source": "svg/honeypot.svg"
+    },
+    "hood": {
+      "codepoint": 62231,
+      "source": "svg/hood.svg"
+    },
+    "hoof": {
+      "codepoint": 62232,
+      "source": "svg/hoof.svg"
+    },
+    "horn-internal": {
+      "codepoint": 62233,
+      "source": "svg/horn-internal.svg"
+    },
+    "horned-helm": {
+      "codepoint": 62234,
+      "source": "svg/horned-helm.svg"
+    },
+    "horned-skull": {
+      "codepoint": 62235,
+      "source": "svg/horned-skull.svg"
+    },
+    "horse-head": {
+      "codepoint": 62236,
+      "source": "svg/horse-head.svg"
+    },
+    "horseshoe": {
+      "codepoint": 62237,
+      "source": "svg/horseshoe.svg"
+    },
+    "hospital-cross": {
+      "codepoint": 62238,
+      "source": "svg/hospital-cross.svg"
+    },
+    "hot-spices": {
+      "codepoint": 62239,
+      "source": "svg/hot-spices.svg"
+    },
+    "hot-surface": {
+      "codepoint": 62240,
+      "source": "svg/hot-surface.svg"
+    },
+    "hound": {
+      "codepoint": 62241,
+      "source": "svg/hound.svg"
+    },
+    "hourglass": {
+      "codepoint": 62242,
+      "source": "svg/hourglass.svg"
+    },
+    "hunting-horn": {
+      "codepoint": 62243,
+      "source": "svg/hunting-horn.svg"
+    },
+    "hydra": {
+      "codepoint": 62244,
+      "source": "svg/hydra.svg"
+    },
+    "hydra-shot": {
+      "codepoint": 62245,
+      "source": "svg/hydra-shot.svg"
+    },
+    "hypersonic-bolt": {
+      "codepoint": 62246,
+      "source": "svg/hypersonic-bolt.svg"
+    },
+    "hypodermic-test": {
+      "codepoint": 62247,
+      "source": "svg/hypodermic-test.svg"
+    },
+    "ice-bolt": {
+      "codepoint": 62248,
+      "source": "svg/ice-bolt.svg"
+    },
+    "ice-bomb": {
+      "codepoint": 62249,
+      "source": "svg/ice-bomb.svg"
+    },
+    "ice-cube": {
+      "codepoint": 62250,
+      "source": "svg/ice-cube.svg"
+    },
+    "ice-shield": {
+      "codepoint": 62251,
+      "source": "svg/ice-shield.svg"
+    },
+    "ice-spear": {
+      "codepoint": 62252,
+      "source": "svg/ice-spear.svg"
+    },
+    "icebergs": {
+      "codepoint": 62253,
+      "source": "svg/icebergs.svg"
+    },
+    "ifrit": {
+      "codepoint": 62254,
+      "source": "svg/ifrit.svg"
+    },
+    "imbricated-arrows": {
+      "codepoint": 62255,
+      "source": "svg/imbricated-arrows.svg"
+    },
+    "imp": {
+      "codepoint": 62256,
+      "source": "svg/imp.svg"
+    },
+    "imp-laugh": {
+      "codepoint": 62257,
+      "source": "svg/imp-laugh.svg"
+    },
+    "impact-point": {
+      "codepoint": 62258,
+      "source": "svg/impact-point.svg"
+    },
+    "implosion": {
+      "codepoint": 62259,
+      "source": "svg/implosion.svg"
+    },
+    "imprisoned": {
+      "codepoint": 62260,
+      "source": "svg/imprisoned.svg"
+    },
+    "incense": {
+      "codepoint": 62261,
+      "source": "svg/incense.svg"
+    },
+    "incisors": {
+      "codepoint": 62262,
+      "source": "svg/incisors.svg"
+    },
+    "infested-mass": {
+      "codepoint": 62263,
+      "source": "svg/infested-mass.svg"
+    },
+    "ink-swirl": {
+      "codepoint": 62264,
+      "source": "svg/ink-swirl.svg"
+    },
+    "inner-self": {
+      "codepoint": 62265,
+      "source": "svg/inner-self.svg"
+    },
+    "insect-jaws": {
+      "codepoint": 62266,
+      "source": "svg/insect-jaws.svg"
+    },
+    "interdiction": {
+      "codepoint": 62267,
+      "source": "svg/interdiction.svg"
+    },
+    "internal-injury": {
+      "codepoint": 62268,
+      "source": "svg/internal-injury.svg"
+    },
+    "internal-organ": {
+      "codepoint": 62269,
+      "source": "svg/internal-organ.svg"
+    },
+    "invisible": {
+      "codepoint": 62270,
+      "source": "svg/invisible.svg"
+    },
+    "invisible-face": {
+      "codepoint": 62271,
+      "source": "svg/invisible-face.svg"
+    },
+    "iron-mask": {
+      "codepoint": 62272,
+      "source": "svg/iron-mask.svg"
+    },
+    "james-bond-aperture": {
+      "codepoint": 62273,
+      "source": "svg/james-bond-aperture.svg"
+    },
+    "jawbone": {
+      "codepoint": 62274,
+      "source": "svg/jawbone.svg"
+    },
+    "jellyfish": {
+      "codepoint": 62275,
+      "source": "svg/jellyfish.svg"
+    },
+    "jet-pack": {
+      "codepoint": 62276,
+      "source": "svg/jet-pack.svg"
+    },
+    "jetpack": {
+      "codepoint": 62277,
+      "source": "svg/jetpack.svg"
+    },
+    "jeweled-chalice": {
+      "codepoint": 62278,
+      "source": "svg/jeweled-chalice.svg"
+    },
+    "jigsaw-box": {
+      "codepoint": 62279,
+      "source": "svg/jigsaw-box.svg"
+    },
+    "jigsaw-piece": {
+      "codepoint": 62280,
+      "source": "svg/jigsaw-piece.svg"
+    },
+    "journey": {
+      "codepoint": 62281,
+      "source": "svg/journey.svg"
+    },
+    "juggler": {
+      "codepoint": 62282,
+      "source": "svg/juggler.svg"
+    },
+    "kaleidoscope-pearls": {
+      "codepoint": 62283,
+      "source": "svg/kaleidoscope-pearls.svg"
+    },
+    "kevlar": {
+      "codepoint": 62284,
+      "source": "svg/kevlar.svg"
+    },
+    "key": {
+      "codepoint": 62285,
+      "source": "svg/key.svg"
+    },
+    "kindle": {
+      "codepoint": 62286,
+      "source": "svg/kindle.svg"
+    },
+    "king": {
+      "codepoint": 62287,
+      "source": "svg/king.svg"
+    },
+    "kitchen-knives": {
+      "codepoint": 62288,
+      "source": "svg/kitchen-knives.svg"
+    },
+    "knapsack": {
+      "codepoint": 62289,
+      "source": "svg/knapsack.svg"
+    },
+    "knife-fork": {
+      "codepoint": 62290,
+      "source": "svg/knife-fork.svg"
+    },
+    "knife-thrust": {
+      "codepoint": 62291,
+      "source": "svg/knife-thrust.svg"
+    },
+    "lamellar": {
+      "codepoint": 62292,
+      "source": "svg/lamellar.svg"
+    },
+    "lamprey-mouth": {
+      "codepoint": 62293,
+      "source": "svg/lamprey-mouth.svg"
+    },
+    "land-mine": {
+      "codepoint": 62294,
+      "source": "svg/land-mine.svg"
+    },
+    "lantern": {
+      "codepoint": 62295,
+      "source": "svg/lantern.svg"
+    },
+    "lantern-flame": {
+      "codepoint": 62296,
+      "source": "svg/lantern-flame.svg"
+    },
+    "laser-blast": {
+      "codepoint": 62297,
+      "source": "svg/laser-blast.svg"
+    },
+    "laser-gun": {
+      "codepoint": 62298,
+      "source": "svg/laser-gun.svg"
+    },
+    "laser-sparks": {
+      "codepoint": 62299,
+      "source": "svg/laser-sparks.svg"
+    },
+    "laser-warning": {
+      "codepoint": 62300,
+      "source": "svg/laser-warning.svg"
+    },
+    "laserburn": {
+      "codepoint": 62301,
+      "source": "svg/laserburn.svg"
+    },
+    "laurel-crown": {
+      "codepoint": 62302,
+      "source": "svg/laurel-crown.svg"
+    },
+    "laurels": {
+      "codepoint": 62303,
+      "source": "svg/laurels.svg"
+    },
+    "lava": {
+      "codepoint": 62304,
+      "source": "svg/lava.svg"
+    },
+    "law-star": {
+      "codepoint": 62305,
+      "source": "svg/law-star.svg"
+    },
+    "layered-armor": {
+      "codepoint": 62306,
+      "source": "svg/layered-armor.svg"
+    },
+    "leaf-skeleton": {
+      "codepoint": 62307,
+      "source": "svg/leaf-skeleton.svg"
+    },
+    "leaf-swirl": {
+      "codepoint": 62308,
+      "source": "svg/leaf-swirl.svg"
+    },
+    "leaky-skull": {
+      "codepoint": 62309,
+      "source": "svg/leaky-skull.svg"
+    },
+    "leather-boot": {
+      "codepoint": 62310,
+      "source": "svg/leather-boot.svg"
+    },
+    "leeching-worm": {
+      "codepoint": 62311,
+      "source": "svg/leeching-worm.svg"
+    },
+    "leo": {
+      "codepoint": 62312,
+      "source": "svg/leo.svg"
+    },
+    "letter-bomb": {
+      "codepoint": 62313,
+      "source": "svg/letter-bomb.svg"
+    },
+    "level-four": {
+      "codepoint": 62314,
+      "source": "svg/level-four.svg"
+    },
+    "level-four-advanced": {
+      "codepoint": 62315,
+      "source": "svg/level-four-advanced.svg"
+    },
+    "level-three": {
+      "codepoint": 62316,
+      "source": "svg/level-three.svg"
+    },
+    "level-three-advanced": {
+      "codepoint": 62317,
+      "source": "svg/level-three-advanced.svg"
+    },
+    "level-two": {
+      "codepoint": 62318,
+      "source": "svg/level-two.svg"
+    },
+    "level-two-advanced": {
+      "codepoint": 62319,
+      "source": "svg/level-two-advanced.svg"
+    },
+    "lever": {
+      "codepoint": 62320,
+      "source": "svg/lever.svg"
+    },
+    "libra": {
+      "codepoint": 62321,
+      "source": "svg/libra.svg"
+    },
+    "life-in-the-balance": {
+      "codepoint": 62322,
+      "source": "svg/life-in-the-balance.svg"
+    },
+    "life-support": {
+      "codepoint": 62323,
+      "source": "svg/life-support.svg"
+    },
+    "life-tap": {
+      "codepoint": 62324,
+      "source": "svg/life-tap.svg"
+    },
+    "lift": {
+      "codepoint": 62325,
+      "source": "svg/lift.svg"
+    },
+    "light-bulb": {
+      "codepoint": 62326,
+      "source": "svg/light-bulb.svg"
+    },
+    "lightning-arc": {
+      "codepoint": 62327,
+      "source": "svg/lightning-arc.svg"
+    },
+    "lightning-bow": {
+      "codepoint": 62328,
+      "source": "svg/lightning-bow.svg"
+    },
+    "lightning-branches": {
+      "codepoint": 62329,
+      "source": "svg/lightning-branches.svg"
+    },
+    "lightning-frequency": {
+      "codepoint": 62330,
+      "source": "svg/lightning-frequency.svg"
+    },
+    "lightning-helix": {
+      "codepoint": 62331,
+      "source": "svg/lightning-helix.svg"
+    },
+    "lightning-shield": {
+      "codepoint": 62332,
+      "source": "svg/lightning-shield.svg"
+    },
+    "lightning-shout": {
+      "codepoint": 62333,
+      "source": "svg/lightning-shout.svg"
+    },
+    "lightning-storm": {
+      "codepoint": 62334,
+      "source": "svg/lightning-storm.svg"
+    },
+    "lightning-tear": {
+      "codepoint": 62335,
+      "source": "svg/lightning-tear.svg"
+    },
+    "linked-rings": {
+      "codepoint": 62336,
+      "source": "svg/linked-rings.svg"
+    },
+    "lion": {
+      "codepoint": 62337,
+      "source": "svg/lion.svg"
+    },
+    "lips": {
+      "codepoint": 62338,
+      "source": "svg/lips.svg"
+    },
+    "lit-candelabra": {
+      "codepoint": 62339,
+      "source": "svg/lit-candelabra.svg"
+    },
+    "lizard-tongue": {
+      "codepoint": 62340,
+      "source": "svg/lizard-tongue.svg"
+    },
+    "lizardman": {
+      "codepoint": 62341,
+      "source": "svg/lizardman.svg"
+    },
+    "lob-arrow": {
+      "codepoint": 62342,
+      "source": "svg/lob-arrow.svg"
+    },
+    "locked-chest": {
+      "codepoint": 62343,
+      "source": "svg/locked-chest.svg"
+    },
+    "locked-fortress": {
+      "codepoint": 62344,
+      "source": "svg/locked-fortress.svg"
+    },
+    "lotus": {
+      "codepoint": 62345,
+      "source": "svg/lotus.svg"
+    },
+    "lotus-flower": {
+      "codepoint": 62346,
+      "source": "svg/lotus-flower.svg"
+    },
+    "love-howl": {
+      "codepoint": 62347,
+      "source": "svg/love-howl.svg"
+    },
+    "love-song": {
+      "codepoint": 62348,
+      "source": "svg/love-song.svg"
+    },
+    "lucifer-cannon": {
+      "codepoint": 62349,
+      "source": "svg/lucifer-cannon.svg"
+    },
+    "lyre": {
+      "codepoint": 62350,
+      "source": "svg/lyre.svg"
+    },
+    "mace-head": {
+      "codepoint": 62351,
+      "source": "svg/mace-head.svg"
+    },
+    "machete": {
+      "codepoint": 62352,
+      "source": "svg/machete.svg"
+    },
+    "mad-scientist": {
+      "codepoint": 62353,
+      "source": "svg/mad-scientist.svg"
+    },
+    "maggot": {
+      "codepoint": 62354,
+      "source": "svg/maggot.svg"
+    },
+    "magic-gate": {
+      "codepoint": 62355,
+      "source": "svg/magic-gate.svg"
+    },
+    "magic-lamp": {
+      "codepoint": 62356,
+      "source": "svg/magic-lamp.svg"
+    },
+    "magic-palm": {
+      "codepoint": 62357,
+      "source": "svg/magic-palm.svg"
+    },
+    "magic-portal": {
+      "codepoint": 62358,
+      "source": "svg/magic-portal.svg"
+    },
+    "magic-shield": {
+      "codepoint": 62359,
+      "source": "svg/magic-shield.svg"
+    },
+    "magic-swirl": {
+      "codepoint": 62360,
+      "source": "svg/magic-swirl.svg"
+    },
+    "magnet": {
+      "codepoint": 62361,
+      "source": "svg/magnet.svg"
+    },
+    "magnet-blast": {
+      "codepoint": 62362,
+      "source": "svg/magnet-blast.svg"
+    },
+    "magnifying-glass": {
+      "codepoint": 62363,
+      "source": "svg/magnifying-glass.svg"
+    },
+    "mail-shirt": {
+      "codepoint": 62364,
+      "source": "svg/mail-shirt.svg"
+    },
+    "mailed-fist": {
+      "codepoint": 62365,
+      "source": "svg/mailed-fist.svg"
+    },
+    "male": {
+      "codepoint": 62366,
+      "source": "svg/male.svg"
+    },
+    "manacles": {
+      "codepoint": 62367,
+      "source": "svg/manacles.svg"
+    },
+    "mantrap": {
+      "codepoint": 62368,
+      "source": "svg/mantrap.svg"
+    },
+    "maple-leaf": {
+      "codepoint": 62369,
+      "source": "svg/maple-leaf.svg"
+    },
+    "marrow-drain": {
+      "codepoint": 62370,
+      "source": "svg/marrow-drain.svg"
+    },
+    "martini": {
+      "codepoint": 62371,
+      "source": "svg/martini.svg"
+    },
+    "masked-spider": {
+      "codepoint": 62372,
+      "source": "svg/masked-spider.svg"
+    },
+    "mass-driver": {
+      "codepoint": 62373,
+      "source": "svg/mass-driver.svg"
+    },
+    "match-head": {
+      "codepoint": 62374,
+      "source": "svg/match-head.svg"
+    },
+    "materials-science": {
+      "codepoint": 62375,
+      "source": "svg/materials-science.svg"
+    },
+    "maze": {
+      "codepoint": 62376,
+      "source": "svg/maze.svg"
+    },
+    "meat": {
+      "codepoint": 62377,
+      "source": "svg/meat.svg"
+    },
+    "meat-cleaver": {
+      "codepoint": 62378,
+      "source": "svg/meat-cleaver.svg"
+    },
+    "meat-hook": {
+      "codepoint": 62379,
+      "source": "svg/meat-hook.svg"
+    },
+    "mechanical-arm": {
+      "codepoint": 62380,
+      "source": "svg/mechanical-arm.svg"
+    },
+    "medal": {
+      "codepoint": 62381,
+      "source": "svg/medal.svg"
+    },
+    "medal-skull": {
+      "codepoint": 62382,
+      "source": "svg/medal-skull.svg"
+    },
+    "medical-pack": {
+      "codepoint": 62383,
+      "source": "svg/medical-pack.svg"
+    },
+    "medical-pack-alt": {
+      "codepoint": 62384,
+      "source": "svg/medical-pack-alt.svg"
+    },
+    "meditation": {
+      "codepoint": 62385,
+      "source": "svg/meditation.svg"
+    },
+    "mesh-ball": {
+      "codepoint": 62386,
+      "source": "svg/mesh-ball.svg"
+    },
+    "metal-bar": {
+      "codepoint": 62387,
+      "source": "svg/metal-bar.svg"
+    },
+    "metal-disc": {
+      "codepoint": 62388,
+      "source": "svg/metal-disc.svg"
+    },
+    "metal-hand": {
+      "codepoint": 62389,
+      "source": "svg/metal-hand.svg"
+    },
+    "meteor-impact": {
+      "codepoint": 62390,
+      "source": "svg/meteor-impact.svg"
+    },
+    "microchip": {
+      "codepoint": 62391,
+      "source": "svg/microchip.svg"
+    },
+    "mineral-heart": {
+      "codepoint": 62392,
+      "source": "svg/mineral-heart.svg"
+    },
+    "minigun": {
+      "codepoint": 62393,
+      "source": "svg/minigun.svg"
+    },
+    "mining": {
+      "codepoint": 62394,
+      "source": "svg/mining.svg"
+    },
+    "minions": {
+      "codepoint": 62395,
+      "source": "svg/minions.svg"
+    },
+    "minotaur": {
+      "codepoint": 62396,
+      "source": "svg/minotaur.svg"
+    },
+    "miracle-medecine": {
+      "codepoint": 62397,
+      "source": "svg/miracle-medecine.svg"
+    },
+    "mirror-mirror": {
+      "codepoint": 62398,
+      "source": "svg/mirror-mirror.svg"
+    },
+    "missile-mech": {
+      "codepoint": 62399,
+      "source": "svg/missile-mech.svg"
+    },
+    "missile-pod": {
+      "codepoint": 62400,
+      "source": "svg/missile-pod.svg"
+    },
+    "missile-swarm": {
+      "codepoint": 62401,
+      "source": "svg/missile-swarm.svg"
+    },
+    "mite": {
+      "codepoint": 62402,
+      "source": "svg/mite.svg"
+    },
+    "mite-alt": {
+      "codepoint": 62403,
+      "source": "svg/mite-alt.svg"
+    },
+    "moebius-star": {
+      "codepoint": 62404,
+      "source": "svg/moebius-star.svg"
+    },
+    "moebius-triangle": {
+      "codepoint": 62405,
+      "source": "svg/moebius-triangle.svg"
+    },
+    "molecule": {
+      "codepoint": 62406,
+      "source": "svg/molecule.svg"
+    },
+    "molotov": {
+      "codepoint": 62407,
+      "source": "svg/molotov.svg"
+    },
+    "monkey": {
+      "codepoint": 62408,
+      "source": "svg/monkey.svg"
+    },
+    "moon": {
+      "codepoint": 62409,
+      "source": "svg/moon.svg"
+    },
+    "morbid-humour": {
+      "codepoint": 62410,
+      "source": "svg/morbid-humour.svg"
+    },
+    "mountain-cave": {
+      "codepoint": 62411,
+      "source": "svg/mountain-cave.svg"
+    },
+    "mountains": {
+      "codepoint": 62412,
+      "source": "svg/mountains.svg"
+    },
+    "mountaintop": {
+      "codepoint": 62413,
+      "source": "svg/mountaintop.svg"
+    },
+    "mouse": {
+      "codepoint": 62414,
+      "source": "svg/mouse.svg"
+    },
+    "mouth-watering": {
+      "codepoint": 62415,
+      "source": "svg/mouth-watering.svg"
+    },
+    "movement-sensor": {
+      "codepoint": 62416,
+      "source": "svg/movement-sensor.svg"
+    },
+    "mucous-pillar": {
+      "codepoint": 62417,
+      "source": "svg/mucous-pillar.svg"
+    },
+    "muscle-fat": {
+      "codepoint": 62418,
+      "source": "svg/muscle-fat.svg"
+    },
+    "muscle-up": {
+      "codepoint": 62419,
+      "source": "svg/muscle-up.svg"
+    },
+    "mushroom": {
+      "codepoint": 62420,
+      "source": "svg/mushroom.svg"
+    },
+    "mushroom-cloud": {
+      "codepoint": 62421,
+      "source": "svg/mushroom-cloud.svg"
+    },
+    "mushroom-gills": {
+      "codepoint": 62422,
+      "source": "svg/mushroom-gills.svg"
+    },
+    "nailed-foot": {
+      "codepoint": 62423,
+      "source": "svg/nailed-foot.svg"
+    },
+    "nailed-head": {
+      "codepoint": 62424,
+      "source": "svg/nailed-head.svg"
+    },
+    "nails": {
+      "codepoint": 62425,
+      "source": "svg/nails.svg"
+    },
+    "needle-drill": {
+      "codepoint": 62426,
+      "source": "svg/needle-drill.svg"
+    },
+    "needle-jaws": {
+      "codepoint": 62427,
+      "source": "svg/needle-jaws.svg"
+    },
+    "night-sky": {
+      "codepoint": 62428,
+      "source": "svg/night-sky.svg"
+    },
+    "ninja-mask": {
+      "codepoint": 62429,
+      "source": "svg/ninja-mask.svg"
+    },
+    "nodular": {
+      "codepoint": 62430,
+      "source": "svg/nodular.svg"
+    },
+    "nothing-to-say": {
+      "codepoint": 62431,
+      "source": "svg/nothing-to-say.svg"
+    },
+    "nuclear": {
+      "codepoint": 62432,
+      "source": "svg/nuclear.svg"
+    },
+    "oak": {
+      "codepoint": 62433,
+      "source": "svg/oak.svg"
+    },
+    "octopus": {
+      "codepoint": 62434,
+      "source": "svg/octopus.svg"
+    },
+    "omega": {
+      "codepoint": 62435,
+      "source": "svg/omega.svg"
+    },
+    "on-target": {
+      "codepoint": 62436,
+      "source": "svg/on-target.svg"
+    },
+    "one-eyed": {
+      "codepoint": 62437,
+      "source": "svg/one-eyed.svg"
+    },
+    "open-book": {
+      "codepoint": 62438,
+      "source": "svg/open-book.svg"
+    },
+    "open-wound": {
+      "codepoint": 62439,
+      "source": "svg/open-wound.svg"
+    },
+    "ophiuchus": {
+      "codepoint": 62440,
+      "source": "svg/ophiuchus.svg"
+    },
+    "oppression": {
+      "codepoint": 62441,
+      "source": "svg/oppression.svg"
+    },
+    "orbital": {
+      "codepoint": 62442,
+      "source": "svg/orbital.svg"
+    },
+    "ouroboros": {
+      "codepoint": 62443,
+      "source": "svg/ouroboros.svg"
+    },
+    "over-infinity": {
+      "codepoint": 62444,
+      "source": "svg/over-infinity.svg"
+    },
+    "overdose": {
+      "codepoint": 62445,
+      "source": "svg/overdose.svg"
+    },
+    "overdrive": {
+      "codepoint": 62446,
+      "source": "svg/overdrive.svg"
+    },
+    "overhead": {
+      "codepoint": 62447,
+      "source": "svg/overhead.svg"
+    },
+    "overkill": {
+      "codepoint": 62448,
+      "source": "svg/overkill.svg"
+    },
+    "overmind": {
+      "codepoint": 62449,
+      "source": "svg/overmind.svg"
+    },
+    "owl": {
+      "codepoint": 62450,
+      "source": "svg/owl.svg"
+    },
+    "padlock": {
+      "codepoint": 62451,
+      "source": "svg/padlock.svg"
+    },
+    "palm": {
+      "codepoint": 62452,
+      "source": "svg/palm.svg"
+    },
+    "paper": {
+      "codepoint": 62453,
+      "source": "svg/paper.svg"
+    },
+    "paper-bomb": {
+      "codepoint": 62454,
+      "source": "svg/paper-bomb.svg"
+    },
+    "paper-lantern": {
+      "codepoint": 62455,
+      "source": "svg/paper-lantern.svg"
+    },
+    "papers": {
+      "codepoint": 62456,
+      "source": "svg/papers.svg"
+    },
+    "parachute": {
+      "codepoint": 62457,
+      "source": "svg/parachute.svg"
+    },
+    "paranoia": {
+      "codepoint": 62458,
+      "source": "svg/paranoia.svg"
+    },
+    "parmecia": {
+      "codepoint": 62459,
+      "source": "svg/parmecia.svg"
+    },
+    "parrot-head": {
+      "codepoint": 62460,
+      "source": "svg/parrot-head.svg"
+    },
+    "paw": {
+      "codepoint": 62461,
+      "source": "svg/paw.svg"
+    },
+    "paw-heart": {
+      "codepoint": 62462,
+      "source": "svg/paw-heart.svg"
+    },
+    "pawn": {
+      "codepoint": 62463,
+      "source": "svg/pawn.svg"
+    },
+    "pawprint": {
+      "codepoint": 62464,
+      "source": "svg/pawprint.svg"
+    },
+    "perfume-bottle": {
+      "codepoint": 62465,
+      "source": "svg/perfume-bottle.svg"
+    },
+    "perspective-dice-six-faces-five": {
+      "codepoint": 62466,
+      "source": "svg/perspective-dice-six-faces-five.svg"
+    },
+    "perspective-dice-six-faces-four": {
+      "codepoint": 62467,
+      "source": "svg/perspective-dice-six-faces-four.svg"
+    },
+    "perspective-dice-six-faces-one": {
+      "codepoint": 62468,
+      "source": "svg/perspective-dice-six-faces-one.svg"
+    },
+    "perspective-dice-six-faces-random": {
+      "codepoint": 62469,
+      "source": "svg/perspective-dice-six-faces-random.svg"
+    },
+    "perspective-dice-six-faces-six": {
+      "codepoint": 62470,
+      "source": "svg/perspective-dice-six-faces-six.svg"
+    },
+    "perspective-dice-six-faces-three": {
+      "codepoint": 62471,
+      "source": "svg/perspective-dice-six-faces-three.svg"
+    },
+    "perspective-dice-six-faces-two": {
+      "codepoint": 62472,
+      "source": "svg/perspective-dice-six-faces-two.svg"
+    },
+    "pie-slice": {
+      "codepoint": 62473,
+      "source": "svg/pie-slice.svg"
+    },
+    "pierced-body": {
+      "codepoint": 62474,
+      "source": "svg/pierced-body.svg"
+    },
+    "pierced-heart": {
+      "codepoint": 62475,
+      "source": "svg/pierced-heart.svg"
+    },
+    "pill": {
+      "codepoint": 62476,
+      "source": "svg/pill.svg"
+    },
+    "pill-drop": {
+      "codepoint": 62477,
+      "source": "svg/pill-drop.svg"
+    },
+    "pincers": {
+      "codepoint": 62478,
+      "source": "svg/pincers.svg"
+    },
+    "pine-tree": {
+      "codepoint": 62479,
+      "source": "svg/pine-tree.svg"
+    },
+    "ping-pong-bat": {
+      "codepoint": 62480,
+      "source": "svg/ping-pong-bat.svg"
+    },
+    "pirate-grave": {
+      "codepoint": 62481,
+      "source": "svg/pirate-grave.svg"
+    },
+    "pirate-skull": {
+      "codepoint": 62482,
+      "source": "svg/pirate-skull.svg"
+    },
+    "pisces": {
+      "codepoint": 62483,
+      "source": "svg/pisces.svg"
+    },
+    "pistol-gun": {
+      "codepoint": 62484,
+      "source": "svg/pistol-gun.svg"
+    },
+    "pizza-cutter": {
+      "codepoint": 62485,
+      "source": "svg/pizza-cutter.svg"
+    },
+    "plain-dagger": {
+      "codepoint": 62486,
+      "source": "svg/plain-dagger.svg"
+    },
+    "plasma-bolt": {
+      "codepoint": 62487,
+      "source": "svg/plasma-bolt.svg"
+    },
+    "plastron": {
+      "codepoint": 62488,
+      "source": "svg/plastron.svg"
+    },
+    "pocket-bow": {
+      "codepoint": 62489,
+      "source": "svg/pocket-bow.svg"
+    },
+    "podium": {
+      "codepoint": 62490,
+      "source": "svg/podium.svg"
+    },
+    "pointing": {
+      "codepoint": 62491,
+      "source": "svg/pointing.svg"
+    },
+    "pointy-hat": {
+      "codepoint": 62492,
+      "source": "svg/pointy-hat.svg"
+    },
+    "poison": {
+      "codepoint": 62493,
+      "source": "svg/poison.svg"
+    },
+    "poison-bottle": {
+      "codepoint": 62494,
+      "source": "svg/poison-bottle.svg"
+    },
+    "poison-cloud": {
+      "codepoint": 62495,
+      "source": "svg/poison-cloud.svg"
+    },
+    "poison-gas": {
+      "codepoint": 62496,
+      "source": "svg/poison-gas.svg"
+    },
+    "poker-hand": {
+      "codepoint": 62497,
+      "source": "svg/poker-hand.svg"
+    },
+    "pollen-dust": {
+      "codepoint": 62498,
+      "source": "svg/pollen-dust.svg"
+    },
+    "portculis": {
+      "codepoint": 62499,
+      "source": "svg/portculis.svg"
+    },
+    "potion-ball": {
+      "codepoint": 62500,
+      "source": "svg/potion-ball.svg"
+    },
+    "pounce": {
+      "codepoint": 62501,
+      "source": "svg/pounce.svg"
+    },
+    "pouring-chalice": {
+      "codepoint": 62502,
+      "source": "svg/pouring-chalice.svg"
+    },
+    "powder": {
+      "codepoint": 62503,
+      "source": "svg/powder.svg"
+    },
+    "prayer": {
+      "codepoint": 62504,
+      "source": "svg/prayer.svg"
+    },
+    "pretty-fangs": {
+      "codepoint": 62505,
+      "source": "svg/pretty-fangs.svg"
+    },
+    "profit": {
+      "codepoint": 62506,
+      "source": "svg/profit.svg"
+    },
+    "psychic-waves": {
+      "codepoint": 62507,
+      "source": "svg/psychic-waves.svg"
+    },
+    "pulse": {
+      "codepoint": 62508,
+      "source": "svg/pulse.svg"
+    },
+    "pummeled": {
+      "codepoint": 62509,
+      "source": "svg/pummeled.svg"
+    },
+    "pumpkin-lantern": {
+      "codepoint": 62510,
+      "source": "svg/pumpkin-lantern.svg"
+    },
+    "pumpkin-mask": {
+      "codepoint": 62511,
+      "source": "svg/pumpkin-mask.svg"
+    },
+    "punch": {
+      "codepoint": 62512,
+      "source": "svg/punch.svg"
+    },
+    "puppet": {
+      "codepoint": 62513,
+      "source": "svg/puppet.svg"
+    },
+    "pyromaniac": {
+      "codepoint": 62514,
+      "source": "svg/pyromaniac.svg"
+    },
+    "quake-stomp": {
+      "codepoint": 62515,
+      "source": "svg/quake-stomp.svg"
+    },
+    "queen-crown": {
+      "codepoint": 62516,
+      "source": "svg/queen-crown.svg"
+    },
+    "quick-slash": {
+      "codepoint": 62517,
+      "source": "svg/quick-slash.svg"
+    },
+    "quicksand": {
+      "codepoint": 62518,
+      "source": "svg/quicksand.svg"
+    },
+    "quill": {
+      "codepoint": 62519,
+      "source": "svg/quill.svg"
+    },
+    "quill-ink": {
+      "codepoint": 62520,
+      "source": "svg/quill-ink.svg"
+    },
+    "radar-dish": {
+      "codepoint": 62521,
+      "source": "svg/radar-dish.svg"
+    },
+    "radar-sweep": {
+      "codepoint": 62522,
+      "source": "svg/radar-sweep.svg"
+    },
+    "radial-balance": {
+      "codepoint": 62523,
+      "source": "svg/radial-balance.svg"
+    },
+    "radioactive": {
+      "codepoint": 62524,
+      "source": "svg/radioactive.svg"
+    },
+    "ragged-wound": {
+      "codepoint": 62525,
+      "source": "svg/ragged-wound.svg"
+    },
+    "rainbow-star": {
+      "codepoint": 62526,
+      "source": "svg/rainbow-star.svg"
+    },
+    "raining": {
+      "codepoint": 62527,
+      "source": "svg/raining.svg"
+    },
+    "rally-the-troops": {
+      "codepoint": 62528,
+      "source": "svg/rally-the-troops.svg"
+    },
+    "ram": {
+      "codepoint": 62529,
+      "source": "svg/ram.svg"
+    },
+    "rapidshare-arrow": {
+      "codepoint": 62530,
+      "source": "svg/rapidshare-arrow.svg"
+    },
+    "raven": {
+      "codepoint": 62531,
+      "source": "svg/raven.svg"
+    },
+    "ray-gun": {
+      "codepoint": 62532,
+      "source": "svg/ray-gun.svg"
+    },
+    "razor-blade": {
+      "codepoint": 62533,
+      "source": "svg/razor-blade.svg"
+    },
+    "reactor": {
+      "codepoint": 62534,
+      "source": "svg/reactor.svg"
+    },
+    "reaper-scythe": {
+      "codepoint": 62535,
+      "source": "svg/reaper-scythe.svg"
+    },
+    "recycle": {
+      "codepoint": 62536,
+      "source": "svg/recycle.svg"
+    },
+    "regeneration": {
+      "codepoint": 62537,
+      "source": "svg/regeneration.svg"
+    },
+    "relic-blade": {
+      "codepoint": 62538,
+      "source": "svg/relic-blade.svg"
+    },
+    "reticule": {
+      "codepoint": 62539,
+      "source": "svg/reticule.svg"
+    },
+    "revolt": {
+      "codepoint": 62540,
+      "source": "svg/revolt.svg"
+    },
+    "ribbon": {
+      "codepoint": 62541,
+      "source": "svg/ribbon.svg"
+    },
+    "ribcage": {
+      "codepoint": 62542,
+      "source": "svg/ribcage.svg"
+    },
+    "rifle": {
+      "codepoint": 62543,
+      "source": "svg/rifle.svg"
+    },
+    "ringed-planet": {
+      "codepoint": 62544,
+      "source": "svg/ringed-planet.svg"
+    },
+    "ringing-bell": {
+      "codepoint": 62545,
+      "source": "svg/ringing-bell.svg"
+    },
+    "riot-shield": {
+      "codepoint": 62546,
+      "source": "svg/riot-shield.svg"
+    },
+    "roast-chicken": {
+      "codepoint": 62547,
+      "source": "svg/roast-chicken.svg"
+    },
+    "robe": {
+      "codepoint": 62548,
+      "source": "svg/robe.svg"
+    },
+    "robot-golem": {
+      "codepoint": 62549,
+      "source": "svg/robot-golem.svg"
+    },
+    "rock": {
+      "codepoint": 62550,
+      "source": "svg/rock.svg"
+    },
+    "rocket": {
+      "codepoint": 62551,
+      "source": "svg/rocket.svg"
+    },
+    "rocket-flight": {
+      "codepoint": 62552,
+      "source": "svg/rocket-flight.svg"
+    },
+    "rogue": {
+      "codepoint": 62553,
+      "source": "svg/rogue.svg"
+    },
+    "rolling-bomb": {
+      "codepoint": 62554,
+      "source": "svg/rolling-bomb.svg"
+    },
+    "rose": {
+      "codepoint": 62555,
+      "source": "svg/rose.svg"
+    },
+    "round-bottom-flask": {
+      "codepoint": 62556,
+      "source": "svg/round-bottom-flask.svg"
+    },
+    "rss": {
+      "codepoint": 62557,
+      "source": "svg/rss.svg"
+    },
+    "run": {
+      "codepoint": 62558,
+      "source": "svg/run.svg"
+    },
+    "rune-stone": {
+      "codepoint": 62559,
+      "source": "svg/rune-stone.svg"
+    },
+    "rune-sword": {
+      "codepoint": 62560,
+      "source": "svg/rune-sword.svg"
+    },
+    "saber-slash": {
+      "codepoint": 62561,
+      "source": "svg/saber-slash.svg"
+    },
+    "saber-tooth": {
+      "codepoint": 62562,
+      "source": "svg/saber-tooth.svg"
+    },
+    "sacrificial-dagger": {
+      "codepoint": 62563,
+      "source": "svg/sacrificial-dagger.svg"
+    },
+    "sad-crab": {
+      "codepoint": 62564,
+      "source": "svg/sad-crab.svg"
+    },
+    "sagittarius": {
+      "codepoint": 62565,
+      "source": "svg/sagittarius.svg"
+    },
+    "salamander": {
+      "codepoint": 62566,
+      "source": "svg/salamander.svg"
+    },
+    "salt-shaker": {
+      "codepoint": 62567,
+      "source": "svg/salt-shaker.svg"
+    },
+    "sands-of-time": {
+      "codepoint": 62568,
+      "source": "svg/sands-of-time.svg"
+    },
+    "saphir": {
+      "codepoint": 62569,
+      "source": "svg/saphir.svg"
+    },
+    "sattelite": {
+      "codepoint": 62570,
+      "source": "svg/sattelite.svg"
+    },
+    "saw-claw": {
+      "codepoint": 62571,
+      "source": "svg/saw-claw.svg"
+    },
+    "scale-mail": {
+      "codepoint": 62572,
+      "source": "svg/scale-mail.svg"
+    },
+    "scales": {
+      "codepoint": 62573,
+      "source": "svg/scales.svg"
+    },
+    "scallop": {
+      "codepoint": 62574,
+      "source": "svg/scallop.svg"
+    },
+    "scalpel": {
+      "codepoint": 62575,
+      "source": "svg/scalpel.svg"
+    },
+    "scalpel-strike": {
+      "codepoint": 62576,
+      "source": "svg/scalpel-strike.svg"
+    },
+    "scarab-beetle": {
+      "codepoint": 62577,
+      "source": "svg/scarab-beetle.svg"
+    },
+    "scarecrow": {
+      "codepoint": 62578,
+      "source": "svg/scarecrow.svg"
+    },
+    "scissors": {
+      "codepoint": 62579,
+      "source": "svg/scissors.svg"
+    },
+    "scorpio": {
+      "codepoint": 62580,
+      "source": "svg/scorpio.svg"
+    },
+    "scorpion": {
+      "codepoint": 62581,
+      "source": "svg/scorpion.svg"
+    },
+    "scorpion-tail": {
+      "codepoint": 62582,
+      "source": "svg/scorpion-tail.svg"
+    },
+    "screaming": {
+      "codepoint": 62583,
+      "source": "svg/screaming.svg"
+    },
+    "screwdriver": {
+      "codepoint": 62584,
+      "source": "svg/screwdriver.svg"
+    },
+    "scroll-unfurled": {
+      "codepoint": 62585,
+      "source": "svg/scroll-unfurled.svg"
+    },
+    "scythe": {
+      "codepoint": 62586,
+      "source": "svg/scythe.svg"
+    },
+    "sea-dragon": {
+      "codepoint": 62587,
+      "source": "svg/sea-dragon.svg"
+    },
+    "sea-serpent": {
+      "codepoint": 62588,
+      "source": "svg/sea-serpent.svg"
+    },
+    "seated-mouse": {
+      "codepoint": 62589,
+      "source": "svg/seated-mouse.svg"
+    },
+    "select": {
+      "codepoint": 62590,
+      "source": "svg/select.svg"
+    },
+    "semi-closed-eye": {
+      "codepoint": 62591,
+      "source": "svg/semi-closed-eye.svg"
+    },
+    "sentry-gun": {
+      "codepoint": 62592,
+      "source": "svg/sentry-gun.svg"
+    },
+    "serrated-slash": {
+      "codepoint": 62593,
+      "source": "svg/serrated-slash.svg"
+    },
+    "sewing-needle": {
+      "codepoint": 62594,
+      "source": "svg/sewing-needle.svg"
+    },
+    "shard-sword": {
+      "codepoint": 62595,
+      "source": "svg/shard-sword.svg"
+    },
+    "shark-jaws": {
+      "codepoint": 62596,
+      "source": "svg/shark-jaws.svg"
+    },
+    "sharp-crown": {
+      "codepoint": 62597,
+      "source": "svg/sharp-crown.svg"
+    },
+    "sharp-smile": {
+      "codepoint": 62598,
+      "source": "svg/sharp-smile.svg"
+    },
+    "shatter": {
+      "codepoint": 62599,
+      "source": "svg/shatter.svg"
+    },
+    "shattered-glass": {
+      "codepoint": 62600,
+      "source": "svg/shattered-glass.svg"
+    },
+    "shattered-sword": {
+      "codepoint": 62601,
+      "source": "svg/shattered-sword.svg"
+    },
+    "shield": {
+      "codepoint": 62602,
+      "source": "svg/shield.svg"
+    },
+    "shield-echoes": {
+      "codepoint": 62603,
+      "source": "svg/shield-echoes.svg"
+    },
+    "shield-reflect": {
+      "codepoint": 62604,
+      "source": "svg/shield-reflect.svg"
+    },
+    "shieldcomb": {
+      "codepoint": 62605,
+      "source": "svg/shieldcomb.svg"
+    },
+    "shining-claw": {
+      "codepoint": 62606,
+      "source": "svg/shining-claw.svg"
+    },
+    "shining-heart": {
+      "codepoint": 62607,
+      "source": "svg/shining-heart.svg"
+    },
+    "shining-sword": {
+      "codepoint": 62608,
+      "source": "svg/shining-sword.svg"
+    },
+    "shiny-apple": {
+      "codepoint": 62609,
+      "source": "svg/shiny-apple.svg"
+    },
+    "shiny-iris": {
+      "codepoint": 62610,
+      "source": "svg/shiny-iris.svg"
+    },
+    "shiny-purse": {
+      "codepoint": 62611,
+      "source": "svg/shiny-purse.svg"
+    },
+    "shotgun": {
+      "codepoint": 62612,
+      "source": "svg/shotgun.svg"
+    },
+    "shoulder-scales": {
+      "codepoint": 62613,
+      "source": "svg/shoulder-scales.svg"
+    },
+    "shouting": {
+      "codepoint": 62614,
+      "source": "svg/shouting.svg"
+    },
+    "shuriken": {
+      "codepoint": 62615,
+      "source": "svg/shuriken.svg"
+    },
+    "sickle": {
+      "codepoint": 62616,
+      "source": "svg/sickle.svg"
+    },
+    "sideswipe": {
+      "codepoint": 62617,
+      "source": "svg/sideswipe.svg"
+    },
+    "silence": {
+      "codepoint": 62618,
+      "source": "svg/silence.svg"
+    },
+    "sing": {
+      "codepoint": 62619,
+      "source": "svg/sing.svg"
+    },
+    "six-eyes": {
+      "codepoint": 62620,
+      "source": "svg/six-eyes.svg"
+    },
+    "skeleton-inside": {
+      "codepoint": 62621,
+      "source": "svg/skeleton-inside.svg"
+    },
+    "skeleton-key": {
+      "codepoint": 62622,
+      "source": "svg/skeleton-key.svg"
+    },
+    "skid-mark": {
+      "codepoint": 62623,
+      "source": "svg/skid-mark.svg"
+    },
+    "skull-bolt": {
+      "codepoint": 62624,
+      "source": "svg/skull-bolt.svg"
+    },
+    "skull-crack": {
+      "codepoint": 62625,
+      "source": "svg/skull-crack.svg"
+    },
+    "skull-crossed-bones": {
+      "codepoint": 62626,
+      "source": "svg/skull-crossed-bones.svg"
+    },
+    "skull-in-jar": {
+      "codepoint": 62627,
+      "source": "svg/skull-in-jar.svg"
+    },
+    "skull-mask": {
+      "codepoint": 62628,
+      "source": "svg/skull-mask.svg"
+    },
+    "skull-ring": {
+      "codepoint": 62629,
+      "source": "svg/skull-ring.svg"
+    },
+    "skull-shield": {
+      "codepoint": 62630,
+      "source": "svg/skull-shield.svg"
+    },
+    "skull-signet": {
+      "codepoint": 62631,
+      "source": "svg/skull-signet.svg"
+    },
+    "slap": {
+      "codepoint": 62632,
+      "source": "svg/slap.svg"
+    },
+    "slashed-shield": {
+      "codepoint": 62633,
+      "source": "svg/slashed-shield.svg"
+    },
+    "slavery-whip": {
+      "codepoint": 62634,
+      "source": "svg/slavery-whip.svg"
+    },
+    "sleepy": {
+      "codepoint": 62635,
+      "source": "svg/sleepy.svg"
+    },
+    "sliced-bread": {
+      "codepoint": 62636,
+      "source": "svg/sliced-bread.svg"
+    },
+    "slow-blob": {
+      "codepoint": 62637,
+      "source": "svg/slow-blob.svg"
+    },
+    "sly": {
+      "codepoint": 62638,
+      "source": "svg/sly.svg"
+    },
+    "smitten": {
+      "codepoint": 62639,
+      "source": "svg/smitten.svg"
+    },
+    "smoking-finger": {
+      "codepoint": 62640,
+      "source": "svg/smoking-finger.svg"
+    },
+    "snail": {
+      "codepoint": 62641,
+      "source": "svg/snail.svg"
+    },
+    "snake": {
+      "codepoint": 62642,
+      "source": "svg/snake.svg"
+    },
+    "snake-bite": {
+      "codepoint": 62643,
+      "source": "svg/snake-bite.svg"
+    },
+    "snake-totem": {
+      "codepoint": 62644,
+      "source": "svg/snake-totem.svg"
+    },
+    "snatch": {
+      "codepoint": 62645,
+      "source": "svg/snatch.svg"
+    },
+    "snorkel": {
+      "codepoint": 62646,
+      "source": "svg/snorkel.svg"
+    },
+    "snow-bottle": {
+      "codepoint": 62647,
+      "source": "svg/snow-bottle.svg"
+    },
+    "snowflake-1": {
+      "codepoint": 62648,
+      "source": "svg/snowflake-1.svg"
+    },
+    "snowflake-2": {
+      "codepoint": 62649,
+      "source": "svg/snowflake-2.svg"
+    },
+    "snowing": {
+      "codepoint": 62650,
+      "source": "svg/snowing.svg"
+    },
+    "snowman": {
+      "codepoint": 62651,
+      "source": "svg/snowman.svg"
+    },
+    "soccer-ball": {
+      "codepoint": 62652,
+      "source": "svg/soccer-ball.svg"
+    },
+    "sonic-boom": {
+      "codepoint": 62653,
+      "source": "svg/sonic-boom.svg"
+    },
+    "sonic-screech": {
+      "codepoint": 62654,
+      "source": "svg/sonic-screech.svg"
+    },
+    "sonic-shout": {
+      "codepoint": 62655,
+      "source": "svg/sonic-shout.svg"
+    },
+    "space-suit": {
+      "codepoint": 62656,
+      "source": "svg/space-suit.svg"
+    },
+    "spade": {
+      "codepoint": 62657,
+      "source": "svg/spade.svg"
+    },
+    "spade-skull": {
+      "codepoint": 62658,
+      "source": "svg/spade-skull.svg"
+    },
+    "spanner": {
+      "codepoint": 62659,
+      "source": "svg/spanner.svg"
+    },
+    "sparkling-sabre": {
+      "codepoint": 62660,
+      "source": "svg/sparkling-sabre.svg"
+    },
+    "sparky-bomb": {
+      "codepoint": 62661,
+      "source": "svg/sparky-bomb.svg"
+    },
+    "sparrow": {
+      "codepoint": 62662,
+      "source": "svg/sparrow.svg"
+    },
+    "spartan": {
+      "codepoint": 62663,
+      "source": "svg/spartan.svg"
+    },
+    "spatter": {
+      "codepoint": 62664,
+      "source": "svg/spatter.svg"
+    },
+    "spawn-node": {
+      "codepoint": 62665,
+      "source": "svg/spawn-node.svg"
+    },
+    "spears": {
+      "codepoint": 62666,
+      "source": "svg/spears.svg"
+    },
+    "spectacle-lenses": {
+      "codepoint": 62667,
+      "source": "svg/spectacle-lenses.svg"
+    },
+    "spectacles": {
+      "codepoint": 62668,
+      "source": "svg/spectacles.svg"
+    },
+    "spectre": {
+      "codepoint": 62669,
+      "source": "svg/spectre.svg"
+    },
+    "spider-alt": {
+      "codepoint": 62670,
+      "source": "svg/spider-alt.svg"
+    },
+    "spider-face": {
+      "codepoint": 62671,
+      "source": "svg/spider-face.svg"
+    },
+    "spikeball": {
+      "codepoint": 62672,
+      "source": "svg/spikeball.svg"
+    },
+    "spiked-armor": {
+      "codepoint": 62673,
+      "source": "svg/spiked-armor.svg"
+    },
+    "spiked-collar": {
+      "codepoint": 62674,
+      "source": "svg/spiked-collar.svg"
+    },
+    "spiked-fence": {
+      "codepoint": 62675,
+      "source": "svg/spiked-fence.svg"
+    },
+    "spiked-mace": {
+      "codepoint": 62676,
+      "source": "svg/spiked-mace.svg"
+    },
+    "spiked-shell": {
+      "codepoint": 62677,
+      "source": "svg/spiked-shell.svg"
+    },
+    "spiked-snail": {
+      "codepoint": 62678,
+      "source": "svg/spiked-snail.svg"
+    },
+    "spiked-tentacle": {
+      "codepoint": 62679,
+      "source": "svg/spiked-tentacle.svg"
+    },
+    "spikes": {
+      "codepoint": 62680,
+      "source": "svg/spikes.svg"
+    },
+    "spikes-full": {
+      "codepoint": 62681,
+      "source": "svg/spikes-full.svg"
+    },
+    "spikes-half": {
+      "codepoint": 62682,
+      "source": "svg/spikes-half.svg"
+    },
+    "spikes-init": {
+      "codepoint": 62683,
+      "source": "svg/spikes-init.svg"
+    },
+    "spill": {
+      "codepoint": 62684,
+      "source": "svg/spill.svg"
+    },
+    "spinal-coil": {
+      "codepoint": 62685,
+      "source": "svg/spinal-coil.svg"
+    },
+    "spinning-blades": {
+      "codepoint": 62686,
+      "source": "svg/spinning-blades.svg"
+    },
+    "spinning-sword": {
+      "codepoint": 62687,
+      "source": "svg/spinning-sword.svg"
+    },
+    "spiral-arrow": {
+      "codepoint": 62688,
+      "source": "svg/spiral-arrow.svg"
+    },
+    "spiral-bloom": {
+      "codepoint": 62689,
+      "source": "svg/spiral-bloom.svg"
+    },
+    "spiral-bottle": {
+      "codepoint": 62690,
+      "source": "svg/spiral-bottle.svg"
+    },
+    "spiral-shell": {
+      "codepoint": 62691,
+      "source": "svg/spiral-shell.svg"
+    },
+    "spiral-thrust": {
+      "codepoint": 62692,
+      "source": "svg/spiral-thrust.svg"
+    },
+    "splash": {
+      "codepoint": 62693,
+      "source": "svg/splash.svg"
+    },
+    "split-body": {
+      "codepoint": 62694,
+      "source": "svg/split-body.svg"
+    },
+    "split-cross": {
+      "codepoint": 62695,
+      "source": "svg/split-cross.svg"
+    },
+    "splurt": {
+      "codepoint": 62696,
+      "source": "svg/splurt.svg"
+    },
+    "spoon": {
+      "codepoint": 62697,
+      "source": "svg/spoon.svg"
+    },
+    "spoted-flower": {
+      "codepoint": 62698,
+      "source": "svg/spoted-flower.svg"
+    },
+    "spotted-mushroom": {
+      "codepoint": 62699,
+      "source": "svg/spotted-mushroom.svg"
+    },
+    "spotted-wound": {
+      "codepoint": 62700,
+      "source": "svg/spotted-wound.svg"
+    },
+    "spoutnik": {
+      "codepoint": 62701,
+      "source": "svg/spoutnik.svg"
+    },
+    "spray": {
+      "codepoint": 62702,
+      "source": "svg/spray.svg"
+    },
+    "sprint": {
+      "codepoint": 62703,
+      "source": "svg/sprint.svg"
+    },
+    "sprout": {
+      "codepoint": 62704,
+      "source": "svg/sprout.svg"
+    },
+    "sprout-disc": {
+      "codepoint": 62705,
+      "source": "svg/sprout-disc.svg"
+    },
+    "spyglass": {
+      "codepoint": 62706,
+      "source": "svg/spyglass.svg"
+    },
+    "square-bottle": {
+      "codepoint": 62707,
+      "source": "svg/square-bottle.svg"
+    },
+    "squid": {
+      "codepoint": 62708,
+      "source": "svg/squid.svg"
+    },
+    "squid-head": {
+      "codepoint": 62709,
+      "source": "svg/squid-head.svg"
+    },
+    "stag-head": {
+      "codepoint": 62710,
+      "source": "svg/stag-head.svg"
+    },
+    "stalagtite": {
+      "codepoint": 62711,
+      "source": "svg/stalagtite.svg"
+    },
+    "star-prominences": {
+      "codepoint": 62712,
+      "source": "svg/star-prominences.svg"
+    },
+    "star-pupil": {
+      "codepoint": 62713,
+      "source": "svg/star-pupil.svg"
+    },
+    "star-swirl": {
+      "codepoint": 62714,
+      "source": "svg/star-swirl.svg"
+    },
+    "staryu": {
+      "codepoint": 62715,
+      "source": "svg/staryu.svg"
+    },
+    "static": {
+      "codepoint": 62716,
+      "source": "svg/static.svg"
+    },
+    "steel-claws": {
+      "codepoint": 62717,
+      "source": "svg/steel-claws.svg"
+    },
+    "steeltoe-boots": {
+      "codepoint": 62718,
+      "source": "svg/steeltoe-boots.svg"
+    },
+    "steelwing-emblem": {
+      "codepoint": 62719,
+      "source": "svg/steelwing-emblem.svg"
+    },
+    "stick-splitting": {
+      "codepoint": 62720,
+      "source": "svg/stick-splitting.svg"
+    },
+    "sticking-plaster": {
+      "codepoint": 62721,
+      "source": "svg/sticking-plaster.svg"
+    },
+    "stigmata": {
+      "codepoint": 62722,
+      "source": "svg/stigmata.svg"
+    },
+    "stiletto": {
+      "codepoint": 62723,
+      "source": "svg/stiletto.svg"
+    },
+    "stitched-wound": {
+      "codepoint": 62724,
+      "source": "svg/stitched-wound.svg"
+    },
+    "stomp": {
+      "codepoint": 62725,
+      "source": "svg/stomp.svg"
+    },
+    "stone-axe": {
+      "codepoint": 62726,
+      "source": "svg/stone-axe.svg"
+    },
+    "stone-block": {
+      "codepoint": 62727,
+      "source": "svg/stone-block.svg"
+    },
+    "stone-crafting": {
+      "codepoint": 62728,
+      "source": "svg/stone-crafting.svg"
+    },
+    "stone-spear": {
+      "codepoint": 62729,
+      "source": "svg/stone-spear.svg"
+    },
+    "stone-sphere": {
+      "codepoint": 62730,
+      "source": "svg/stone-sphere.svg"
+    },
+    "stone-tablet": {
+      "codepoint": 62731,
+      "source": "svg/stone-tablet.svg"
+    },
+    "stone-throne": {
+      "codepoint": 62732,
+      "source": "svg/stone-throne.svg"
+    },
+    "stone-tower": {
+      "codepoint": 62733,
+      "source": "svg/stone-tower.svg"
+    },
+    "stopwatch": {
+      "codepoint": 62734,
+      "source": "svg/stopwatch.svg"
+    },
+    "strafe": {
+      "codepoint": 62735,
+      "source": "svg/strafe.svg"
+    },
+    "striking-balls": {
+      "codepoint": 62736,
+      "source": "svg/striking-balls.svg"
+    },
+    "striking-diamonds": {
+      "codepoint": 62737,
+      "source": "svg/striking-diamonds.svg"
+    },
+    "strong": {
+      "codepoint": 62738,
+      "source": "svg/strong.svg"
+    },
+    "suckered-tentacle": {
+      "codepoint": 62739,
+      "source": "svg/suckered-tentacle.svg"
+    },
+    "suicide": {
+      "codepoint": 62740,
+      "source": "svg/suicide.svg"
+    },
+    "suits": {
+      "codepoint": 62741,
+      "source": "svg/suits.svg"
+    },
+    "sun": {
+      "codepoint": 62742,
+      "source": "svg/sun.svg"
+    },
+    "sunbeams": {
+      "codepoint": 62743,
+      "source": "svg/sunbeams.svg"
+    },
+    "sundial": {
+      "codepoint": 62744,
+      "source": "svg/sundial.svg"
+    },
+    "sunken-eye": {
+      "codepoint": 62745,
+      "source": "svg/sunken-eye.svg"
+    },
+    "sunrise": {
+      "codepoint": 62746,
+      "source": "svg/sunrise.svg"
+    },
+    "super-mushroom": {
+      "codepoint": 62747,
+      "source": "svg/super-mushroom.svg"
+    },
+    "supersonic-arrow": {
+      "codepoint": 62748,
+      "source": "svg/supersonic-arrow.svg"
+    },
+    "supersonic-bullet": {
+      "codepoint": 62749,
+      "source": "svg/supersonic-bullet.svg"
+    },
+    "surprised": {
+      "codepoint": 62750,
+      "source": "svg/surprised.svg"
+    },
+    "surprised-skull": {
+      "codepoint": 62751,
+      "source": "svg/surprised-skull.svg"
+    },
+    "swallow": {
+      "codepoint": 62752,
+      "source": "svg/swallow.svg"
+    },
+    "swan": {
+      "codepoint": 62753,
+      "source": "svg/swan.svg"
+    },
+    "swap-bag": {
+      "codepoint": 62754,
+      "source": "svg/swap-bag.svg"
+    },
+    "sword-array": {
+      "codepoint": 62755,
+      "source": "svg/sword-array.svg"
+    },
+    "sword-break": {
+      "codepoint": 62756,
+      "source": "svg/sword-break.svg"
+    },
+    "sword-clash": {
+      "codepoint": 62757,
+      "source": "svg/sword-clash.svg"
+    },
+    "sword-hilt": {
+      "codepoint": 62758,
+      "source": "svg/sword-hilt.svg"
+    },
+    "sword-in-stone": {
+      "codepoint": 62759,
+      "source": "svg/sword-in-stone.svg"
+    },
+    "sword-slice": {
+      "codepoint": 62760,
+      "source": "svg/sword-slice.svg"
+    },
+    "sword-smithing": {
+      "codepoint": 62761,
+      "source": "svg/sword-smithing.svg"
+    },
+    "sword-spade": {
+      "codepoint": 62762,
+      "source": "svg/sword-spade.svg"
+    },
+    "sword-spin": {
+      "codepoint": 62763,
+      "source": "svg/sword-spin.svg"
+    },
+    "syringe": {
+      "codepoint": 62764,
+      "source": "svg/syringe.svg"
+    },
+    "tank": {
+      "codepoint": 62765,
+      "source": "svg/tank.svg"
+    },
+    "target-arrows": {
+      "codepoint": 62766,
+      "source": "svg/target-arrows.svg"
+    },
+    "target-dummy": {
+      "codepoint": 62767,
+      "source": "svg/target-dummy.svg"
+    },
+    "target-laser": {
+      "codepoint": 62768,
+      "source": "svg/target-laser.svg"
+    },
+    "target-shot": {
+      "codepoint": 62769,
+      "source": "svg/target-shot.svg"
+    },
+    "targeted": {
+      "codepoint": 62770,
+      "source": "svg/targeted.svg"
+    },
+    "targeting": {
+      "codepoint": 62771,
+      "source": "svg/targeting.svg"
+    },
+    "tattered-banner": {
+      "codepoint": 62772,
+      "source": "svg/tattered-banner.svg"
+    },
+    "taurus": {
+      "codepoint": 62773,
+      "source": "svg/taurus.svg"
+    },
+    "teapot": {
+      "codepoint": 62774,
+      "source": "svg/teapot.svg"
+    },
+    "tear-tracks": {
+      "codepoint": 62775,
+      "source": "svg/tear-tracks.svg"
+    },
+    "techno-heart": {
+      "codepoint": 62776,
+      "source": "svg/techno-heart.svg"
+    },
+    "telefrag": {
+      "codepoint": 62777,
+      "source": "svg/telefrag.svg"
+    },
+    "telepathy": {
+      "codepoint": 62778,
+      "source": "svg/telepathy.svg"
+    },
+    "teleport": {
+      "codepoint": 62779,
+      "source": "svg/teleport.svg"
+    },
+    "templar-heart": {
+      "codepoint": 62780,
+      "source": "svg/templar-heart.svg"
+    },
+    "temptation": {
+      "codepoint": 62781,
+      "source": "svg/temptation.svg"
+    },
+    "tennis-ball": {
+      "codepoint": 62782,
+      "source": "svg/tennis-ball.svg"
+    },
+    "tentacle-strike": {
+      "codepoint": 62783,
+      "source": "svg/tentacle-strike.svg"
+    },
+    "tentacurl": {
+      "codepoint": 62784,
+      "source": "svg/tentacurl.svg"
+    },
+    "terror": {
+      "codepoint": 62785,
+      "source": "svg/terror.svg"
+    },
+    "tesla": {
+      "codepoint": 62786,
+      "source": "svg/tesla.svg"
+    },
+    "tesla-coil": {
+      "codepoint": 62787,
+      "source": "svg/tesla-coil.svg"
+    },
+    "tesla-turret": {
+      "codepoint": 62788,
+      "source": "svg/tesla-turret.svg"
+    },
+    "test-tubes": {
+      "codepoint": 62789,
+      "source": "svg/test-tubes.svg"
+    },
+    "thermometer-scale": {
+      "codepoint": 62790,
+      "source": "svg/thermometer-scale.svg"
+    },
+    "third-eye": {
+      "codepoint": 62791,
+      "source": "svg/third-eye.svg"
+    },
+    "thor-fist": {
+      "codepoint": 62792,
+      "source": "svg/thor-fist.svg"
+    },
+    "thorn-helix": {
+      "codepoint": 62793,
+      "source": "svg/thorn-helix.svg"
+    },
+    "thorned-arrow": {
+      "codepoint": 62794,
+      "source": "svg/thorned-arrow.svg"
+    },
+    "thorny-vine": {
+      "codepoint": 62795,
+      "source": "svg/thorny-vine.svg"
+    },
+    "three-keys": {
+      "codepoint": 62796,
+      "source": "svg/three-keys.svg"
+    },
+    "three-leaves": {
+      "codepoint": 62797,
+      "source": "svg/three-leaves.svg"
+    },
+    "thrown-charcoal": {
+      "codepoint": 62798,
+      "source": "svg/thrown-charcoal.svg"
+    },
+    "thrown-daggers": {
+      "codepoint": 62799,
+      "source": "svg/thrown-daggers.svg"
+    },
+    "thrown-knife": {
+      "codepoint": 62800,
+      "source": "svg/thrown-knife.svg"
+    },
+    "thrown-spear": {
+      "codepoint": 62801,
+      "source": "svg/thrown-spear.svg"
+    },
+    "thrust": {
+      "codepoint": 62802,
+      "source": "svg/thrust.svg"
+    },
+    "thunder-struck": {
+      "codepoint": 62803,
+      "source": "svg/thunder-struck.svg"
+    },
+    "thunderball": {
+      "codepoint": 62804,
+      "source": "svg/thunderball.svg"
+    },
+    "tic-tac-toe": {
+      "codepoint": 62805,
+      "source": "svg/tic-tac-toe.svg"
+    },
+    "tick": {
+      "codepoint": 62806,
+      "source": "svg/tick.svg"
+    },
+    "tied-scroll": {
+      "codepoint": 62807,
+      "source": "svg/tied-scroll.svg"
+    },
+    "time-bomb": {
+      "codepoint": 62808,
+      "source": "svg/time-bomb.svg"
+    },
+    "time-trap": {
+      "codepoint": 62809,
+      "source": "svg/time-trap.svg"
+    },
+    "tinker": {
+      "codepoint": 62810,
+      "source": "svg/tinker.svg"
+    },
+    "toad-teeth": {
+      "codepoint": 62811,
+      "source": "svg/toad-teeth.svg"
+    },
+    "tombstone": {
+      "codepoint": 62812,
+      "source": "svg/tombstone.svg"
+    },
+    "tooth": {
+      "codepoint": 62813,
+      "source": "svg/tooth.svg"
+    },
+    "top-hat": {
+      "codepoint": 62814,
+      "source": "svg/top-hat.svg"
+    },
+    "top-paw": {
+      "codepoint": 62815,
+      "source": "svg/top-paw.svg"
+    },
+    "torch": {
+      "codepoint": 62816,
+      "source": "svg/torch.svg"
+    },
+    "tornado": {
+      "codepoint": 62817,
+      "source": "svg/tornado.svg"
+    },
+    "totem-head": {
+      "codepoint": 62818,
+      "source": "svg/totem-head.svg"
+    },
+    "tower-fall": {
+      "codepoint": 62819,
+      "source": "svg/tower-fall.svg"
+    },
+    "trade": {
+      "codepoint": 62820,
+      "source": "svg/trade.svg"
+    },
+    "trample": {
+      "codepoint": 62821,
+      "source": "svg/trample.svg"
+    },
+    "transfuse": {
+      "codepoint": 62822,
+      "source": "svg/transfuse.svg"
+    },
+    "transportation-rings": {
+      "codepoint": 62823,
+      "source": "svg/transportation-rings.svg"
+    },
+    "tread": {
+      "codepoint": 62824,
+      "source": "svg/tread.svg"
+    },
+    "treasure-map": {
+      "codepoint": 62825,
+      "source": "svg/treasure-map.svg"
+    },
+    "tree-branch": {
+      "codepoint": 62826,
+      "source": "svg/tree-branch.svg"
+    },
+    "trefoil-lily": {
+      "codepoint": 62827,
+      "source": "svg/trefoil-lily.svg"
+    },
+    "trefoil-shuriken": {
+      "codepoint": 62828,
+      "source": "svg/trefoil-shuriken.svg"
+    },
+    "tribal-mask": {
+      "codepoint": 62829,
+      "source": "svg/tribal-mask.svg"
+    },
+    "trident": {
+      "codepoint": 62830,
+      "source": "svg/trident.svg"
+    },
+    "trigger-hurt": {
+      "codepoint": 62831,
+      "source": "svg/trigger-hurt.svg"
+    },
+    "trilobite": {
+      "codepoint": 62832,
+      "source": "svg/trilobite.svg"
+    },
+    "triorb": {
+      "codepoint": 62833,
+      "source": "svg/triorb.svg"
+    },
+    "triple-claws": {
+      "codepoint": 62834,
+      "source": "svg/triple-claws.svg"
+    },
+    "triple-needle": {
+      "codepoint": 62835,
+      "source": "svg/triple-needle.svg"
+    },
+    "triple-skulls": {
+      "codepoint": 62836,
+      "source": "svg/triple-skulls.svg"
+    },
+    "tripwire": {
+      "codepoint": 62837,
+      "source": "svg/tripwire.svg"
+    },
+    "tron-arrow": {
+      "codepoint": 62838,
+      "source": "svg/tron-arrow.svg"
+    },
+    "trophy": {
+      "codepoint": 62839,
+      "source": "svg/trophy.svg"
+    },
+    "trousers": {
+      "codepoint": 62840,
+      "source": "svg/trousers.svg"
+    },
+    "turd": {
+      "codepoint": 62841,
+      "source": "svg/turd.svg"
+    },
+    "turret": {
+      "codepoint": 62842,
+      "source": "svg/turret.svg"
+    },
+    "turtle": {
+      "codepoint": 62843,
+      "source": "svg/turtle.svg"
+    },
+    "turtle-shell": {
+      "codepoint": 62844,
+      "source": "svg/turtle-shell.svg"
+    },
+    "twirly-flower": {
+      "codepoint": 62845,
+      "source": "svg/twirly-flower.svg"
+    },
+    "twister": {
+      "codepoint": 62846,
+      "source": "svg/twister.svg"
+    },
+    "two-feathers": {
+      "codepoint": 62847,
+      "source": "svg/two-feathers.svg"
+    },
+    "two-shadows": {
+      "codepoint": 62848,
+      "source": "svg/two-shadows.svg"
+    },
+    "tyre": {
+      "codepoint": 62849,
+      "source": "svg/tyre.svg"
+    },
+    "ubisoft-sun": {
+      "codepoint": 62850,
+      "source": "svg/ubisoft-sun.svg"
+    },
+    "udder": {
+      "codepoint": 62851,
+      "source": "svg/udder.svg"
+    },
+    "ultrasound": {
+      "codepoint": 62852,
+      "source": "svg/ultrasound.svg"
+    },
+    "umbrella": {
+      "codepoint": 62853,
+      "source": "svg/umbrella.svg"
+    },
+    "uncertainty": {
+      "codepoint": 62854,
+      "source": "svg/uncertainty.svg"
+    },
+    "underhand": {
+      "codepoint": 62855,
+      "source": "svg/underhand.svg"
+    },
+    "unfriendly-fire": {
+      "codepoint": 62856,
+      "source": "svg/unfriendly-fire.svg"
+    },
+    "unlit-bomb": {
+      "codepoint": 62857,
+      "source": "svg/unlit-bomb.svg"
+    },
+    "unlit-candelabra": {
+      "codepoint": 62858,
+      "source": "svg/unlit-candelabra.svg"
+    },
+    "unplugged": {
+      "codepoint": 62859,
+      "source": "svg/unplugged.svg"
+    },
+    "unstable-projectile": {
+      "codepoint": 62860,
+      "source": "svg/unstable-projectile.svg"
+    },
+    "usable": {
+      "codepoint": 62861,
+      "source": "svg/usable.svg"
+    },
+    "valley": {
+      "codepoint": 62862,
+      "source": "svg/valley.svg"
+    },
+    "vanilla-flower": {
+      "codepoint": 62863,
+      "source": "svg/vanilla-flower.svg"
+    },
+    "vial": {
+      "codepoint": 62864,
+      "source": "svg/vial.svg"
+    },
+    "vile-fluid": {
+      "codepoint": 62865,
+      "source": "svg/vile-fluid.svg"
+    },
+    "vine-flower": {
+      "codepoint": 62866,
+      "source": "svg/vine-flower.svg"
+    },
+    "vine-leaf": {
+      "codepoint": 62867,
+      "source": "svg/vine-leaf.svg"
+    },
+    "vine-whip": {
+      "codepoint": 62868,
+      "source": "svg/vine-whip.svg"
+    },
+    "vintage-robot": {
+      "codepoint": 62869,
+      "source": "svg/vintage-robot.svg"
+    },
+    "viola": {
+      "codepoint": 62870,
+      "source": "svg/viola.svg"
+    },
+    "virgo": {
+      "codepoint": 62871,
+      "source": "svg/virgo.svg"
+    },
+    "virus": {
+      "codepoint": 62872,
+      "source": "svg/virus.svg"
+    },
+    "visored-helm": {
+      "codepoint": 62873,
+      "source": "svg/visored-helm.svg"
+    },
+    "volcano": {
+      "codepoint": 62874,
+      "source": "svg/volcano.svg"
+    },
+    "vomiting": {
+      "codepoint": 62875,
+      "source": "svg/vomiting.svg"
+    },
+    "voodoo-doll": {
+      "codepoint": 62876,
+      "source": "svg/voodoo-doll.svg"
+    },
+    "vortex": {
+      "codepoint": 62877,
+      "source": "svg/vortex.svg"
+    },
+    "vulture": {
+      "codepoint": 62878,
+      "source": "svg/vulture.svg"
+    },
+    "walking-boot": {
+      "codepoint": 62879,
+      "source": "svg/walking-boot.svg"
+    },
+    "wasp-sting": {
+      "codepoint": 62880,
+      "source": "svg/wasp-sting.svg"
+    },
+    "water-bolt": {
+      "codepoint": 62881,
+      "source": "svg/water-bolt.svg"
+    },
+    "water-drop": {
+      "codepoint": 62882,
+      "source": "svg/water-drop.svg"
+    },
+    "water-splash": {
+      "codepoint": 62883,
+      "source": "svg/water-splash.svg"
+    },
+    "wave-crest": {
+      "codepoint": 62884,
+      "source": "svg/wave-crest.svg"
+    },
+    "wave-strike": {
+      "codepoint": 62885,
+      "source": "svg/wave-strike.svg"
+    },
+    "wavy-chains": {
+      "codepoint": 62886,
+      "source": "svg/wavy-chains.svg"
+    },
+    "wavy-itinerary": {
+      "codepoint": 62887,
+      "source": "svg/wavy-itinerary.svg"
+    },
+    "wax-seal": {
+      "codepoint": 62888,
+      "source": "svg/wax-seal.svg"
+    },
+    "web-spit": {
+      "codepoint": 62889,
+      "source": "svg/web-spit.svg"
+    },
+    "weight-crush": {
+      "codepoint": 62890,
+      "source": "svg/weight-crush.svg"
+    },
+    "wheat": {
+      "codepoint": 62891,
+      "source": "svg/wheat.svg"
+    },
+    "whip": {
+      "codepoint": 62892,
+      "source": "svg/whip.svg"
+    },
+    "whiplash": {
+      "codepoint": 62893,
+      "source": "svg/whiplash.svg"
+    },
+    "whirlwind": {
+      "codepoint": 62894,
+      "source": "svg/whirlwind.svg"
+    },
+    "white-cat": {
+      "codepoint": 62895,
+      "source": "svg/white-cat.svg"
+    },
+    "white-tower": {
+      "codepoint": 62896,
+      "source": "svg/white-tower.svg"
+    },
+    "wildfires": {
+      "codepoint": 62897,
+      "source": "svg/wildfires.svg"
+    },
+    "william-tell": {
+      "codepoint": 62898,
+      "source": "svg/william-tell.svg"
+    },
+    "wine-glass": {
+      "codepoint": 62899,
+      "source": "svg/wine-glass.svg"
+    },
+    "wing-cloak": {
+      "codepoint": 62900,
+      "source": "svg/wing-cloak.svg"
+    },
+    "winged-arrow": {
+      "codepoint": 62901,
+      "source": "svg/winged-arrow.svg"
+    },
+    "winged-emblem": {
+      "codepoint": 62902,
+      "source": "svg/winged-emblem.svg"
+    },
+    "winged-shield": {
+      "codepoint": 62903,
+      "source": "svg/winged-shield.svg"
+    },
+    "winged-sword": {
+      "codepoint": 62904,
+      "source": "svg/winged-sword.svg"
+    },
+    "wingfoot": {
+      "codepoint": 62905,
+      "source": "svg/wingfoot.svg"
+    },
+    "witch-flight": {
+      "codepoint": 62906,
+      "source": "svg/witch-flight.svg"
+    },
+    "wizard-staff": {
+      "codepoint": 62907,
+      "source": "svg/wizard-staff.svg"
+    },
+    "wolf-head": {
+      "codepoint": 62908,
+      "source": "svg/wolf-head.svg"
+    },
+    "wolf-howl": {
+      "codepoint": 62909,
+      "source": "svg/wolf-howl.svg"
+    },
+    "wolf-trap": {
+      "codepoint": 62910,
+      "source": "svg/wolf-trap.svg"
+    },
+    "wolverine-claws": {
+      "codepoint": 62911,
+      "source": "svg/wolverine-claws.svg"
+    },
+    "wood-axe": {
+      "codepoint": 62912,
+      "source": "svg/wood-axe.svg"
+    },
+    "wooden-door": {
+      "codepoint": 62913,
+      "source": "svg/wooden-door.svg"
+    },
+    "wooden-sign": {
+      "codepoint": 62914,
+      "source": "svg/wooden-sign.svg"
+    },
+    "world": {
+      "codepoint": 62915,
+      "source": "svg/world.svg"
+    },
+    "worm-mouth": {
+      "codepoint": 62916,
+      "source": "svg/worm-mouth.svg"
+    },
+    "worried-eyes": {
+      "codepoint": 62917,
+      "source": "svg/worried-eyes.svg"
+    },
+    "wrapped-heart": {
+      "codepoint": 62918,
+      "source": "svg/wrapped-heart.svg"
+    },
+    "wrapped-sweet": {
+      "codepoint": 62919,
+      "source": "svg/wrapped-sweet.svg"
+    },
+    "wrecking-ball": {
+      "codepoint": 62920,
+      "source": "svg/wrecking-ball.svg"
+    },
+    "wrench": {
+      "codepoint": 62921,
+      "source": "svg/wrench.svg"
+    },
+    "wyvern": {
+      "codepoint": 62922,
+      "source": "svg/wyvern.svg"
+    },
+    "zigzag-leaf": {
+      "codepoint": 62923,
+      "source": "svg/zigzag-leaf.svg"
+    },
+    "zigzag-tune": {
+      "codepoint": 62924,
+      "source": "svg/zigzag-tune.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".gf-{{glyph}}",
+    "debug": false,
+    "font_name": "gamefont",
+    "force": false,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "stylesheets",
+      "fonts": "fonts",
+      "preview": "styleguide"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "templates": [
+      "scss",
+      "preview"
+    ]
+  },
+  "templates": [
+    "stylesheets/_gamefont.scss",
+    "styleguide/gamefont-preview.html"
+  ]
+}
